@@ -146,7 +146,7 @@ let AllBeacons = materialize (
             duration_seconds
         // calculate MADM, smallness(sentbytes) and connection count score
         | extend tsMadmScore  = iif((1.0 - toreal(tsMadm) / MaxJitterInseconds) < 0, 0.0, 1.0 - toreal(tsMadm) / MaxJitterInseconds)
-        | extend tsConnCountScore = iif(toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 10.0) > 1.0, 1.0, toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 10.0))
+        | extend tsConnCountScore = iif(toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 90.0) > 1.0, 1.0, toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 90.0))
         // calculate sum of the scores(timedelta and sentbytes)
         | extend tsSum = tsSkewScore + tsMadmScore + tsConnCountScore
         // calculate timedelta, sentbytes and the overall score.
@@ -288,7 +288,7 @@ let AllBeacons = materialize (
             duration_seconds
         // calculate MADM, smallness(sentbytes) and connection count score
         | extend tsMadmScore  = iif((1.0 - toreal(tsMadm) / MaxJitterInseconds) < 0, 0.0, 1.0 - toreal(tsMadm) / MaxJitterInseconds)
-        | extend tsConnCountScore = iif(toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 10.0) > 1.0, 1.0, toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 10.0))
+        | extend tsConnCountScore = iif(toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 90.0) > 1.0, 1.0, toreal(array_length(TimeDeltaList)) / (toreal(duration_seconds) / 90.0))
         // calculate sum of the scores(timedelta and sentbytes)
         | extend tsSum = tsSkewScore + tsMadmScore + tsConnCountScore
         // calculate timedelta, sentbytes and the overall score.
