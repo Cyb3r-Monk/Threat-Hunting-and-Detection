@@ -37,7 +37,7 @@ The query doesn't ouput all the raw events because of the logic implementation. 
 // Query parameters:
 //
 union DeviceProcessEvents, DeviceEvents, DeviceNetworkEvents
-| where Timestamp > ago(60m) and Timestamp < ago(1m)
+| where Timestamp > ago(60m)
 | extend PipeName_ = tostring(todynamic(AdditionalFields).PipeName)
 | extend Action = case(
     (ActionType=="ConnectionSuccess" and RemotePort in (389, 636)), 'ConnectToDC', 
@@ -51,7 +51,7 @@ union DeviceProcessEvents, DeviceEvents, DeviceNetworkEvents
 | project-rename ActivityTimestamp = Timestamp
 | join kind=inner (
     DeviceProcessEvents
-    | where Timestamp > ago(60m) and Timestamp < ago(1m)
+    | where Timestamp > ago(60m)
     | where ActionType=="ProcessCreated" and InitiatingProcessCommandLine == "svchost.exe -k DcomLaunch -p"
     ) on DeviceId
     | where abs(datetime_diff('second', Timestamp, ActivityTimestamp)) <=20
@@ -62,7 +62,7 @@ union DeviceProcessEvents, DeviceEvents, DeviceNetworkEvents
 
 ```C#
 union DeviceProcessEvents, DeviceEvents, DeviceNetworkEvents
-| where Timestamp > ago(60m) and Timestamp < ago(1m)
+| where Timestamp > ago(60m)
 | extend PipeName_ = tostring(todynamic(AdditionalFields).PipeName)
 | where 
     (ActionType=="ConnectionSuccess" and RemotePort in (389, 636)) or 
