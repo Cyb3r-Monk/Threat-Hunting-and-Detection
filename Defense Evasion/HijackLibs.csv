@@ -1,0 +1,3208 @@
+Name,ExpectedLocations,VulnerableExecutablePath
+commfunc.dll,%programfiles%\lenovo\communications utility,cammute.exe
+log.dll,%programfiles%\bitdefender antivirus free,%programfiles%\bitdefender antivirus free\bdreinit.exe
+utiluniclient.dll,,%programfiles%\trend micro\amsp\coreserviceshell.exe
+tmtap.dll,,%programfiles%\trend micro\passwordmanager\pwmsvc.exe
+chrome_frame_helper.dll,%localappdata%\google\chrome\application,chrome_frame_helper.exe
+chrome_frame_helper.dll,%programfiles%\google\chrome\application,chrome_frame_helper.exe
+tosbtkbd.dll,%programfiles%\toshiba\bluetooth toshiba stack,%programfiles%\toshiba\bluetooth toshiba stack\tosbtkbd.exe
+lockdown.dll,%programfiles%\mcafee\virusscan enterprise,mfeann.exe
+vsodscpl.dll,%programfiles%\mcafee\virusscan enterprise,scncfg32.exe
+ashldres.dll,%programfiles%\mcafee.com\vso,mcvsshld.exe
+version.dll,%appdata%\zoom\bin,%appdata%\zoom\bin\zoom.exe
+qrt.dll,%programfiles%\f-secure\anti-virus,qrtfix.exe
+providers.dll,,%programfiles%\nodejs\node.exe
+shfolder.dll,%system32%,%system32%\vmnat.exe
+shfolder.dll,%syswow64%,%system32%\vmnat.exe
+wlbsctrl.dll,,%system32%\svchost.exe
+bderepair.dll,%system32%,%system32%\repair-bde.exe
+msdrm.dll,%system32%,%system32%\gamepanel.exe
+msdrm.dll,%syswow64%,%system32%\gamepanel.exe
+msdrm.dll,%system32%,%system32%\psr.exe
+msdrm.dll,%syswow64%,%system32%\psr.exe
+msdrm.dll,%system32%,%system32%\rmactivate.exe
+msdrm.dll,%syswow64%,%system32%\rmactivate.exe
+msdrm.dll,%system32%,%system32%\rmactivate_isv.exe
+msdrm.dll,%syswow64%,%system32%\rmactivate_isv.exe
+defragproxy.dll,%system32%,%system32%\dfrgui.exe
+defragproxy.dll,%syswow64%,%system32%\dfrgui.exe
+iri.dll,%system32%,%system32%\deviceenroller.exe
+iri.dll,%syswow64%,%system32%\deviceenroller.exe
+iri.dll,%system32%,%system32%\dmcertinst.exe
+iri.dll,%syswow64%,%system32%\dmcertinst.exe
+iri.dll,%system32%,%system32%\dmcfghost.exe
+iri.dll,%syswow64%,%system32%\dmcfghost.exe
+iri.dll,%system32%,%system32%\dmomacpmo.exe
+iri.dll,%syswow64%,%system32%\dmomacpmo.exe
+iri.dll,%system32%,%system32%\hvsievaluator.exe
+iri.dll,%syswow64%,%system32%\hvsievaluator.exe
+iri.dll,%system32%,%system32%\mdmappinstaller.exe
+iri.dll,%syswow64%,%system32%\mdmappinstaller.exe
+iri.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+iri.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+iri.dll,%system32%,%system32%\omadmclient.exe
+iri.dll,%syswow64%,%system32%\omadmclient.exe
+iri.dll,%system32%,%system32%\usocoreworker.exe
+iri.dll,%syswow64%,%system32%\usocoreworker.exe
+mobilenetworking.dll,%system32%,%system32%\netsh.exe
+mobilenetworking.dll,%syswow64%,%system32%\netsh.exe
+scansetting.dll,%system32%,%system32%\wiaacmgr.exe
+scansetting.dll,%syswow64%,%system32%\wiaacmgr.exe
+scansetting.dll,%system32%,%system32%\wiawow64.exe
+scansetting.dll,%syswow64%,%system32%\wiawow64.exe
+dusmapi.dll,%system32%,%system32%\datausagelivetiletask.exe
+dusmapi.dll,%syswow64%,%system32%\datausagelivetiletask.exe
+eappprxy.dll,%system32%,%system32%\netsh.exe
+eappprxy.dll,%syswow64%,%system32%\netsh.exe
+mpr.dll,%system32%,%system32%\filehistory.exe
+mpr.dll,%syswow64%,%system32%\filehistory.exe
+msi.dll,%system32%,%system32%\dxpserver.exe
+msi.dll,%syswow64%,%system32%\dxpserver.exe
+msi.dll,%system32%,%system32%\fondue.exe
+msi.dll,%syswow64%,%system32%\fondue.exe
+msi.dll,%system32%,%system32%\mdmappinstaller.exe
+msi.dll,%syswow64%,%system32%\mdmappinstaller.exe
+msi.dll,%system32%,%system32%\msiexec.exe
+msi.dll,%syswow64%,%system32%\msiexec.exe
+msi.dll,%system32%,%system32%\optionalfeatures.exe
+msi.dll,%syswow64%,%system32%\optionalfeatures.exe
+msi.dll,%system32%,%system32%\packageinspector.exe
+msi.dll,%syswow64%,%system32%\packageinspector.exe
+faultrep.dll,%system32%,%system32%\werfault.exe
+faultrep.dll,%syswow64%,%system32%\werfault.exe
+faultrep.dll,%system32%,%system32%\werfaultsecure.exe
+faultrep.dll,%syswow64%,%system32%\werfaultsecure.exe
+dmenterprisediagnostics.dll,%system32%,%system32%\deviceenroller.exe
+dmenterprisediagnostics.dll,%system32%,%system32%\omadmclient.exe
+d3d10_1.dll,%system32%,%system32%\winsat.exe
+d3d10_1.dll,%syswow64%,%system32%\winsat.exe
+directmanipulation.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+directmanipulation.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+puiapi.dll,%system32%,%system32%\printui.exe
+puiapi.dll,%syswow64%,%system32%\printui.exe
+wofutil.dll,%system32%,%system32%\resetengine.exe
+wofutil.dll,%syswow64%,%system32%\resetengine.exe
+wofutil.dll,%system32%,%system32%\systemreset.exe
+wofutil.dll,%syswow64%,%system32%\systemreset.exe
+rasgcw.dll,%system32%,%system32%\rasphone.exe
+rasgcw.dll,%syswow64%,%system32%\rasphone.exe
+timesync.dll,%system32%,%system32%\systemsettingsadminflows.exe
+polstore.dll,%system32%,%system32%\netsh.exe
+polstore.dll,%syswow64%,%system32%\netsh.exe
+credui.dll,%system32%,%system32%\efsui.exe
+credui.dll,%syswow64%,%system32%\efsui.exe
+credui.dll,%system32%,%system32%\fxssvc.exe
+credui.dll,%syswow64%,%system32%\fxssvc.exe
+credui.dll,%system32%,%system32%\mstsc.exe
+credui.dll,%syswow64%,%system32%\mstsc.exe
+credui.dll,%system32%,%system32%\perfmon.exe
+credui.dll,%syswow64%,%system32%\perfmon.exe
+credui.dll,%system32%,%system32%\rekeywiz.exe
+credui.dll,%syswow64%,%system32%\rekeywiz.exe
+credui.dll,%system32%,%system32%\rpcping.exe
+credui.dll,%syswow64%,%system32%\rpcping.exe
+credui.dll,%system32%,%system32%\systempropertiesadvanced.exe
+credui.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+credui.dll,%system32%,%system32%\taskmgr.exe
+credui.dll,%syswow64%,%system32%\taskmgr.exe
+credui.dll,%system32%,%system32%\wbadmin.exe
+credui.dll,%syswow64%,%system32%\wbadmin.exe
+credui.dll,%system32%,%system32%\wfs.exe
+credui.dll,%syswow64%,%system32%\wfs.exe
+credui.dll,%system32%,%system32%\wkspbroker.exe
+credui.dll,%syswow64%,%system32%\wkspbroker.exe
+credui.dll,%system32%,%system32%\rasphone.exe
+credui.dll,%syswow64%,%system32%\rasphone.exe
+winmm.dll,%system32%,%system32%\winsat.exe
+winmm.dll,%syswow64%,%system32%\winsat.exe
+d2d1.dll,%system32%,%system32%\dataexchangehost.exe
+d2d1.dll,%syswow64%,%system32%\dataexchangehost.exe
+d2d1.dll,%system32%,%system32%\dwm.exe
+d2d1.dll,%syswow64%,%system32%\dwm.exe
+d2d1.dll,%system32%,%system32%\gamepanel.exe
+d2d1.dll,%syswow64%,%system32%\gamepanel.exe
+d2d1.dll,%system32%,%system32%\quickassist.exe
+d2d1.dll,%syswow64%,%system32%\quickassist.exe
+d3d10core.dll,%system32%,%system32%\winsat.exe
+d3d10core.dll,%syswow64%,%system32%\winsat.exe
+msctfmonitor.dll,%system32%,%system32%\ctfmon.exe
+msctfmonitor.dll,%syswow64%,%system32%\ctfmon.exe
+logoncli.dll,%system32%,%system32%\certutil.exe
+logoncli.dll,%syswow64%,%system32%\certutil.exe
+logoncli.dll,%system32%,%system32%\change.exe
+logoncli.dll,%syswow64%,%system32%\change.exe
+logoncli.dll,%system32%,%system32%\chglogon.exe
+logoncli.dll,%syswow64%,%system32%\chglogon.exe
+logoncli.dll,%system32%,%system32%\chgport.exe
+logoncli.dll,%syswow64%,%system32%\chgport.exe
+logoncli.dll,%system32%,%system32%\devicecensus.exe
+logoncli.dll,%syswow64%,%system32%\devicecensus.exe
+logoncli.dll,%system32%,%system32%\djoin.exe
+logoncli.dll,%syswow64%,%system32%\djoin.exe
+logoncli.dll,%system32%,%system32%\dsregcmd.exe
+logoncli.dll,%syswow64%,%system32%\dsregcmd.exe
+logoncli.dll,%system32%,%system32%\efsui.exe
+logoncli.dll,%syswow64%,%system32%\efsui.exe
+logoncli.dll,%system32%,%system32%\gpresult.exe
+logoncli.dll,%syswow64%,%system32%\gpresult.exe
+logoncli.dll,%system32%,%system32%\ksetup.exe
+logoncli.dll,%syswow64%,%system32%\ksetup.exe
+logoncli.dll,%system32%,%system32%\net1.exe
+logoncli.dll,%syswow64%,%system32%\net1.exe
+logoncli.dll,%system32%,%system32%\nltest.exe
+logoncli.dll,%syswow64%,%system32%\nltest.exe
+logoncli.dll,%system32%,%system32%\query.exe
+logoncli.dll,%syswow64%,%system32%\query.exe
+logoncli.dll,%system32%,%system32%\quser.exe
+logoncli.dll,%syswow64%,%system32%\quser.exe
+logoncli.dll,%system32%,%system32%\qwinsta.exe
+logoncli.dll,%syswow64%,%system32%\qwinsta.exe
+logoncli.dll,%system32%,%system32%\rekeywiz.exe
+logoncli.dll,%syswow64%,%system32%\rekeywiz.exe
+logoncli.dll,%system32%,%system32%\reset.exe
+logoncli.dll,%syswow64%,%system32%\reset.exe
+logoncli.dll,%system32%,%system32%\rwinsta.exe
+logoncli.dll,%syswow64%,%system32%\rwinsta.exe
+logoncli.dll,%system32%,%system32%\systempropertiesadvanced.exe
+logoncli.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+logoncli.dll,%system32%,%system32%\systemsettingsadminflows.exe
+logoncli.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+logoncli.dll,%system32%,%system32%\tscon.exe
+logoncli.dll,%syswow64%,%system32%\tscon.exe
+logoncli.dll,%system32%,%system32%\tskill.exe
+logoncli.dll,%syswow64%,%system32%\tskill.exe
+logoncli.dll,%system32%,%system32%\w32tm.exe
+logoncli.dll,%syswow64%,%system32%\w32tm.exe
+desktopshellext.dll,%system32%,%system32%\sihost.exe
+desktopshellext.dll,%syswow64%,%system32%\sihost.exe
+dmprocessxmlfiltered.dll,%system32%,%system32%\dmomacpmo.exe
+dmprocessxmlfiltered.dll,%syswow64%,%system32%\dmomacpmo.exe
+authfwcfg.dll,%system32%,%system32%\netsh.exe
+authfwcfg.dll,%syswow64%,%system32%\netsh.exe
+windowsudk.shellcommon.dll,%system32%,%system32%\compmgmtlauncher.exe
+windowsudk.shellcommon.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+windowsudk.shellcommon.dll,%system32%,%system32%\explorer.exe
+windowsudk.shellcommon.dll,%syswow64%,%system32%\explorer.exe
+windowsudk.shellcommon.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+windowsudk.shellcommon.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+propsys.dll,%system32%,%system32%\bootim.exe
+propsys.dll,%syswow64%,%system32%\bootim.exe
+propsys.dll,%system32%,%system32%\calc.exe
+propsys.dll,%syswow64%,%system32%\calc.exe
+propsys.dll,%system32%,%system32%\colorcpl.exe
+propsys.dll,%syswow64%,%system32%\colorcpl.exe
+propsys.dll,%system32%,%system32%\compmgmtlauncher.exe
+propsys.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+propsys.dll,%system32%,%system32%\computerdefaults.exe
+propsys.dll,%syswow64%,%system32%\computerdefaults.exe
+propsys.dll,%system32%,%system32%\dpiscaling.exe
+propsys.dll,%syswow64%,%system32%\dpiscaling.exe
+propsys.dll,%system32%,%system32%\dsregcmd.exe
+propsys.dll,%syswow64%,%system32%\dsregcmd.exe
+propsys.dll,%system32%,%system32%\dxpserver.exe
+propsys.dll,%syswow64%,%system32%\dxpserver.exe
+propsys.dll,%system32%,%system32%\fodhelper.exe
+propsys.dll,%syswow64%,%system32%\fodhelper.exe
+propsys.dll,%system32%,%system32%\fondue.exe
+propsys.dll,%syswow64%,%system32%\fondue.exe
+propsys.dll,%system32%,%system32%\fxssvc.exe
+propsys.dll,%syswow64%,%system32%\fxssvc.exe
+propsys.dll,%system32%,%system32%\fxsunatd.exe
+propsys.dll,%syswow64%,%system32%\fxsunatd.exe
+propsys.dll,%system32%,%system32%\mobsync.exe
+propsys.dll,%syswow64%,%system32%\mobsync.exe
+propsys.dll,%system32%,%system32%\mspaint.exe
+propsys.dll,%syswow64%,%system32%\mspaint.exe
+propsys.dll,%system32%,%system32%\netplwiz.exe
+propsys.dll,%syswow64%,%system32%\netplwiz.exe
+propsys.dll,%system32%,%system32%\optionalfeatures.exe
+propsys.dll,%syswow64%,%system32%\optionalfeatures.exe
+propsys.dll,%system32%,%system32%\pinenrollmentbroker.exe
+propsys.dll,%syswow64%,%system32%\pinenrollmentbroker.exe
+propsys.dll,%system32%,%system32%\printbrmui.exe
+propsys.dll,%syswow64%,%system32%\printbrmui.exe
+propsys.dll,%system32%,%system32%\printui.exe
+propsys.dll,%syswow64%,%system32%\printui.exe
+propsys.dll,%system32%,%system32%\quickassist.exe
+propsys.dll,%syswow64%,%system32%\quickassist.exe
+propsys.dll,%system32%,%system32%\rdpclip.exe
+propsys.dll,%syswow64%,%system32%\rdpclip.exe
+propsys.dll,%system32%,%system32%\resmon.exe
+propsys.dll,%syswow64%,%system32%\resmon.exe
+propsys.dll,%system32%,%system32%\sdclt.exe
+propsys.dll,%syswow64%,%system32%\sdclt.exe
+propsys.dll,%system32%,%system32%\settingsynchost.exe
+propsys.dll,%syswow64%,%system32%\settingsynchost.exe
+propsys.dll,%system32%,%system32%\slui.exe
+propsys.dll,%syswow64%,%system32%\slui.exe
+propsys.dll,%system32%,%system32%\synchost.exe
+propsys.dll,%syswow64%,%system32%\synchost.exe
+propsys.dll,%system32%,%system32%\systemsettingsadminflows.exe
+propsys.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+propsys.dll,%system32%,%system32%\wfs.exe
+propsys.dll,%syswow64%,%system32%\wfs.exe
+propsys.dll,%system32%,%system32%\wkspbroker.exe
+propsys.dll,%syswow64%,%system32%\wkspbroker.exe
+propsys.dll,%system32%,%system32%\workfolders.exe
+propsys.dll,%syswow64%,%system32%\workfolders.exe
+propsys.dll,%system32%,%system32%\wpnpinst.exe
+propsys.dll,%syswow64%,%system32%\wpnpinst.exe
+propsys.dll,%system32%,%system32%\write.exe
+propsys.dll,%syswow64%,%system32%\write.exe
+propsys.dll,%system32%,%system32%\certreq.exe
+propsys.dll,%syswow64%,%system32%\certreq.exe
+propsys.dll,%system32%,%system32%\cleanmgr.exe
+propsys.dll,%syswow64%,%system32%\cleanmgr.exe
+propsys.dll,%system32%,%system32%\control.exe
+propsys.dll,%syswow64%,%system32%\control.exe
+propsys.dll,%system32%,%system32%\ddodiag.exe
+propsys.dll,%syswow64%,%system32%\ddodiag.exe
+propsys.dll,%system32%,%system32%\dfrgui.exe
+propsys.dll,%syswow64%,%system32%\dfrgui.exe
+propsys.dll,%system32%,%system32%\explorer.exe
+propsys.dll,%syswow64%,%system32%\explorer.exe
+propsys.dll,%system32%,%system32%\fxscover.exe
+propsys.dll,%syswow64%,%system32%\fxscover.exe
+propsys.dll,%system32%,%system32%\licensingdiag.exe
+propsys.dll,%syswow64%,%system32%\licensingdiag.exe
+propsys.dll,%system32%,%system32%\msdt.exe
+propsys.dll,%syswow64%,%system32%\msdt.exe
+propsys.dll,%system32%,%system32%\notepad.exe
+propsys.dll,%syswow64%,%system32%\notepad.exe
+propsys.dll,%system32%,%system32%\powershell.exe
+propsys.dll,%syswow64%,%system32%\powershell.exe
+propsys.dll,%system32%,%system32%\presentationsettings.exe
+propsys.dll,%syswow64%,%system32%\presentationsettings.exe
+propsys.dll,%system32%,%system32%\tabcal.exe
+propsys.dll,%syswow64%,%system32%\tabcal.exe
+propsys.dll,%system32%,%system32%\verifier.exe
+propsys.dll,%syswow64%,%system32%\verifier.exe
+propsys.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+propsys.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+propsys.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+propsys.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+propsys.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+propsys.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+propsys.dll,%system32%,%appdata%\zoom\bin\zoom.exe
+propsys.dll,%syswow64%,%appdata%\zoom\bin\zoom.exe
+propsys.dll,%system32%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+propsys.dll,%syswow64%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+xwtpw32.dll,%system32%,%system32%\devicepairingwizard.exe
+xwtpw32.dll,%syswow64%,%system32%\devicepairingwizard.exe
+xwtpw32.dll,%system32%,%system32%\rasphone.exe
+xwtpw32.dll,%syswow64%,%system32%\rasphone.exe
+p2p.dll,%system32%,%system32%\netsh.exe
+p2p.dll,%syswow64%,%system32%\netsh.exe
+wmsgapi.dll,%system32%,%system32%\osk.exe
+wmsgapi.dll,%syswow64%,%system32%\osk.exe
+cabview.dll,%system32%,%system32%\notepad.exe
+cabview.dll,%syswow64%,%system32%\notepad.exe
+esent.dll,%system32%,%system32%\esentutl.exe
+esent.dll,%syswow64%,%system32%\esentutl.exe
+esent.dll,%system32%,%system32%\tieringengineservice.exe
+esent.dll,%syswow64%,%system32%\tieringengineservice.exe
+mpsvc.dll,%programdata%\microsoft\windows defender\platform\%version%,%programdata%\microsoft\windows defender\platform\%version%\msmpeng.exe
+mscoree.dll,%system32%,%system32%\presentationhost.exe
+mscoree.dll,%syswow64%,%system32%\presentationhost.exe
+avrt.dll,%system32%,%system32%\osk.exe
+avrt.dll,%syswow64%,%system32%\osk.exe
+applicationframe.dll,%system32%,%system32%\applicationframehost.exe
+applicationframe.dll,%syswow64%,%system32%\applicationframehost.exe
+dmcfgutils.dll,%system32%,%system32%\omadmclient.exe
+dmcfgutils.dll,%syswow64%,%system32%\omadmclient.exe
+cscobj.dll,%system32%,%system32%\certreq.exe
+cscobj.dll,%syswow64%,%system32%\certreq.exe
+cscobj.dll,%system32%,%system32%\compmgmtlauncher.exe
+cscobj.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+cscobj.dll,%system32%,%system32%\notepad.exe
+cscobj.dll,%syswow64%,%system32%\notepad.exe
+bcp47mrm.dll,%system32%,%system32%\mcbuilder.exe
+bcp47mrm.dll,%syswow64%,%system32%\mcbuilder.exe
+edputil.dll,%system32%,%system32%\calc.exe
+edputil.dll,%syswow64%,%system32%\calc.exe
+edputil.dll,%system32%,%system32%\compmgmtlauncher.exe
+edputil.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+edputil.dll,%system32%,%system32%\computerdefaults.exe
+edputil.dll,%syswow64%,%system32%\computerdefaults.exe
+edputil.dll,%system32%,%system32%\dpiscaling.exe
+edputil.dll,%syswow64%,%system32%\dpiscaling.exe
+edputil.dll,%system32%,%system32%\fodhelper.exe
+edputil.dll,%syswow64%,%system32%\fodhelper.exe
+edputil.dll,%system32%,%system32%\mobsync.exe
+edputil.dll,%syswow64%,%system32%\mobsync.exe
+edputil.dll,%system32%,%system32%\resmon.exe
+edputil.dll,%syswow64%,%system32%\resmon.exe
+edputil.dll,%system32%,%system32%\sdclt.exe
+edputil.dll,%syswow64%,%system32%\sdclt.exe
+edputil.dll,%system32%,%system32%\slui.exe
+edputil.dll,%syswow64%,%system32%\slui.exe
+edputil.dll,%system32%,%system32%\workfolders.exe
+edputil.dll,%syswow64%,%system32%\workfolders.exe
+edputil.dll,%system32%,%system32%\write.exe
+edputil.dll,%syswow64%,%system32%\write.exe
+netsetupapi.dll,%system32%,%system32%\rasphone.exe
+netsetupapi.dll,%syswow64%,%system32%\rasphone.exe
+fwpolicyiomgr.dll,%system32%,%system32%\netsh.exe
+fwpolicyiomgr.dll,%syswow64%,%system32%\netsh.exe
+dwmcore.dll,%system32%,%system32%\dwm.exe
+dwmapi.dll,%system32%,%system32%\certreq.exe
+dwmapi.dll,%syswow64%,%system32%\certreq.exe
+dwmapi.dll,%system32%,%system32%\devicepairingwizard.exe
+dwmapi.dll,%syswow64%,%system32%\devicepairingwizard.exe
+dwmapi.dll,%system32%,%system32%\displayswitch.exe
+dwmapi.dll,%syswow64%,%system32%\displayswitch.exe
+dwmapi.dll,%system32%,%system32%\dxpserver.exe
+dwmapi.dll,%syswow64%,%system32%\dxpserver.exe
+dwmapi.dll,%system32%,%system32%\fsquirt.exe
+dwmapi.dll,%syswow64%,%system32%\fsquirt.exe
+dwmapi.dll,%system32%,%system32%\gamepanel.exe
+dwmapi.dll,%syswow64%,%system32%\gamepanel.exe
+dwmapi.dll,%system32%,%system32%\lockscreencontentserver.exe
+dwmapi.dll,%syswow64%,%system32%\lockscreencontentserver.exe
+dwmapi.dll,%system32%,%system32%\osk.exe
+dwmapi.dll,%syswow64%,%system32%\osk.exe
+dwmapi.dll,%system32%,%system32%\rdpclip.exe
+dwmapi.dll,%syswow64%,%system32%\rdpclip.exe
+dwmapi.dll,%system32%,%system32%\rdpshell.exe
+dwmapi.dll,%syswow64%,%system32%\rdpshell.exe
+dwmapi.dll,%system32%,%system32%\rdvghelper.exe
+dwmapi.dll,%syswow64%,%system32%\rdvghelper.exe
+dwmapi.dll,%system32%,%system32%\wmpdmc.exe
+dwmapi.dll,%syswow64%,%system32%\wmpdmc.exe
+bcrypt.dll,%system32%,%system32%\shellappruntime.exe
+bcrypt.dll,%syswow64%,%system32%\shellappruntime.exe
+bcrypt.dll,%system32%,%system32%\wordpad.exe
+bcrypt.dll,%syswow64%,%system32%\wordpad.exe
+netshell.dll,%system32%,%system32%\netsh.exe
+netshell.dll,%syswow64%,%system32%\netsh.exe
+netshell.dll,%system32%,%system32%\rasphone.exe
+netshell.dll,%syswow64%,%system32%\rasphone.exe
+schedcli.dll,%system32%,%system32%\at.exe
+schedcli.dll,%syswow64%,%system32%\at.exe
+winbrand.dll,%system32%,%system32%\slui.exe
+winbrand.dll,%syswow64%,%system32%\slui.exe
+winbrand.dll,%system32%,%system32%\systempropertiesadvanced.exe
+winbrand.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+winbrand.dll,%system32%,%system32%\systemsettingsadminflows.exe
+winbrand.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+iertutil.dll,%system32%,%system32%\cipher.exe
+iertutil.dll,%syswow64%,%system32%\cipher.exe
+iertutil.dll,%system32%,%system32%\microsoftedgebchost.exe
+iertutil.dll,%syswow64%,%system32%\microsoftedgebchost.exe
+iertutil.dll,%system32%,%system32%\microsoftedgecp.exe
+iertutil.dll,%syswow64%,%system32%\microsoftedgecp.exe
+iertutil.dll,%system32%,%system32%\microsoftedgedevtools.exe
+iertutil.dll,%syswow64%,%system32%\microsoftedgedevtools.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\bootim.exe
+dbghelp.dll,%system32%,%system32%\bootim.exe
+dbghelp.dll,%syswow64%,%system32%\bootim.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\taskkill.exe
+dbghelp.dll,%system32%,%system32%\taskkill.exe
+dbghelp.dll,%syswow64%,%system32%\taskkill.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\tasklist.exe
+dbghelp.dll,%system32%,%system32%\tasklist.exe
+dbghelp.dll,%syswow64%,%system32%\tasklist.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\bdehdcfg.exe
+dbghelp.dll,%system32%,%system32%\bdehdcfg.exe
+dbghelp.dll,%syswow64%,%system32%\bdehdcfg.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%system32%,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%syswow64%,%system32%\deploymentcsphelper.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\djoin.exe
+dbghelp.dll,%system32%,%system32%\djoin.exe
+dbghelp.dll,%syswow64%,%system32%\djoin.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\dnscacheugc.exe
+dbghelp.dll,%system32%,%system32%\dnscacheugc.exe
+dbghelp.dll,%syswow64%,%system32%\dnscacheugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\ieunatt.exe
+dbghelp.dll,%system32%,%system32%\ieunatt.exe
+dbghelp.dll,%syswow64%,%system32%\ieunatt.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\muiunattend.exe
+dbghelp.dll,%system32%,%system32%\muiunattend.exe
+dbghelp.dll,%syswow64%,%system32%\muiunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\netbtugc.exe
+dbghelp.dll,%system32%,%system32%\netbtugc.exe
+dbghelp.dll,%syswow64%,%system32%\netbtugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\netiougc.exe
+dbghelp.dll,%system32%,%system32%\netiougc.exe
+dbghelp.dll,%syswow64%,%system32%\netiougc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\pnpunattend.exe
+dbghelp.dll,%system32%,%system32%\pnpunattend.exe
+dbghelp.dll,%syswow64%,%system32%\pnpunattend.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\reagentc.exe
+dbghelp.dll,%system32%,%system32%\reagentc.exe
+dbghelp.dll,%syswow64%,%system32%\reagentc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\cisco systems\cisco jabber,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\office%version%,%system32%\setupugc.exe
+dbghelp.dll,%programfiles%\microsoft office\root\vfs\programfilesx86\microsoft analysis services\as oledb\140,%system32%\setupugc.exe
+dbghelp.dll,%system32%,%system32%\setupugc.exe
+dbghelp.dll,%syswow64%,%system32%\setupugc.exe
+iphlpapi.dll,%system32%,%system32%\arp.exe
+iphlpapi.dll,%syswow64%,%system32%\arp.exe
+iphlpapi.dll,%system32%,%system32%\colorcpl.exe
+iphlpapi.dll,%syswow64%,%system32%\colorcpl.exe
+iphlpapi.dll,%system32%,%system32%\datausagelivetiletask.exe
+iphlpapi.dll,%syswow64%,%system32%\datausagelivetiletask.exe
+iphlpapi.dll,%system32%,%system32%\devicecensus.exe
+iphlpapi.dll,%syswow64%,%system32%\devicecensus.exe
+iphlpapi.dll,%system32%,%system32%\dnscacheugc.exe
+iphlpapi.dll,%syswow64%,%system32%\dnscacheugc.exe
+iphlpapi.dll,%system32%,%system32%\fxscover.exe
+iphlpapi.dll,%syswow64%,%system32%\fxscover.exe
+iphlpapi.dll,%system32%,%system32%\fxssvc.exe
+iphlpapi.dll,%syswow64%,%system32%\fxssvc.exe
+iphlpapi.dll,%system32%,%system32%\fxsunatd.exe
+iphlpapi.dll,%syswow64%,%system32%\fxsunatd.exe
+iphlpapi.dll,%system32%,%system32%\msra.exe
+iphlpapi.dll,%syswow64%,%system32%\msra.exe
+iphlpapi.dll,%system32%,%system32%\mstsc.exe
+iphlpapi.dll,%syswow64%,%system32%\mstsc.exe
+iphlpapi.dll,%system32%,%system32%\nbtstat.exe
+iphlpapi.dll,%syswow64%,%system32%\nbtstat.exe
+iphlpapi.dll,%system32%,%system32%\net.exe
+iphlpapi.dll,%syswow64%,%system32%\net.exe
+iphlpapi.dll,%system32%,%system32%\netbtugc.exe
+iphlpapi.dll,%syswow64%,%system32%\netbtugc.exe
+iphlpapi.dll,%system32%,%system32%\netiougc.exe
+iphlpapi.dll,%syswow64%,%system32%\netiougc.exe
+iphlpapi.dll,%system32%,%system32%\netsh.exe
+iphlpapi.dll,%syswow64%,%system32%\netsh.exe
+iphlpapi.dll,%system32%,%system32%\netstat.exe
+iphlpapi.dll,%syswow64%,%system32%\netstat.exe
+iphlpapi.dll,%system32%,%system32%\omadmclient.exe
+iphlpapi.dll,%syswow64%,%system32%\omadmclient.exe
+iphlpapi.dll,%system32%,%system32%\pathping.exe
+iphlpapi.dll,%syswow64%,%system32%\pathping.exe
+iphlpapi.dll,%system32%,%system32%\printbrmui.exe
+iphlpapi.dll,%syswow64%,%system32%\printbrmui.exe
+iphlpapi.dll,%system32%,%system32%\printui.exe
+iphlpapi.dll,%syswow64%,%system32%\printui.exe
+iphlpapi.dll,%system32%,%system32%\rdpclip.exe
+iphlpapi.dll,%syswow64%,%system32%\rdpclip.exe
+iphlpapi.dll,%system32%,%system32%\route.exe
+iphlpapi.dll,%syswow64%,%system32%\route.exe
+iphlpapi.dll,%system32%,%system32%\tracert.exe
+iphlpapi.dll,%syswow64%,%system32%\tracert.exe
+iphlpapi.dll,%system32%,%system32%\w32tm.exe
+iphlpapi.dll,%syswow64%,%system32%\w32tm.exe
+iphlpapi.dll,%system32%,%system32%\wfs.exe
+iphlpapi.dll,%syswow64%,%system32%\wfs.exe
+iphlpapi.dll,%system32%,%system32%\wifitask.exe
+iphlpapi.dll,%syswow64%,%system32%\wifitask.exe
+iphlpapi.dll,%system32%,%system32%\wpnpinst.exe
+iphlpapi.dll,%syswow64%,%system32%\wpnpinst.exe
+iphlpapi.dll,%system32%,%localappdata%\microsoft\onedrive\onedrive.exe
+iphlpapi.dll,%syswow64%,%localappdata%\microsoft\onedrive\onedrive.exe
+iphlpapi.dll,%system32%,%localappdata%\microsoft\teams\current\teams.exe
+iphlpapi.dll,%syswow64%,%localappdata%\microsoft\teams\current\teams.exe
+iphlpapi.dll,%system32%,%system32%\dpiscaling.exe
+iphlpapi.dll,%syswow64%,%system32%\dpiscaling.exe
+iphlpapi.dll,%system32%,%system32%\rasphone.exe
+iphlpapi.dll,%syswow64%,%system32%\rasphone.exe
+iphlpapi.dll,%system32%,%system32%\slui.exe
+iphlpapi.dll,%syswow64%,%system32%\slui.exe
+cldapi.dll,%system32%,%system32%\compmgmtlauncher.exe
+cldapi.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+cldapi.dll,%system32%,%system32%\dpiscaling.exe
+cldapi.dll,%syswow64%,%system32%\dpiscaling.exe
+cldapi.dll,%system32%,%system32%\psr.exe
+cldapi.dll,%syswow64%,%system32%\psr.exe
+cldapi.dll,%system32%,%system32%\resmon.exe
+cldapi.dll,%syswow64%,%system32%\resmon.exe
+cldapi.dll,%system32%,%system32%\sdclt.exe
+cldapi.dll,%syswow64%,%system32%\sdclt.exe
+cldapi.dll,%system32%,%system32%\slui.exe
+cldapi.dll,%syswow64%,%system32%\slui.exe
+cldapi.dll,%system32%,%system32%\workfolders.exe
+cldapi.dll,%syswow64%,%system32%\workfolders.exe
+cldapi.dll,%system32%,%system32%\write.exe
+cldapi.dll,%syswow64%,%system32%\write.exe
+mtxclu.dll,%system32%,%system32%\msdtc.exe
+mtxclu.dll,%syswow64%,%system32%\msdtc.exe
+reseteng.dll,%system32%,%system32%\bootim.exe
+httpapi.dll,%system32%,%system32%\netsh.exe
+httpapi.dll,%syswow64%,%system32%\netsh.exe
+httpapi.dll,%system32%,%system32%\wifitask.exe
+httpapi.dll,%syswow64%,%system32%\wifitask.exe
+httpapi.dll,%system32%,%system32%\wsmanhttpconfig.exe
+httpapi.dll,%syswow64%,%system32%\wsmanhttpconfig.exe
+certenroll.dll,%system32%,%system32%\dmcertinst.exe
+certenroll.dll,%syswow64%,%system32%\dmcertinst.exe
+execmodelproxy.dll,%system32%,%system32%\calc.exe
+execmodelproxy.dll,%syswow64%,%system32%\calc.exe
+nshipsec.dll,%system32%,%system32%\netsh.exe
+nshipsec.dll,%syswow64%,%system32%\netsh.exe
+wdscore.dll,%system32%,%system32%\bootim.exe
+wdscore.dll,%syswow64%,%system32%\bootim.exe
+wdscore.dll,%system32%,%system32%\deploymentcsphelper.exe
+wdscore.dll,%syswow64%,%system32%\deploymentcsphelper.exe
+wdscore.dll,%system32%,%system32%\djoin.exe
+wdscore.dll,%syswow64%,%system32%\djoin.exe
+wdscore.dll,%system32%,%system32%\dnscacheugc.exe
+wdscore.dll,%syswow64%,%system32%\dnscacheugc.exe
+wdscore.dll,%system32%,%system32%\muiunattend.exe
+wdscore.dll,%syswow64%,%system32%\muiunattend.exe
+wdscore.dll,%system32%,%system32%\netbtugc.exe
+wdscore.dll,%syswow64%,%system32%\netbtugc.exe
+wdscore.dll,%system32%,%system32%\netiougc.exe
+wdscore.dll,%syswow64%,%system32%\netiougc.exe
+wdscore.dll,%system32%,%system32%\pnpunattend.exe
+wdscore.dll,%syswow64%,%system32%\pnpunattend.exe
+wdscore.dll,%system32%,%system32%\resetengine.exe
+wdscore.dll,%syswow64%,%system32%\resetengine.exe
+wdscore.dll,%system32%,%system32%\setupugc.exe
+wdscore.dll,%syswow64%,%system32%\setupugc.exe
+wdscore.dll,%system32%,%system32%\sysreseterr.exe
+wdscore.dll,%syswow64%,%system32%\sysreseterr.exe
+wdscore.dll,%system32%,%system32%\systemreset.exe
+wdscore.dll,%syswow64%,%system32%\systemreset.exe
+wdscore.dll,%system32%,%system32%\tapiunattend.exe
+wdscore.dll,%syswow64%,%system32%\tapiunattend.exe
+newdev.dll,%system32%,%system32%\pnpunattend.exe
+newdev.dll,%syswow64%,%system32%\pnpunattend.exe
+newdev.dll,%system32%,%system32%\systemsettingsadminflows.exe
+newdev.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+fwbase.dll,%system32%,%system32%\checknetisolation.exe
+fwbase.dll,%syswow64%,%system32%\checknetisolation.exe
+fwbase.dll,%system32%,%system32%\edpcleanup.exe
+fwbase.dll,%syswow64%,%system32%\edpcleanup.exe
+fwbase.dll,%system32%,%system32%\lpremove.exe
+fwbase.dll,%syswow64%,%system32%\lpremove.exe
+fwbase.dll,%system32%,%system32%\netsh.exe
+fwbase.dll,%syswow64%,%system32%\netsh.exe
+fwbase.dll,%system32%,%system32%\securityhealthservice.exe
+fwbase.dll,%syswow64%,%system32%\securityhealthservice.exe
+fwbase.dll,%system32%,%system32%\systemsettingsadminflows.exe
+fwbase.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+netplwiz.dll,%system32%,%system32%\netplwiz.exe
+netplwiz.dll,%syswow64%,%system32%\netplwiz.exe
+mi.dll,%system32%,%system32%\winrs.exe
+mi.dll,%syswow64%,%system32%\winrs.exe
+mi.dll,%system32%,%system32%\wsmanhttpconfig.exe
+mi.dll,%syswow64%,%system32%\wsmanhttpconfig.exe
+mi.dll,%system32%,%system32%\wsmprovhost.exe
+mi.dll,%syswow64%,%system32%\wsmprovhost.exe
+licensingdiagspp.dll,%system32%,%system32%\licensingdiag.exe
+licensingdiagspp.dll,%syswow64%,%system32%\licensingdiag.exe
+twinui.appcore.dll,%system32%,%system32%\calc.exe
+twinui.appcore.dll,%syswow64%,%system32%\calc.exe
+rsaenh.dll,%system32%,%system32%\compmgmtlauncher.exe
+rsaenh.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+rsaenh.dll,%system32%,%system32%\disksnapshot.exe
+rsaenh.dll,%syswow64%,%system32%\disksnapshot.exe
+rsaenh.dll,%system32%,%system32%\filehistory.exe
+rsaenh.dll,%syswow64%,%system32%\filehistory.exe
+rsaenh.dll,%system32%,%system32%\licensingdiag.exe
+rsaenh.dll,%syswow64%,%system32%\licensingdiag.exe
+rsaenh.dll,%system32%,%system32%\lpksetup.exe
+rsaenh.dll,%syswow64%,%system32%\lpksetup.exe
+rsaenh.dll,%system32%,%system32%\microsoft.uev.synccontroller.exe
+rsaenh.dll,%syswow64%,%system32%\microsoft.uev.synccontroller.exe
+rsaenh.dll,%system32%,%system32%\phoneactivate.exe
+rsaenh.dll,%syswow64%,%system32%\phoneactivate.exe
+rsaenh.dll,%system32%,%system32%\powershell.exe
+rsaenh.dll,%syswow64%,%system32%\powershell.exe
+rsaenh.dll,%system32%,%system32%\rmactivate.exe
+rsaenh.dll,%syswow64%,%system32%\rmactivate.exe
+rsaenh.dll,%system32%,%system32%\scriptrunner.exe
+rsaenh.dll,%syswow64%,%system32%\scriptrunner.exe
+rsaenh.dll,%system32%,%system32%\sppextcomobj.exe
+rsaenh.dll,%syswow64%,%system32%\sppextcomobj.exe
+rsaenh.dll,%system32%,%system32%\stordiag.exe
+rsaenh.dll,%syswow64%,%system32%\stordiag.exe
+rsaenh.dll,%system32%,%system32%\tzsync.exe
+rsaenh.dll,%syswow64%,%system32%\tzsync.exe
+rsaenh.dll,%system32%,%system32%\uevappmonitor.exe
+rsaenh.dll,%syswow64%,%system32%\uevappmonitor.exe
+rsaenh.dll,%system32%,%system32%\useraccountcontrolsettings.exe
+rsaenh.dll,%syswow64%,%system32%\useraccountcontrolsettings.exe
+rsaenh.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+rsaenh.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+rsaenh.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+rsaenh.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+rsaenh.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+rsaenh.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+rsaenh.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+rsaenh.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+rsaenh.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+rsaenh.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+rsaenh.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+rsaenh.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+rsaenh.dll,%system32%,%appdata%\zoom\bin\zoom.exe
+rsaenh.dll,%syswow64%,%appdata%\zoom\bin\zoom.exe
+netiohlp.dll,%system32%,%system32%\netsh.exe
+netiohlp.dll,%syswow64%,%system32%\netsh.exe
+adsldpc.dll,%system32%,%system32%\agentservice.exe
+adsldpc.dll,%syswow64%,%system32%\agentservice.exe
+adsldpc.dll,%system32%,%system32%\netsh.exe
+adsldpc.dll,%syswow64%,%system32%\netsh.exe
+adsldpc.dll,%system32%,%system32%\sppextcomobj.exe
+adsldpc.dll,%syswow64%,%system32%\sppextcomobj.exe
+devicepairing.dll,%system32%,%system32%\devicepairingwizard.exe
+devicepairing.dll,%syswow64%,%system32%\devicepairingwizard.exe
+srclient.dll,%system32%,%system32%\srtasks.exe
+srclient.dll,%syswow64%,%system32%\srtasks.exe
+srclient.dll,%system32%,%system32%\tiworker.exe
+srclient.dll,%syswow64%,%system32%\tiworker.exe
+sapi_onecore.dll,%system32%,%system32%\devicecensus.exe
+sapi_onecore.dll,%syswow64%,%system32%\devicecensus.exe
+samcli.dll,%system32%,%system32%\certutil.exe
+samcli.dll,%syswow64%,%system32%\certutil.exe
+samcli.dll,%system32%,%system32%\change.exe
+samcli.dll,%syswow64%,%system32%\change.exe
+samcli.dll,%system32%,%system32%\chglogon.exe
+samcli.dll,%syswow64%,%system32%\chglogon.exe
+samcli.dll,%system32%,%system32%\chgport.exe
+samcli.dll,%syswow64%,%system32%\chgport.exe
+samcli.dll,%system32%,%system32%\deviceenroller.exe
+samcli.dll,%syswow64%,%system32%\deviceenroller.exe
+samcli.dll,%system32%,%system32%\dpapimig.exe
+samcli.dll,%syswow64%,%system32%\dpapimig.exe
+samcli.dll,%system32%,%system32%\easinvoker.exe
+samcli.dll,%syswow64%,%system32%\easinvoker.exe
+samcli.dll,%system32%,%system32%\net.exe
+samcli.dll,%syswow64%,%system32%\net.exe
+samcli.dll,%system32%,%system32%\net1.exe
+samcli.dll,%syswow64%,%system32%\net1.exe
+samcli.dll,%system32%,%system32%\netplwiz.exe
+samcli.dll,%syswow64%,%system32%\netplwiz.exe
+samcli.dll,%system32%,%system32%\query.exe
+samcli.dll,%syswow64%,%system32%\query.exe
+samcli.dll,%system32%,%system32%\quser.exe
+samcli.dll,%syswow64%,%system32%\quser.exe
+samcli.dll,%system32%,%system32%\qwinsta.exe
+samcli.dll,%syswow64%,%system32%\qwinsta.exe
+samcli.dll,%system32%,%system32%\raserver.exe
+samcli.dll,%syswow64%,%system32%\raserver.exe
+samcli.dll,%system32%,%system32%\reset.exe
+samcli.dll,%syswow64%,%system32%\reset.exe
+samcli.dll,%system32%,%system32%\rwinsta.exe
+samcli.dll,%syswow64%,%system32%\rwinsta.exe
+samcli.dll,%system32%,%system32%\systemsettingsadminflows.exe
+samcli.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+samcli.dll,%system32%,%system32%\tscon.exe
+samcli.dll,%syswow64%,%system32%\tscon.exe
+samcli.dll,%system32%,%system32%\tskill.exe
+samcli.dll,%syswow64%,%system32%\tskill.exe
+samcli.dll,%system32%,%system32%\wpcmon.exe
+samcli.dll,%syswow64%,%system32%\wpcmon.exe
+msftedit.dll,%system32%,%system32%\charmap.exe
+msftedit.dll,%syswow64%,%system32%\charmap.exe
+msftedit.dll,%system32%,%system32%\mspaint.exe
+msftedit.dll,%syswow64%,%system32%\mspaint.exe
+msftedit.dll,%system32%,%system32%\searchindexer.exe
+msftedit.dll,%syswow64%,%system32%\searchindexer.exe
+msftedit.dll,%system32%,%system32%\searchprotocolhost.exe
+msftedit.dll,%syswow64%,%system32%\searchprotocolhost.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%system32%,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%syswow64%,%system32%\deploymentcsphelper.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\djoin.exe
+dbgcore.dll,%system32%,%system32%\djoin.exe
+dbgcore.dll,%syswow64%,%system32%\djoin.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\dnscacheugc.exe
+dbgcore.dll,%system32%,%system32%\dnscacheugc.exe
+dbgcore.dll,%syswow64%,%system32%\dnscacheugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\ieunatt.exe
+dbgcore.dll,%system32%,%system32%\ieunatt.exe
+dbgcore.dll,%syswow64%,%system32%\ieunatt.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\muiunattend.exe
+dbgcore.dll,%system32%,%system32%\muiunattend.exe
+dbgcore.dll,%syswow64%,%system32%\muiunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\netbtugc.exe
+dbgcore.dll,%system32%,%system32%\netbtugc.exe
+dbgcore.dll,%syswow64%,%system32%\netbtugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\netiougc.exe
+dbgcore.dll,%system32%,%system32%\netiougc.exe
+dbgcore.dll,%syswow64%,%system32%\netiougc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\pnpunattend.exe
+dbgcore.dll,%system32%,%system32%\pnpunattend.exe
+dbgcore.dll,%syswow64%,%system32%\pnpunattend.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\setupugc.exe
+dbgcore.dll,%system32%,%system32%\setupugc.exe
+dbgcore.dll,%syswow64%,%system32%\setupugc.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\systemreset.exe
+dbgcore.dll,%system32%,%system32%\systemreset.exe
+dbgcore.dll,%syswow64%,%system32%\systemreset.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\werfault.exe
+dbgcore.dll,%system32%,%system32%\werfault.exe
+dbgcore.dll,%syswow64%,%system32%\werfault.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm\srcsrv,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\arm64\srcsrv,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x64\srcsrv,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\windows kits\10\debuggers\x86\srcsrv,%system32%\werfaultsecure.exe
+dbgcore.dll,%programfiles%\microsoft office\root\office%version%,%system32%\werfaultsecure.exe
+dbgcore.dll,%system32%,%system32%\werfaultsecure.exe
+dbgcore.dll,%syswow64%,%system32%\werfaultsecure.exe
+ksuser.dll,%system32%,%system32%\mfpmp.exe
+ksuser.dll,%syswow64%,%system32%\mfpmp.exe
+ksuser.dll,%system32%,%system32%\osk.exe
+ksuser.dll,%syswow64%,%system32%\osk.exe
+comdlg32.dll,%system32%,%system32%\certreq.exe
+comdlg32.dll,%syswow64%,%system32%\certreq.exe
+comdlg32.dll,%system32%,%system32%\notepad.exe
+comdlg32.dll,%syswow64%,%system32%\notepad.exe
+fhcfg.dll,%system32%,%system32%\filehistory.exe
+fhcfg.dll,%syswow64%,%system32%\filehistory.exe
+networkexplorer.dll,%system32%,%system32%\certreq.exe
+networkexplorer.dll,%syswow64%,%system32%\certreq.exe
+networkexplorer.dll,%system32%,%system32%\notepad.exe
+networkexplorer.dll,%syswow64%,%system32%\notepad.exe
+uiribbon.dll,%system32%,%system32%\wordpad.exe
+uiribbon.dll,%syswow64%,%system32%\wordpad.exe
+dpx.dll,%system32%,%system32%\lpksetup.exe
+dpx.dll,%syswow64%,%system32%\lpksetup.exe
+dpx.dll,%system32%,%system32%\wusa.exe
+dpx.dll,%syswow64%,%system32%\wusa.exe
+wlancfg.dll,%system32%,%system32%\netsh.exe
+wlancfg.dll,%syswow64%,%system32%\netsh.exe
+dui70.dll,%system32%,%system32%\certreq.exe
+dui70.dll,%syswow64%,%system32%\certreq.exe
+dui70.dll,%system32%,%system32%\optionalfeatures.exe
+dui70.dll,%syswow64%,%system32%\optionalfeatures.exe
+dui70.dll,%system32%,%system32%\rasphone.exe
+dui70.dll,%syswow64%,%system32%\rasphone.exe
+twinapi.dll,%system32%,%system32%\rasphone.exe
+twinapi.dll,%syswow64%,%system32%\rasphone.exe
+twinapi.dll,%system32%,%system32%\rdpclip.exe
+twinapi.dll,%syswow64%,%system32%\rdpclip.exe
+twinapi.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+twinapi.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+twinapi.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+twinapi.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+twinapi.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+twinapi.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+twinapi.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+twinapi.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+dwrite.dll,%system32%,%system32%\cttune.exe
+dwrite.dll,%syswow64%,%system32%\cttune.exe
+dwrite.dll,%system32%,%system32%\dataexchangehost.exe
+dwrite.dll,%syswow64%,%system32%\dataexchangehost.exe
+dwrite.dll,%system32%,%system32%\gamepanel.exe
+dwrite.dll,%syswow64%,%system32%\gamepanel.exe
+ieadvpack.dll,%system32%,%system32%\ie4uinit.exe
+ieadvpack.dll,%syswow64%,%system32%\ie4uinit.exe
+wlanapi.dll,%system32%,%system32%\netsh.exe
+wlanapi.dll,%syswow64%,%system32%\netsh.exe
+wlanapi.dll,%system32%,%system32%\wifitask.exe
+wlanapi.dll,%syswow64%,%system32%\wifitask.exe
+ninput.dll,%system32%,%system32%\multidigimon.exe
+ninput.dll,%syswow64%,%system32%\multidigimon.exe
+ninput.dll,%system32%,%system32%\tabcal.exe
+ninput.dll,%syswow64%,%system32%\tabcal.exe
+srvcli.dll,%system32%,%system32%\change.exe
+srvcli.dll,%syswow64%,%system32%\change.exe
+srvcli.dll,%system32%,%system32%\chglogon.exe
+srvcli.dll,%syswow64%,%system32%\chglogon.exe
+srvcli.dll,%system32%,%system32%\chgport.exe
+srvcli.dll,%syswow64%,%system32%\chgport.exe
+srvcli.dll,%system32%,%system32%\driverquery.exe
+srvcli.dll,%syswow64%,%system32%\driverquery.exe
+srvcli.dll,%system32%,%system32%\eventcreate.exe
+srvcli.dll,%syswow64%,%system32%\eventcreate.exe
+srvcli.dll,%system32%,%system32%\getmac.exe
+srvcli.dll,%syswow64%,%system32%\getmac.exe
+srvcli.dll,%system32%,%system32%\gpresult.exe
+srvcli.dll,%syswow64%,%system32%\gpresult.exe
+srvcli.dll,%system32%,%system32%\ksetup.exe
+srvcli.dll,%syswow64%,%system32%\ksetup.exe
+srvcli.dll,%system32%,%system32%\net.exe
+srvcli.dll,%syswow64%,%system32%\net.exe
+srvcli.dll,%system32%,%system32%\net1.exe
+srvcli.dll,%syswow64%,%system32%\net1.exe
+srvcli.dll,%system32%,%system32%\openfiles.exe
+srvcli.dll,%syswow64%,%system32%\openfiles.exe
+srvcli.dll,%system32%,%system32%\query.exe
+srvcli.dll,%syswow64%,%system32%\query.exe
+srvcli.dll,%system32%,%system32%\quser.exe
+srvcli.dll,%syswow64%,%system32%\quser.exe
+srvcli.dll,%system32%,%system32%\qwinsta.exe
+srvcli.dll,%syswow64%,%system32%\qwinsta.exe
+srvcli.dll,%system32%,%system32%\reset.exe
+srvcli.dll,%syswow64%,%system32%\reset.exe
+srvcli.dll,%system32%,%system32%\rwinsta.exe
+srvcli.dll,%syswow64%,%system32%\rwinsta.exe
+srvcli.dll,%system32%,%system32%\spaceagent.exe
+srvcli.dll,%syswow64%,%system32%\spaceagent.exe
+srvcli.dll,%system32%,%system32%\systempropertiesadvanced.exe
+srvcli.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+srvcli.dll,%system32%,%system32%\taskkill.exe
+srvcli.dll,%syswow64%,%system32%\taskkill.exe
+srvcli.dll,%system32%,%system32%\tasklist.exe
+srvcli.dll,%syswow64%,%system32%\tasklist.exe
+srvcli.dll,%system32%,%system32%\tscon.exe
+srvcli.dll,%syswow64%,%system32%\tscon.exe
+srvcli.dll,%system32%,%system32%\tskill.exe
+srvcli.dll,%syswow64%,%system32%\tskill.exe
+srvcli.dll,%system32%,%system32%\waitfor.exe
+srvcli.dll,%syswow64%,%system32%\waitfor.exe
+srvcli.dll,%system32%,%system32%\wbengine.exe
+srvcli.dll,%syswow64%,%system32%\wbengine.exe
+osksupport.dll,%system32%,%system32%\osk.exe
+scecli.dll,%system32%,%system32%\secedit.exe
+scecli.dll,%syswow64%,%system32%\secedit.exe
+wwapi.dll,%system32%,%system32%\netsh.exe
+wwapi.dll,%syswow64%,%system32%\netsh.exe
+ntdsapi.dll,%system32%,%system32%\certutil.exe
+ntdsapi.dll,%syswow64%,%system32%\certutil.exe
+ntdsapi.dll,%system32%,%system32%\cipher.exe
+ntdsapi.dll,%syswow64%,%system32%\cipher.exe
+ntdsapi.dll,%system32%,%system32%\gpresult.exe
+ntdsapi.dll,%syswow64%,%system32%\gpresult.exe
+ntdsapi.dll,%system32%,%system32%\nltest.exe
+ntdsapi.dll,%syswow64%,%system32%\nltest.exe
+ntdsapi.dll,%system32%,%system32%\w32tm.exe
+ntdsapi.dll,%syswow64%,%system32%\w32tm.exe
+oleacc.dll,%system32%,%system32%\bootim.exe
+oleacc.dll,%syswow64%,%system32%\bootim.exe
+oleacc.dll,%system32%,%system32%\cttune.exe
+oleacc.dll,%syswow64%,%system32%\cttune.exe
+oleacc.dll,%system32%,%system32%\devicepairingwizard.exe
+oleacc.dll,%syswow64%,%system32%\devicepairingwizard.exe
+oleacc.dll,%system32%,%system32%\easeofaccessdialog.exe
+oleacc.dll,%syswow64%,%system32%\easeofaccessdialog.exe
+oleacc.dll,%system32%,%system32%\fsquirt.exe
+oleacc.dll,%syswow64%,%system32%\fsquirt.exe
+oleacc.dll,%system32%,%system32%\magnify.exe
+oleacc.dll,%syswow64%,%system32%\magnify.exe
+oleacc.dll,%system32%,%system32%\optionalfeatures.exe
+oleacc.dll,%syswow64%,%system32%\optionalfeatures.exe
+oleacc.dll,%system32%,%system32%\osk.exe
+oleacc.dll,%syswow64%,%system32%\osk.exe
+oleacc.dll,%system32%,%system32%\psr.exe
+oleacc.dll,%syswow64%,%system32%\psr.exe
+oleacc.dll,%system32%,%system32%\utilman.exe
+oleacc.dll,%syswow64%,%system32%\utilman.exe
+oleacc.dll,%system32%,%system32%\wmpdmc.exe
+oleacc.dll,%syswow64%,%system32%\wmpdmc.exe
+ntlmshared.dll,%system32%,%system32%\at.exe
+ntlmshared.dll,%syswow64%,%system32%\at.exe
+iedkcs32.dll,%system32%,%system32%\ie4uinit.exe
+iedkcs32.dll,%syswow64%,%system32%\ie4uinit.exe
+rpcnsh.dll,%system32%,%system32%\netsh.exe
+rpcnsh.dll,%syswow64%,%system32%\netsh.exe
+wcmapi.dll,%system32%,%system32%\netsh.exe
+wcmapi.dll,%syswow64%,%system32%\netsh.exe
+ndfapi.dll,%system32%,%system32%\msra.exe
+ndfapi.dll,%syswow64%,%system32%\msra.exe
+ndfapi.dll,%system32%,%system32%\netsh.exe
+ndfapi.dll,%syswow64%,%system32%\netsh.exe
+ndfapi.dll,%system32%,%system32%\dpiscaling.exe
+ndfapi.dll,%syswow64%,%system32%\dpiscaling.exe
+ndfapi.dll,%system32%,%system32%\slui.exe
+ndfapi.dll,%syswow64%,%system32%\slui.exe
+mfplat.dll,%system32%,%system32%\mdeserver.exe
+mfplat.dll,%syswow64%,%system32%\mdeserver.exe
+mfplat.dll,%system32%,%system32%\mfpmp.exe
+mfplat.dll,%syswow64%,%system32%\mfpmp.exe
+aepic.dll,%system32%,%system32%\psr.exe
+aepic.dll,%syswow64%,%system32%\psr.exe
+ncrypt.dll,%system32%,%system32%\filehistory.exe
+ncrypt.dll,%syswow64%,%system32%\filehistory.exe
+ifmon.dll,%system32%,%system32%\netsh.exe
+ifmon.dll,%syswow64%,%system32%\netsh.exe
+efsadu.dll,%system32%,%system32%\efsui.exe
+efsadu.dll,%syswow64%,%system32%\efsui.exe
+efsadu.dll,%system32%,%system32%\rekeywiz.exe
+efsadu.dll,%syswow64%,%system32%\rekeywiz.exe
+dmpushproxy.dll,%system32%,%system32%\dmcfghost.exe
+dmpushproxy.dll,%syswow64%,%system32%\dmcfghost.exe
+fhsvcctl.dll,%system32%,%system32%\fhmanagew.exe
+linkinfo.dll,%system32%,%system32%\certreq.exe
+linkinfo.dll,%syswow64%,%system32%\certreq.exe
+fastprox.dll,%system32%,%system32%\cttune.exe
+fastprox.dll,%syswow64%,%system32%\cttune.exe
+fastprox.dll,%system32%,%system32%\devicecensus.exe
+fastprox.dll,%syswow64%,%system32%\devicecensus.exe
+fastprox.dll,%system32%,%system32%\driverquery.exe
+fastprox.dll,%syswow64%,%system32%\driverquery.exe
+fastprox.dll,%system32%,%system32%\getmac.exe
+fastprox.dll,%syswow64%,%system32%\getmac.exe
+fastprox.dll,%system32%,%system32%\licensingdiag.exe
+fastprox.dll,%syswow64%,%system32%\licensingdiag.exe
+fastprox.dll,%system32%,%system32%\msinfo32.exe
+fastprox.dll,%syswow64%,%system32%\msinfo32.exe
+fastprox.dll,%system32%,%system32%\stordiag.exe
+fastprox.dll,%syswow64%,%system32%\stordiag.exe
+fastprox.dll,%system32%,%system32%\systeminfo.exe
+fastprox.dll,%syswow64%,%system32%\systeminfo.exe
+fastprox.dll,%system32%,%system32%\tasklist.exe
+fastprox.dll,%syswow64%,%system32%\tasklist.exe
+fastprox.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+fastprox.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+wmidcom.dll,%system32%,%system32%\stordiag.exe
+wmidcom.dll,%syswow64%,%system32%\stordiag.exe
+d3dcompiler_47.dll,%programfiles%\windows kits\10\bin\%version%\x64,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\windows kits\10\bin\%version%\x86,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\windows kits\10\redist\d3d\x64,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\windows kits\10\redist\d3d\x86,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\wireshark,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\cisco systems\cisco jabber,%system32%\dwm.exe
+d3dcompiler_47.dll,%programfiles%\microsoft\edge\application\%version%,%system32%\dwm.exe
+d3dcompiler_47.dll,%system32%,%system32%\dwm.exe
+d3dcompiler_47.dll,%syswow64%,%system32%\dwm.exe
+ttdrecord.dll,%system32%,%system32%\tttracer.exe
+ttdrecord.dll,%syswow64%,%system32%\tttracer.exe
+wer.dll,%system32%,%system32%\dwwin.exe
+wer.dll,%syswow64%,%system32%\dwwin.exe
+wer.dll,%system32%,%system32%\msdt.exe
+wer.dll,%syswow64%,%system32%\msdt.exe
+wer.dll,%system32%,%system32%\pcalua.exe
+wer.dll,%syswow64%,%system32%\pcalua.exe
+wer.dll,%system32%,%system32%\relpost.exe
+wer.dll,%syswow64%,%system32%\relpost.exe
+wer.dll,%system32%,%system32%\rstrui.exe
+wer.dll,%syswow64%,%system32%\rstrui.exe
+wer.dll,%system32%,%system32%\sdclt.exe
+wer.dll,%syswow64%,%system32%\sdclt.exe
+wer.dll,%system32%,%system32%\srtasks.exe
+wer.dll,%syswow64%,%system32%\srtasks.exe
+wer.dll,%system32%,%system32%\wbengine.exe
+wer.dll,%syswow64%,%system32%\wbengine.exe
+wer.dll,%system32%,%system32%\werfault.exe
+wer.dll,%syswow64%,%system32%\werfault.exe
+wer.dll,%system32%,%system32%\werfaultsecure.exe
+wer.dll,%syswow64%,%system32%\werfaultsecure.exe
+wer.dll,%system32%,%system32%\wermgr.exe
+wer.dll,%syswow64%,%system32%\wermgr.exe
+msacm32.dll,%system32%,%system32%\osk.exe
+msacm32.dll,%syswow64%,%system32%\osk.exe
+dataexchange.dll,%system32%,%system32%\certreq.exe
+dataexchange.dll,%syswow64%,%system32%\certreq.exe
+dataexchange.dll,%system32%,%system32%\charmap.exe
+dataexchange.dll,%syswow64%,%system32%\charmap.exe
+dataexchange.dll,%system32%,%system32%\notepad.exe
+dataexchange.dll,%syswow64%,%system32%\notepad.exe
+dataexchange.dll,%system32%,%system32%\wordpad.exe
+dataexchange.dll,%syswow64%,%system32%\wordpad.exe
+dataexchange.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+dataexchange.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+dataexchange.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+dataexchange.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+dataexchange.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+dataexchange.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+dataexchange.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+dataexchange.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+dataexchange.dll,%system32%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+dataexchange.dll,%syswow64%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+msxml3.dll,%system32%,%system32%\wordpad.exe
+msxml3.dll,%syswow64%,%system32%\wordpad.exe
+reagent.dll,%system32%,%system32%\bootim.exe
+reagent.dll,%syswow64%,%system32%\bootim.exe
+reagent.dll,%system32%,%system32%\reagentc.exe
+reagent.dll,%syswow64%,%system32%\reagentc.exe
+reagent.dll,%system32%,%system32%\recdisc.exe
+reagent.dll,%syswow64%,%system32%\recdisc.exe
+reagent.dll,%system32%,%system32%\relpost.exe
+reagent.dll,%syswow64%,%system32%\relpost.exe
+reagent.dll,%system32%,%system32%\resetengine.exe
+reagent.dll,%syswow64%,%system32%\resetengine.exe
+reagent.dll,%system32%,%system32%\sdclt.exe
+reagent.dll,%syswow64%,%system32%\sdclt.exe
+reagent.dll,%system32%,%system32%\systemreset.exe
+reagent.dll,%syswow64%,%system32%\systemreset.exe
+dcomp.dll,%system32%,%system32%\gamepanel.exe
+dcomp.dll,%syswow64%,%system32%\gamepanel.exe
+dcomp.dll,%system32%,%system32%\quickassist.exe
+dcomp.dll,%syswow64%,%system32%\quickassist.exe
+tapi32.dll,%system32%,%system32%\dialer.exe
+tapi32.dll,%syswow64%,%system32%\dialer.exe
+tapi32.dll,%system32%,%system32%\fxssvc.exe
+tapi32.dll,%syswow64%,%system32%\fxssvc.exe
+tapi32.dll,%system32%,%system32%\tcmsetup.exe
+tapi32.dll,%syswow64%,%system32%\tcmsetup.exe
+dot3cfg.dll,%system32%,%system32%\netsh.exe
+dot3cfg.dll,%syswow64%,%system32%\netsh.exe
+deviceassociation.dll,%system32%,%system32%\eduprintprov.exe
+deviceassociation.dll,%syswow64%,%system32%\eduprintprov.exe
+mmdevapi.dll,%system32%,%system32%\osk.exe
+mmdevapi.dll,%syswow64%,%system32%\osk.exe
+mmdevapi.dll,%system32%,%system32%\certreq.exe
+mmdevapi.dll,%syswow64%,%system32%\certreq.exe
+mmdevapi.dll,%system32%,%system32%\devicecensus.exe
+mmdevapi.dll,%syswow64%,%system32%\devicecensus.exe
+mmdevapi.dll,%system32%,%system32%\mblctr.exe
+mmdevapi.dll,%syswow64%,%system32%\mblctr.exe
+mmdevapi.dll,%system32%,%system32%\notepad.exe
+mmdevapi.dll,%syswow64%,%system32%\notepad.exe
+mmdevapi.dll,%system32%,%system32%\presentationsettings.exe
+mmdevapi.dll,%syswow64%,%system32%\presentationsettings.exe
+mmdevapi.dll,%system32%,%system32%\sndvol.exe
+mmdevapi.dll,%syswow64%,%system32%\sndvol.exe
+wpdshext.dll,%system32%,%system32%\certreq.exe
+wpdshext.dll,%syswow64%,%system32%\certreq.exe
+wpdshext.dll,%system32%,%system32%\notepad.exe
+wpdshext.dll,%syswow64%,%system32%\notepad.exe
+uianimation.dll,%system32%,%system32%\cloudnotifications.exe
+uianimation.dll,%syswow64%,%system32%\cloudnotifications.exe
+uianimation.dll,%system32%,%system32%\gamepanel.exe
+uianimation.dll,%syswow64%,%system32%\gamepanel.exe
+msutb.dll,%system32%,%system32%\ctfmon.exe
+msutb.dll,%syswow64%,%system32%\ctfmon.exe
+drprov.dll,%system32%,%system32%\certreq.exe
+drprov.dll,%syswow64%,%system32%\certreq.exe
+drprov.dll,%system32%,%system32%\msdt.exe
+drprov.dll,%syswow64%,%system32%\msdt.exe
+drprov.dll,%system32%,%system32%\notepad.exe
+drprov.dll,%syswow64%,%system32%\notepad.exe
+drprov.dll,%system32%,%system32%\powershell.exe
+drprov.dll,%syswow64%,%system32%\powershell.exe
+drprov.dll,%system32%,%system32%\stordiag.exe
+drprov.dll,%syswow64%,%system32%\stordiag.exe
+drprov.dll,%system32%,%system32%\tabcal.exe
+drprov.dll,%syswow64%,%system32%\tabcal.exe
+drprov.dll,%system32%,%system32%\verifier.exe
+drprov.dll,%syswow64%,%system32%\verifier.exe
+drprov.dll,%system32%,%system32%\workfolders.exe
+drprov.dll,%syswow64%,%system32%\workfolders.exe
+drprov.dll,%system32%,%system32%\write.exe
+drprov.dll,%syswow64%,%system32%\write.exe
+dcntel.dll,%system32%,%system32%\devicecensus.exe
+coloradapterclient.dll,%system32%,%system32%\colorcpl.exe
+coloradapterclient.dll,%syswow64%,%system32%\colorcpl.exe
+coloradapterclient.dll,%system32%,%system32%\dccw.exe
+coloradapterclient.dll,%syswow64%,%system32%\dccw.exe
+utildll.dll,%system32%,%system32%\change.exe
+utildll.dll,%syswow64%,%system32%\change.exe
+utildll.dll,%system32%,%system32%\chglogon.exe
+utildll.dll,%syswow64%,%system32%\chglogon.exe
+utildll.dll,%system32%,%system32%\chgport.exe
+utildll.dll,%syswow64%,%system32%\chgport.exe
+utildll.dll,%system32%,%system32%\query.exe
+utildll.dll,%syswow64%,%system32%\query.exe
+utildll.dll,%system32%,%system32%\quser.exe
+utildll.dll,%syswow64%,%system32%\quser.exe
+utildll.dll,%system32%,%system32%\qwinsta.exe
+utildll.dll,%syswow64%,%system32%\qwinsta.exe
+utildll.dll,%system32%,%system32%\reset.exe
+utildll.dll,%syswow64%,%system32%\reset.exe
+utildll.dll,%system32%,%system32%\rwinsta.exe
+utildll.dll,%syswow64%,%system32%\rwinsta.exe
+utildll.dll,%system32%,%system32%\tscon.exe
+utildll.dll,%syswow64%,%system32%\tscon.exe
+utildll.dll,%system32%,%system32%\tskill.exe
+utildll.dll,%syswow64%,%system32%\tskill.exe
+omadmapi.dll,%system32%,%system32%\deviceenroller.exe
+omadmapi.dll,%syswow64%,%system32%\deviceenroller.exe
+omadmapi.dll,%system32%,%system32%\dmcertinst.exe
+omadmapi.dll,%syswow64%,%system32%\dmcertinst.exe
+omadmapi.dll,%system32%,%system32%\dmcfghost.exe
+omadmapi.dll,%syswow64%,%system32%\dmcfghost.exe
+omadmapi.dll,%system32%,%system32%\dmomacpmo.exe
+omadmapi.dll,%syswow64%,%system32%\dmomacpmo.exe
+omadmapi.dll,%system32%,%system32%\hvsievaluator.exe
+omadmapi.dll,%syswow64%,%system32%\hvsievaluator.exe
+omadmapi.dll,%system32%,%system32%\mdmappinstaller.exe
+omadmapi.dll,%syswow64%,%system32%\mdmappinstaller.exe
+omadmapi.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+omadmapi.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+omadmapi.dll,%system32%,%system32%\omadmclient.exe
+omadmapi.dll,%syswow64%,%system32%\omadmclient.exe
+omadmapi.dll,%system32%,%system32%\usocoreworker.exe
+omadmapi.dll,%syswow64%,%system32%\usocoreworker.exe
+dot3api.dll,%system32%,%system32%\netsh.exe
+dot3api.dll,%syswow64%,%system32%\netsh.exe
+systemsettingsthresholdadminflowui.dll,%system32%,%system32%\systemsettingsadminflows.exe
+uiautomationcore.dll,%system32%,%system32%\gamepanel.exe
+uiautomationcore.dll,%syswow64%,%system32%\gamepanel.exe
+uiautomationcore.dll,%system32%,%system32%\magnify.exe
+uiautomationcore.dll,%syswow64%,%system32%\magnify.exe
+rasmontr.dll,%system32%,%system32%\netsh.exe
+rasmontr.dll,%syswow64%,%system32%\netsh.exe
+onex.dll,%system32%,%system32%\netsh.exe
+onex.dll,%syswow64%,%system32%\netsh.exe
+fxsapi.dll,%system32%,%system32%\fxsunatd.exe
+fxsapi.dll,%system32%\driverstore\filerepository\prnms002.inf_%version%\amd64,%system32%\fxsunatd.exe
+fxsapi.dll,%syswow64%,%system32%\fxsunatd.exe
+maintenanceui.dll,%system32%,%system32%\mschedexe.exe
+fwpuclnt.dll,%system32%,%system32%\checknetisolation.exe
+fwpuclnt.dll,%syswow64%,%system32%\checknetisolation.exe
+fwpuclnt.dll,%system32%,%system32%\netsh.exe
+fwpuclnt.dll,%syswow64%,%system32%\netsh.exe
+fwpuclnt.dll,%system32%,%system32%\stordiag.exe
+fwpuclnt.dll,%syswow64%,%system32%\stordiag.exe
+whhelper.dll,%system32%,%system32%\netsh.exe
+whhelper.dll,%syswow64%,%system32%\netsh.exe
+tbs.dll,%system32%,%system32%\bootim.exe
+tbs.dll,%syswow64%,%system32%\bootim.exe
+tbs.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+tbs.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+tbs.dll,%system32%,%system32%\resetengine.exe
+tbs.dll,%syswow64%,%system32%\resetengine.exe
+tbs.dll,%system32%,%system32%\systemreset.exe
+tbs.dll,%syswow64%,%system32%\systemreset.exe
+devicecredential.dll,%system32%,%system32%\devicecredentialdeployment.exe
+devicecredential.dll,%syswow64%,%system32%\devicecredentialdeployment.exe
+iscsidsc.dll,%system32%,%system32%\iscsicli.exe
+iscsidsc.dll,%syswow64%,%system32%\iscsicli.exe
+regapi.dll,%system32%,%system32%\chglogon.exe
+regapi.dll,%syswow64%,%system32%\chglogon.exe
+regapi.dll,%system32%,%system32%\query.exe
+regapi.dll,%syswow64%,%system32%\query.exe
+regapi.dll,%system32%,%system32%\reset.exe
+regapi.dll,%syswow64%,%system32%\reset.exe
+vaultcli.dll,%system32%,%system32%\cipher.exe
+vaultcli.dll,%syswow64%,%system32%\cipher.exe
+vaultcli.dll,%system32%,%system32%\efsui.exe
+vaultcli.dll,%syswow64%,%system32%\efsui.exe
+vaultcli.dll,%system32%,%system32%\rekeywiz.exe
+vaultcli.dll,%syswow64%,%system32%\rekeywiz.exe
+vaultcli.dll,%system32%,%system32%\vaultcmd.exe
+vaultcli.dll,%syswow64%,%system32%\vaultcmd.exe
+spp.dll,%system32%,%system32%\rstrui.exe
+spp.dll,%syswow64%,%system32%\rstrui.exe
+spp.dll,%system32%,%system32%\sdclt.exe
+spp.dll,%syswow64%,%system32%\sdclt.exe
+spp.dll,%system32%,%system32%\srtasks.exe
+spp.dll,%syswow64%,%system32%\srtasks.exe
+spp.dll,%system32%,%system32%\wbengine.exe
+spp.dll,%syswow64%,%system32%\wbengine.exe
+firewallapi.dll,%system32%,%system32%\checknetisolation.exe
+firewallapi.dll,%syswow64%,%system32%\checknetisolation.exe
+firewallapi.dll,%system32%,%system32%\edpcleanup.exe
+firewallapi.dll,%syswow64%,%system32%\edpcleanup.exe
+firewallapi.dll,%system32%,%system32%\lpremove.exe
+firewallapi.dll,%syswow64%,%system32%\lpremove.exe
+firewallapi.dll,%system32%,%system32%\netsh.exe
+firewallapi.dll,%syswow64%,%system32%\netsh.exe
+firewallapi.dll,%system32%,%system32%\securityhealthservice.exe
+firewallapi.dll,%syswow64%,%system32%\securityhealthservice.exe
+firewallapi.dll,%system32%,%system32%\systemsettingsadminflows.exe
+firewallapi.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+hid.dll,%system32%,%system32%\psr.exe
+hid.dll,%syswow64%,%system32%\psr.exe
+hid.dll,%system32%,%system32%\tabcal.exe
+hid.dll,%syswow64%,%system32%\tabcal.exe
+pcaui.dll,%system32%,%system32%\pcalua.exe
+pcaui.dll,%syswow64%,%system32%\pcalua.exe
+printui.dll,%system32%,%system32%\printui.exe
+printui.dll,%syswow64%,%system32%\printui.exe
+winsta.dll,%system32%,%system32%\change.exe
+winsta.dll,%syswow64%,%system32%\change.exe
+winsta.dll,%system32%,%system32%\chglogon.exe
+winsta.dll,%syswow64%,%system32%\chglogon.exe
+winsta.dll,%system32%,%system32%\chgport.exe
+winsta.dll,%syswow64%,%system32%\chgport.exe
+winsta.dll,%system32%,%system32%\ctfmon.exe
+winsta.dll,%syswow64%,%system32%\ctfmon.exe
+winsta.dll,%system32%,%system32%\displayswitch.exe
+winsta.dll,%syswow64%,%system32%\displayswitch.exe
+winsta.dll,%system32%,%system32%\msg.exe
+winsta.dll,%syswow64%,%system32%\msg.exe
+winsta.dll,%system32%,%system32%\musnotification.exe
+winsta.dll,%syswow64%,%system32%\musnotification.exe
+winsta.dll,%system32%,%system32%\query.exe
+winsta.dll,%syswow64%,%system32%\query.exe
+winsta.dll,%system32%,%system32%\quser.exe
+winsta.dll,%syswow64%,%system32%\quser.exe
+winsta.dll,%system32%,%system32%\qwinsta.exe
+winsta.dll,%syswow64%,%system32%\qwinsta.exe
+winsta.dll,%system32%,%system32%\rdpclip.exe
+winsta.dll,%syswow64%,%system32%\rdpclip.exe
+winsta.dll,%system32%,%system32%\rdpsa.exe
+winsta.dll,%syswow64%,%system32%\rdpsa.exe
+winsta.dll,%system32%,%system32%\rdpsauachelper.exe
+winsta.dll,%syswow64%,%system32%\rdpsauachelper.exe
+winsta.dll,%system32%,%system32%\rdpshell.exe
+winsta.dll,%syswow64%,%system32%\rdpshell.exe
+winsta.dll,%system32%,%system32%\rdvghelper.exe
+winsta.dll,%syswow64%,%system32%\rdvghelper.exe
+winsta.dll,%system32%,%system32%\reset.exe
+winsta.dll,%syswow64%,%system32%\reset.exe
+winsta.dll,%system32%,%system32%\rwinsta.exe
+winsta.dll,%syswow64%,%system32%\rwinsta.exe
+winsta.dll,%system32%,%system32%\systempropertiesadvanced.exe
+winsta.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+winsta.dll,%system32%,%system32%\systempropertiescomputername.exe
+winsta.dll,%syswow64%,%system32%\systempropertiescomputername.exe
+winsta.dll,%system32%,%system32%\systempropertiesdataexecutionprevention.exe
+winsta.dll,%syswow64%,%system32%\systempropertiesdataexecutionprevention.exe
+winsta.dll,%system32%,%system32%\systempropertieshardware.exe
+winsta.dll,%syswow64%,%system32%\systempropertieshardware.exe
+winsta.dll,%system32%,%system32%\systempropertiesprotection.exe
+winsta.dll,%syswow64%,%system32%\systempropertiesprotection.exe
+winsta.dll,%system32%,%system32%\systempropertiesremote.exe
+winsta.dll,%syswow64%,%system32%\systempropertiesremote.exe
+winsta.dll,%system32%,%system32%\tscon.exe
+winsta.dll,%syswow64%,%system32%\tscon.exe
+winsta.dll,%system32%,%system32%\tsdiscon.exe
+winsta.dll,%syswow64%,%system32%\tsdiscon.exe
+winsta.dll,%system32%,%system32%\tskill.exe
+winsta.dll,%syswow64%,%system32%\tskill.exe
+rtutils.dll,%system32%,%system32%\dialer.exe
+rtutils.dll,%syswow64%,%system32%\dialer.exe
+rtutils.dll,%system32%,%system32%\nethost.exe
+rtutils.dll,%syswow64%,%system32%\nethost.exe
+rtutils.dll,%system32%,%system32%\rasautou.exe
+rtutils.dll,%syswow64%,%system32%\rasautou.exe
+rtutils.dll,%system32%,%system32%\rasdial.exe
+rtutils.dll,%syswow64%,%system32%\rasdial.exe
+twext.dll,%system32%,%system32%\compmgmtlauncher.exe
+twext.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+sspicli.dll,%system32%,%system32%\at.exe
+sspicli.dll,%syswow64%,%system32%\at.exe
+sspicli.dll,%system32%,%system32%\calc.exe
+sspicli.dll,%syswow64%,%system32%\calc.exe
+sspicli.dll,%system32%,%system32%\certreq.exe
+sspicli.dll,%syswow64%,%system32%\certreq.exe
+sspicli.dll,%system32%,%system32%\certutil.exe
+sspicli.dll,%syswow64%,%system32%\certutil.exe
+sspicli.dll,%system32%,%system32%\computerdefaults.exe
+sspicli.dll,%syswow64%,%system32%\computerdefaults.exe
+sspicli.dll,%system32%,%system32%\dialer.exe
+sspicli.dll,%syswow64%,%system32%\dialer.exe
+sspicli.dll,%system32%,%system32%\driverquery.exe
+sspicli.dll,%syswow64%,%system32%\driverquery.exe
+sspicli.dll,%system32%,%system32%\dsregcmd.exe
+sspicli.dll,%syswow64%,%system32%\dsregcmd.exe
+sspicli.dll,%system32%,%system32%\edpcleanup.exe
+sspicli.dll,%syswow64%,%system32%\edpcleanup.exe
+sspicli.dll,%system32%,%system32%\eduprintprov.exe
+sspicli.dll,%syswow64%,%system32%\eduprintprov.exe
+sspicli.dll,%system32%,%system32%\eventcreate.exe
+sspicli.dll,%syswow64%,%system32%\eventcreate.exe
+sspicli.dll,%system32%,%system32%\fodhelper.exe
+sspicli.dll,%syswow64%,%system32%\fodhelper.exe
+sspicli.dll,%system32%,%system32%\ftp.exe
+sspicli.dll,%syswow64%,%system32%\ftp.exe
+sspicli.dll,%system32%,%system32%\getmac.exe
+sspicli.dll,%syswow64%,%system32%\getmac.exe
+sspicli.dll,%system32%,%system32%\gpresult.exe
+sspicli.dll,%syswow64%,%system32%\gpresult.exe
+sspicli.dll,%system32%,%system32%\ksetup.exe
+sspicli.dll,%syswow64%,%system32%\ksetup.exe
+sspicli.dll,%system32%,%system32%\mdeserver.exe
+sspicli.dll,%syswow64%,%system32%\mdeserver.exe
+sspicli.dll,%system32%,%system32%\msdt.exe
+sspicli.dll,%syswow64%,%system32%\msdt.exe
+sspicli.dll,%system32%,%system32%\mshta.exe
+sspicli.dll,%syswow64%,%system32%\mshta.exe
+sspicli.dll,%system32%,%system32%\msra.exe
+sspicli.dll,%syswow64%,%system32%\msra.exe
+sspicli.dll,%system32%,%system32%\mstsc.exe
+sspicli.dll,%syswow64%,%system32%\mstsc.exe
+sspicli.dll,%system32%,%system32%\mtstocom.exe
+sspicli.dll,%syswow64%,%system32%\mtstocom.exe
+sspicli.dll,%system32%,%system32%\muiunattend.exe
+sspicli.dll,%syswow64%,%system32%\muiunattend.exe
+sspicli.dll,%system32%,%system32%\netsh.exe
+sspicli.dll,%syswow64%,%system32%\netsh.exe
+sspicli.dll,%system32%,%system32%\openfiles.exe
+sspicli.dll,%syswow64%,%system32%\openfiles.exe
+sspicli.dll,%system32%,%system32%\perfmon.exe
+sspicli.dll,%syswow64%,%system32%\perfmon.exe
+sspicli.dll,%system32%,%system32%\pinenrollmentbroker.exe
+sspicli.dll,%syswow64%,%system32%\pinenrollmentbroker.exe
+sspicli.dll,%system32%,%system32%\presentationsettings.exe
+sspicli.dll,%syswow64%,%system32%\presentationsettings.exe
+sspicli.dll,%system32%,%system32%\psr.exe
+sspicli.dll,%syswow64%,%system32%\psr.exe
+sspicli.dll,%system32%,%system32%\quickassist.exe
+sspicli.dll,%syswow64%,%system32%\quickassist.exe
+sspicli.dll,%system32%,%system32%\rdpsa.exe
+sspicli.dll,%syswow64%,%system32%\rdpsa.exe
+sspicli.dll,%system32%,%system32%\rpcping.exe
+sspicli.dll,%syswow64%,%system32%\rpcping.exe
+sspicli.dll,%system32%,%system32%\sdclt.exe
+sspicli.dll,%syswow64%,%system32%\sdclt.exe
+sspicli.dll,%system32%,%system32%\shutdown.exe
+sspicli.dll,%syswow64%,%system32%\shutdown.exe
+sspicli.dll,%system32%,%system32%\systeminfo.exe
+sspicli.dll,%syswow64%,%system32%\systeminfo.exe
+sspicli.dll,%system32%,%system32%\systemsettingsadminflows.exe
+sspicli.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+sspicli.dll,%system32%,%system32%\takeown.exe
+sspicli.dll,%syswow64%,%system32%\takeown.exe
+sspicli.dll,%system32%,%system32%\taskkill.exe
+sspicli.dll,%syswow64%,%system32%\taskkill.exe
+sspicli.dll,%system32%,%system32%\tasklist.exe
+sspicli.dll,%syswow64%,%system32%\tasklist.exe
+sspicli.dll,%system32%,%system32%\waitfor.exe
+sspicli.dll,%syswow64%,%system32%\waitfor.exe
+sspicli.dll,%system32%,%system32%\whoami.exe
+sspicli.dll,%syswow64%,%system32%\whoami.exe
+sspicli.dll,%system32%,%system32%\wkspbroker.exe
+sspicli.dll,%syswow64%,%system32%\wkspbroker.exe
+sspicli.dll,%system32%,%system32%\wlrmdr.exe
+sspicli.dll,%syswow64%,%system32%\wlrmdr.exe
+sspicli.dll,%system32%,%system32%\compmgmtlauncher.exe
+sspicli.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+sspicli.dll,%system32%,%system32%\rasphone.exe
+sspicli.dll,%syswow64%,%system32%\rasphone.exe
+uxinit.dll,%system32%,%system32%\winlogon.exe
+uxinit.dll,%syswow64%,%system32%\winlogon.exe
+feclient.dll,%system32%,%system32%\cipher.exe
+feclient.dll,%syswow64%,%system32%\cipher.exe
+feclient.dll,%system32%,%system32%\efsui.exe
+feclient.dll,%syswow64%,%system32%\efsui.exe
+feclient.dll,%system32%,%system32%\rekeywiz.exe
+feclient.dll,%syswow64%,%system32%\rekeywiz.exe
+bootmenuux.dll,%system32%,%system32%\bootim.exe
+windowscodecsext.dll,%system32%,%system32%\wfs.exe
+windowscodecsext.dll,%syswow64%,%system32%\wfs.exe
+devrtl.dll,%system32%,%system32%\drvinst.exe
+devrtl.dll,%syswow64%,%system32%\drvinst.exe
+devrtl.dll,%system32%,%system32%\pnpunattend.exe
+devrtl.dll,%syswow64%,%system32%\pnpunattend.exe
+devrtl.dll,%system32%,%system32%\systemsettingsadminflows.exe
+devrtl.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+devrtl.dll,%system32%,%system32%\wowreg32.exe
+devrtl.dll,%syswow64%,%system32%\wowreg32.exe
+miutils.dll,%system32%,%system32%\register-cimprovider.exe
+miutils.dll,%syswow64%,%system32%\register-cimprovider.exe
+miutils.dll,%system32%,%system32%\winrs.exe
+miutils.dll,%syswow64%,%system32%\winrs.exe
+miutils.dll,%system32%,%system32%\wsmanhttpconfig.exe
+miutils.dll,%syswow64%,%system32%\wsmanhttpconfig.exe
+miutils.dll,%system32%,%system32%\wsmprovhost.exe
+miutils.dll,%syswow64%,%system32%\wsmprovhost.exe
+windows.storage.dll,%system32%,%system32%\calc.exe
+windows.storage.dll,%syswow64%,%system32%\calc.exe
+windows.storage.dll,%system32%,%system32%\certreq.exe
+windows.storage.dll,%syswow64%,%system32%\certreq.exe
+windows.storage.dll,%system32%,%system32%\compmgmtlauncher.exe
+windows.storage.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+windows.storage.dll,%system32%,%system32%\control.exe
+windows.storage.dll,%syswow64%,%system32%\control.exe
+windows.storage.dll,%system32%,%system32%\dfrgui.exe
+windows.storage.dll,%syswow64%,%system32%\dfrgui.exe
+windows.storage.dll,%system32%,%system32%\explorer.exe
+windows.storage.dll,%syswow64%,%system32%\explorer.exe
+windows.storage.dll,%system32%,%system32%\filehistory.exe
+windows.storage.dll,%syswow64%,%system32%\filehistory.exe
+windows.storage.dll,%system32%,%system32%\licensingdiag.exe
+windows.storage.dll,%syswow64%,%system32%\licensingdiag.exe
+windows.storage.dll,%system32%,%system32%\msdt.exe
+windows.storage.dll,%syswow64%,%system32%\msdt.exe
+windows.storage.dll,%system32%,%system32%\mstsc.exe
+windows.storage.dll,%syswow64%,%system32%\mstsc.exe
+windows.storage.dll,%system32%,%system32%\notepad.exe
+windows.storage.dll,%syswow64%,%system32%\notepad.exe
+windows.storage.dll,%system32%,%system32%\powershell.exe
+windows.storage.dll,%syswow64%,%system32%\powershell.exe
+windows.storage.dll,%system32%,%system32%\presentationsettings.exe
+windows.storage.dll,%syswow64%,%system32%\presentationsettings.exe
+windows.storage.dll,%system32%,%system32%\rdpclip.exe
+windows.storage.dll,%syswow64%,%system32%\rdpclip.exe
+windows.storage.dll,%system32%,%system32%\tabcal.exe
+windows.storage.dll,%syswow64%,%system32%\tabcal.exe
+windows.storage.dll,%system32%,%system32%\verifier.exe
+windows.storage.dll,%syswow64%,%system32%\verifier.exe
+windows.storage.dll,%system32%,%system32%\wfs.exe
+windows.storage.dll,%syswow64%,%system32%\wfs.exe
+windows.storage.dll,%system32%,%system32%\workfolders.exe
+windows.storage.dll,%syswow64%,%system32%\workfolders.exe
+windows.storage.dll,%system32%,%system32%\write.exe
+windows.storage.dll,%syswow64%,%system32%\write.exe
+windows.storage.dll,%system32%,%system32%\wscollect.exe
+windows.storage.dll,%syswow64%,%system32%\wscollect.exe
+windows.storage.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+windows.storage.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+windows.storage.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+windows.storage.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+windows.storage.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+windows.storage.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+windows.storage.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+windows.storage.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+windows.storage.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+windows.storage.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+windows.storage.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+windows.storage.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+windows.storage.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+windows.storage.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+windows.storage.dll,%system32%,%appdata%\zoom\bin\zoom.exe
+windows.storage.dll,%syswow64%,%appdata%\zoom\bin\zoom.exe
+windows.storage.dll,%system32%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+windows.storage.dll,%syswow64%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+windowsperformancerecordercontrol.dll,%programfiles%\windows kits\10\windows performance toolkit,%system32%\wpr.exe
+windowsperformancerecordercontrol.dll,%system32%,%system32%\wpr.exe
+windowsperformancerecordercontrol.dll,%syswow64%,%system32%\wpr.exe
+appxalluserstore.dll,%system32%,%system32%\lpremove.exe
+appxalluserstore.dll,%syswow64%,%system32%\lpremove.exe
+appxdeploymentclient.dll,%system32%,%system32%\lpremove.exe
+appxdeploymentclient.dll,%syswow64%,%system32%\lpremove.exe
+appxdeploymentclient.dll,%system32%,%system32%\systemsettingsadminflows.exe
+appxdeploymentclient.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+devobj.dll,%system32%,%system32%\bthudtask.exe
+devobj.dll,%syswow64%,%system32%\bthudtask.exe
+devobj.dll,%system32%,%system32%\chkdsk.exe
+devobj.dll,%syswow64%,%system32%\chkdsk.exe
+devobj.dll,%system32%,%system32%\chkntfs.exe
+devobj.dll,%syswow64%,%system32%\chkntfs.exe
+devobj.dll,%system32%,%system32%\deviceenroller.exe
+devobj.dll,%syswow64%,%system32%\deviceenroller.exe
+devobj.dll,%system32%,%system32%\dispdiag.exe
+devobj.dll,%syswow64%,%system32%\dispdiag.exe
+devobj.dll,%system32%,%system32%\dmomacpmo.exe
+devobj.dll,%syswow64%,%system32%\dmomacpmo.exe
+devobj.dll,%system32%,%system32%\drvinst.exe
+devobj.dll,%syswow64%,%system32%\drvinst.exe
+devobj.dll,%system32%,%system32%\fsavailux.exe
+devobj.dll,%syswow64%,%system32%\fsavailux.exe
+devobj.dll,%system32%,%system32%\fsquirt.exe
+devobj.dll,%syswow64%,%system32%\fsquirt.exe
+devobj.dll,%system32%,%system32%\immersivetpmvscmgrsvr.exe
+devobj.dll,%syswow64%,%system32%\immersivetpmvscmgrsvr.exe
+devobj.dll,%system32%,%system32%\iscsicli.exe
+devobj.dll,%syswow64%,%system32%\iscsicli.exe
+devobj.dll,%system32%,%system32%\label.exe
+devobj.dll,%syswow64%,%system32%\label.exe
+devobj.dll,%system32%,%system32%\mdmappinstaller.exe
+devobj.dll,%syswow64%,%system32%\mdmappinstaller.exe
+devobj.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+devobj.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+devobj.dll,%system32%,%system32%\omadmclient.exe
+devobj.dll,%syswow64%,%system32%\omadmclient.exe
+devobj.dll,%system32%,%system32%\osk.exe
+devobj.dll,%syswow64%,%system32%\osk.exe
+devobj.dll,%system32%,%system32%\rdpclip.exe
+devobj.dll,%syswow64%,%system32%\rdpclip.exe
+devobj.dll,%system32%,%system32%\recover.exe
+devobj.dll,%syswow64%,%system32%\recover.exe
+devobj.dll,%system32%,%system32%\rmttpmvscmgrsvr.exe
+devobj.dll,%syswow64%,%system32%\rmttpmvscmgrsvr.exe
+devobj.dll,%system32%,%system32%\tabcal.exe
+devobj.dll,%syswow64%,%system32%\tabcal.exe
+devobj.dll,%system32%,%system32%\vssvc.exe
+devobj.dll,%syswow64%,%system32%\vssvc.exe
+devobj.dll,%system32%,%system32%\workfolders.exe
+devobj.dll,%syswow64%,%system32%\workfolders.exe
+wkscli.dll,%system32%,%system32%\djoin.exe
+wkscli.dll,%syswow64%,%system32%\djoin.exe
+wkscli.dll,%system32%,%system32%\dsregcmd.exe
+wkscli.dll,%syswow64%,%system32%\dsregcmd.exe
+wkscli.dll,%system32%,%system32%\edpcleanup.exe
+wkscli.dll,%syswow64%,%system32%\edpcleanup.exe
+wkscli.dll,%system32%,%system32%\getmac.exe
+wkscli.dll,%syswow64%,%system32%\getmac.exe
+wkscli.dll,%system32%,%system32%\ie4uinit.exe
+wkscli.dll,%syswow64%,%system32%\ie4uinit.exe
+wkscli.dll,%system32%,%system32%\mshta.exe
+wkscli.dll,%syswow64%,%system32%\mshta.exe
+wkscli.dll,%system32%,%system32%\mstsc.exe
+wkscli.dll,%syswow64%,%system32%\mstsc.exe
+wkscli.dll,%system32%,%system32%\net.exe
+wkscli.dll,%syswow64%,%system32%\net.exe
+wkscli.dll,%system32%,%system32%\net1.exe
+wkscli.dll,%syswow64%,%system32%\net1.exe
+wkscli.dll,%system32%,%system32%\systempropertiesadvanced.exe
+wkscli.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+wkscli.dll,%system32%,%system32%\systemsettingsadminflows.exe
+wkscli.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+wkscli.dll,%system32%,%system32%\whoami.exe
+wkscli.dll,%syswow64%,%system32%\whoami.exe
+getuname.dll,%system32%,%system32%\charmap.exe
+getuname.dll,%syswow64%,%system32%\charmap.exe
+iscsium.dll,%system32%,%system32%\iscsicli.exe
+iscsium.dll,%syswow64%,%system32%\iscsicli.exe
+wimgapi.dll,%system32%,%system32%\resetengine.exe
+wimgapi.dll,%syswow64%,%system32%\resetengine.exe
+wimgapi.dll,%system32%,%system32%\systemreset.exe
+wimgapi.dll,%syswow64%,%system32%\systemreset.exe
+wimgapi.dll,%system32%,%system32%\dism.exe
+wimgapi.dll,%syswow64%,%system32%\dism.exe
+dsrole.dll,%system32%,%system32%\certutil.exe
+dsrole.dll,%syswow64%,%system32%\certutil.exe
+dsrole.dll,%system32%,%system32%\cipher.exe
+dsrole.dll,%syswow64%,%system32%\cipher.exe
+dsrole.dll,%system32%,%system32%\efsui.exe
+dsrole.dll,%syswow64%,%system32%\efsui.exe
+dsrole.dll,%system32%,%system32%\net1.exe
+dsrole.dll,%syswow64%,%system32%\net1.exe
+dsrole.dll,%system32%,%system32%\netplwiz.exe
+dsrole.dll,%syswow64%,%system32%\netplwiz.exe
+dsrole.dll,%system32%,%system32%\rekeywiz.exe
+dsrole.dll,%syswow64%,%system32%\rekeywiz.exe
+dsrole.dll,%system32%,%system32%\systempropertiesadvanced.exe
+dsrole.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+dsrole.dll,%system32%,%system32%\winrs.exe
+dsrole.dll,%syswow64%,%system32%\winrs.exe
+dsrole.dll,%system32%,%system32%\wsmanhttpconfig.exe
+dsrole.dll,%syswow64%,%system32%\wsmanhttpconfig.exe
+dsrole.dll,%system32%,%system32%\wsmprovhost.exe
+dsrole.dll,%syswow64%,%system32%\wsmprovhost.exe
+dsrole.dll,%system32%,%system32%\filehistory.exe
+dsrole.dll,%syswow64%,%system32%\filehistory.exe
+winmde.dll,%system32%,%system32%\mdeserver.exe
+wshbth.dll,%system32%,%system32%\ftp.exe
+wshbth.dll,%syswow64%,%system32%\ftp.exe
+wshbth.dll,%system32%,%system32%\hostname.exe
+wshbth.dll,%syswow64%,%system32%\hostname.exe
+wshbth.dll,%system32%,%system32%\stordiag.exe
+wshbth.dll,%syswow64%,%system32%\stordiag.exe
+samlib.dll,%system32%,%system32%\dpapimig.exe
+samlib.dll,%syswow64%,%system32%\dpapimig.exe
+samlib.dll,%system32%,%system32%\easinvoker.exe
+samlib.dll,%syswow64%,%system32%\easinvoker.exe
+samlib.dll,%system32%,%system32%\netplwiz.exe
+samlib.dll,%syswow64%,%system32%\netplwiz.exe
+kdstub.dll,%system32%,%system32%\hvax64.exe
+kdstub.dll,%system32%,%system32%\hvix64.exe
+bcp47langs.dll,%system32%,%system32%\lpremove.exe
+bcp47langs.dll,%syswow64%,%system32%\lpremove.exe
+bcp47langs.dll,%system32%,%system32%\systemsettingsadminflows.exe
+bcp47langs.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+wininet.dll,%system32%,%system32%\calc.exe
+wininet.dll,%syswow64%,%system32%\calc.exe
+wininet.dll,%system32%,%system32%\certreq.exe
+wininet.dll,%syswow64%,%system32%\certreq.exe
+wininet.dll,%system32%,%system32%\computerdefaults.exe
+wininet.dll,%syswow64%,%system32%\computerdefaults.exe
+wininet.dll,%system32%,%system32%\dsregcmd.exe
+wininet.dll,%syswow64%,%system32%\dsregcmd.exe
+wininet.dll,%system32%,%system32%\fodhelper.exe
+wininet.dll,%syswow64%,%system32%\fodhelper.exe
+wininet.dll,%system32%,%system32%\ie4uinit.exe
+wininet.dll,%syswow64%,%system32%\ie4uinit.exe
+wininet.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+wininet.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+wininet.dll,%system32%,%system32%\mstsc.exe
+wininet.dll,%syswow64%,%system32%\mstsc.exe
+wininet.dll,%system32%,%system32%\presentationhost.exe
+wininet.dll,%syswow64%,%system32%\presentationhost.exe
+wininet.dll,%system32%,%system32%\quickassist.exe
+wininet.dll,%syswow64%,%system32%\quickassist.exe
+wininet.dll,%system32%,%system32%\wkspbroker.exe
+wininet.dll,%syswow64%,%system32%\wkspbroker.exe
+wininet.dll,%system32%,%system32%\wksprt.exe
+wininet.dll,%syswow64%,%system32%\wksprt.exe
+tsworkspace.dll,%system32%,%system32%\wkspbroker.exe
+tsworkspace.dll,%syswow64%,%system32%\wkspbroker.exe
+rasapi32.dll,%system32%,%system32%\cmdl32.exe
+rasapi32.dll,%syswow64%,%system32%\cmdl32.exe
+rasapi32.dll,%system32%,%system32%\nethost.exe
+rasapi32.dll,%syswow64%,%system32%\nethost.exe
+rasapi32.dll,%system32%,%system32%\netsh.exe
+rasapi32.dll,%syswow64%,%system32%\netsh.exe
+rasapi32.dll,%system32%,%system32%\rasdial.exe
+rasapi32.dll,%syswow64%,%system32%\rasdial.exe
+mintdh.dll,%system32%,%system32%\applytrustoffline.exe
+mintdh.dll,%system32%,%system32%\netsh.exe
+mintdh.dll,%system32%,%system32%\pktmon.exe
+mintdh.dll,%system32%,%system32%\plasrv.exe
+d3d9.dll,%system32%,%system32%\magnify.exe
+d3d9.dll,%syswow64%,%system32%\magnify.exe
+nettrace.dll,%system32%,%system32%\netsh.exe
+dismapi.dll,%system32%,%system32%\bootim.exe
+dismapi.dll,%syswow64%,%system32%\bootim.exe
+dismapi.dll,%system32%,%system32%\deploymentcsphelper.exe
+dismapi.dll,%syswow64%,%system32%\deploymentcsphelper.exe
+dismapi.dll,%system32%,%system32%\hvsievaluator.exe
+dismapi.dll,%syswow64%,%system32%\hvsievaluator.exe
+dismapi.dll,%system32%,%system32%\resetengine.exe
+dismapi.dll,%syswow64%,%system32%\resetengine.exe
+dismapi.dll,%system32%,%system32%\systemreset.exe
+dismapi.dll,%syswow64%,%system32%\systemreset.exe
+dismapi.dll,%system32%,%system32%\systemsettingsadminflows.exe
+dismapi.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+mstracer.dll,,%system32%\searchindexer.exe
+mstracer.dll,,%system32%\searchprotocolhost.exe
+cabinet.dll,%system32%,%system32%\bootim.exe
+cabinet.dll,%syswow64%,%system32%\bootim.exe
+cabinet.dll,%system32%,%system32%\certutil.exe
+cabinet.dll,%syswow64%,%system32%\certutil.exe
+cabinet.dll,%system32%,%system32%\cmdl32.exe
+cabinet.dll,%syswow64%,%system32%\cmdl32.exe
+cabinet.dll,%system32%,%system32%\expand.exe
+cabinet.dll,%syswow64%,%system32%\expand.exe
+cabinet.dll,%system32%,%system32%\extrac32.exe
+cabinet.dll,%syswow64%,%system32%\extrac32.exe
+cabinet.dll,%system32%,%system32%\licensingdiag.exe
+cabinet.dll,%syswow64%,%system32%\licensingdiag.exe
+cabinet.dll,%system32%,%system32%\makecab.exe
+cabinet.dll,%syswow64%,%system32%\makecab.exe
+cabinet.dll,%system32%,%system32%\msdt.exe
+cabinet.dll,%syswow64%,%system32%\msdt.exe
+cabinet.dll,%system32%,%system32%\musnotification.exe
+cabinet.dll,%syswow64%,%system32%\musnotification.exe
+cabinet.dll,%system32%,%system32%\musnotificationux.exe
+cabinet.dll,%syswow64%,%system32%\musnotificationux.exe
+cabinet.dll,%system32%,%system32%\netsh.exe
+cabinet.dll,%syswow64%,%system32%\netsh.exe
+cabinet.dll,%system32%,%system32%\plasrv.exe
+cabinet.dll,%syswow64%,%system32%\plasrv.exe
+cabinet.dll,%system32%,%system32%\reagentc.exe
+cabinet.dll,%syswow64%,%system32%\reagentc.exe
+cabinet.dll,%system32%,%system32%\recdisc.exe
+cabinet.dll,%syswow64%,%system32%\recdisc.exe
+cabinet.dll,%system32%,%system32%\relpost.exe
+cabinet.dll,%syswow64%,%system32%\relpost.exe
+cabinet.dll,%system32%,%system32%\resetengine.exe
+cabinet.dll,%syswow64%,%system32%\resetengine.exe
+cabinet.dll,%system32%,%system32%\sdclt.exe
+cabinet.dll,%syswow64%,%system32%\sdclt.exe
+cabinet.dll,%system32%,%system32%\systemreset.exe
+cabinet.dll,%syswow64%,%system32%\systemreset.exe
+cabinet.dll,%system32%,%system32%\usocoreworker.exe
+cabinet.dll,%syswow64%,%system32%\usocoreworker.exe
+cabinet.dll,%system32%,%system32%\wextract.exe
+cabinet.dll,%syswow64%,%system32%\wextract.exe
+cabinet.dll,%system32%,%system32%\wimserv.exe
+cabinet.dll,%syswow64%,%system32%\wimserv.exe
+cabinet.dll,%system32%,%system32%\wpnpinst.exe
+cabinet.dll,%syswow64%,%system32%\wpnpinst.exe
+cabinet.dll,%system32%,%system32%\logman.exe
+cabinet.dll,%syswow64%,%system32%\logman.exe
+fwcfg.dll,%system32%,%system32%\netsh.exe
+fwcfg.dll,%syswow64%,%system32%\netsh.exe
+wldp.dll,%system32%,%system32%\mshta.exe
+wldp.dll,%syswow64%,%system32%\mshta.exe
+wldp.dll,%system32%,%system32%\securityhealthservice.exe
+wldp.dll,%syswow64%,%system32%\securityhealthservice.exe
+wldp.dll,%system32%,%system32%\systemsettingsadminflows.exe
+wldp.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+xmllite.dll,%system32%,%system32%\certreq.exe
+xmllite.dll,%syswow64%,%system32%\certreq.exe
+xmllite.dll,%system32%,%system32%\ddodiag.exe
+xmllite.dll,%syswow64%,%system32%\ddodiag.exe
+xmllite.dll,%system32%,%system32%\deviceenroller.exe
+xmllite.dll,%syswow64%,%system32%\deviceenroller.exe
+xmllite.dll,%system32%,%system32%\dmcfghost.exe
+xmllite.dll,%syswow64%,%system32%\dmcfghost.exe
+xmllite.dll,%system32%,%system32%\dmclient.exe
+xmllite.dll,%syswow64%,%system32%\dmclient.exe
+xmllite.dll,%system32%,%system32%\dmomacpmo.exe
+xmllite.dll,%syswow64%,%system32%\dmomacpmo.exe
+xmllite.dll,%system32%,%system32%\dxpserver.exe
+xmllite.dll,%syswow64%,%system32%\dxpserver.exe
+xmllite.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+xmllite.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+xmllite.dll,%system32%,%system32%\musnotificationux.exe
+xmllite.dll,%syswow64%,%system32%\musnotificationux.exe
+xmllite.dll,%system32%,%system32%\musnotifyicon.exe
+xmllite.dll,%syswow64%,%system32%\musnotifyicon.exe
+xmllite.dll,%system32%,%system32%\omadmclient.exe
+xmllite.dll,%syswow64%,%system32%\omadmclient.exe
+xmllite.dll,%system32%,%system32%\psr.exe
+xmllite.dll,%syswow64%,%system32%\psr.exe
+xmllite.dll,%system32%,%system32%\resetengine.exe
+xmllite.dll,%syswow64%,%system32%\resetengine.exe
+xmllite.dll,%system32%,%system32%\sppsvc.exe
+xmllite.dll,%syswow64%,%system32%\sppsvc.exe
+xmllite.dll,%system32%,%system32%\systemreset.exe
+xmllite.dll,%syswow64%,%system32%\systemreset.exe
+xmllite.dll,%system32%,%system32%\upfc.exe
+xmllite.dll,%syswow64%,%system32%\upfc.exe
+xmllite.dll,%system32%,%system32%\usocoreworker.exe
+xmllite.dll,%syswow64%,%system32%\usocoreworker.exe
+xmllite.dll,%system32%,%system32%\wbengine.exe
+xmllite.dll,%syswow64%,%system32%\wbengine.exe
+xmllite.dll,%system32%,%system32%\compmgmtlauncher.exe
+xmllite.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+xmllite.dll,%system32%,%system32%\explorer.exe
+xmllite.dll,%syswow64%,%system32%\explorer.exe
+xmllite.dll,%system32%,%system32%\filehistory.exe
+xmllite.dll,%syswow64%,%system32%\filehistory.exe
+xmllite.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+xmllite.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+wdi.dll,%system32%,%system32%\msra.exe
+wdi.dll,%syswow64%,%system32%\msra.exe
+wdi.dll,%system32%,%system32%\netsh.exe
+wdi.dll,%syswow64%,%system32%\netsh.exe
+wdi.dll,%system32%,%system32%\dpiscaling.exe
+wdi.dll,%syswow64%,%system32%\dpiscaling.exe
+wdi.dll,%system32%,%system32%\slui.exe
+wdi.dll,%syswow64%,%system32%\slui.exe
+prvdmofcomp.dll,%system32%,%system32%\register-cimprovider.exe
+prvdmofcomp.dll,%syswow64%,%system32%\register-cimprovider.exe
+fddevquery.dll,%system32%,%system32%\ddodiag.exe
+fddevquery.dll,%syswow64%,%system32%\ddodiag.exe
+secur32.dll,%system32%,%system32%\calc.exe
+secur32.dll,%syswow64%,%system32%\calc.exe
+secur32.dll,%system32%,%system32%\computerdefaults.exe
+secur32.dll,%syswow64%,%system32%\computerdefaults.exe
+secur32.dll,%system32%,%system32%\fodhelper.exe
+secur32.dll,%syswow64%,%system32%\fodhelper.exe
+secur32.dll,%system32%,%system32%\gpresult.exe
+secur32.dll,%syswow64%,%system32%\gpresult.exe
+secur32.dll,%system32%,%system32%\klist.exe
+secur32.dll,%syswow64%,%system32%\klist.exe
+dnsapi.dll,%system32%,%system32%\checknetisolation.exe
+dnsapi.dll,%syswow64%,%system32%\checknetisolation.exe
+dnsapi.dll,%system32%,%system32%\edpcleanup.exe
+dnsapi.dll,%syswow64%,%system32%\edpcleanup.exe
+dnsapi.dll,%system32%,%system32%\lpremove.exe
+dnsapi.dll,%syswow64%,%system32%\lpremove.exe
+dnsapi.dll,%system32%,%system32%\msdtc.exe
+dnsapi.dll,%syswow64%,%system32%\msdtc.exe
+dnsapi.dll,%system32%,%system32%\netsh.exe
+dnsapi.dll,%syswow64%,%system32%\netsh.exe
+dnsapi.dll,%system32%,%system32%\nslookup.exe
+dnsapi.dll,%syswow64%,%system32%\nslookup.exe
+dnsapi.dll,%system32%,%system32%\securityhealthservice.exe
+dnsapi.dll,%syswow64%,%system32%\securityhealthservice.exe
+dnsapi.dll,%system32%,%system32%\setupugc.exe
+dnsapi.dll,%syswow64%,%system32%\setupugc.exe
+dnsapi.dll,%system32%,%system32%\spoolsv.exe
+dnsapi.dll,%syswow64%,%system32%\spoolsv.exe
+dnsapi.dll,%system32%,%system32%\sppextcomobj.exe
+dnsapi.dll,%syswow64%,%system32%\sppextcomobj.exe
+dnsapi.dll,%system32%,%system32%\systempropertiesadvanced.exe
+dnsapi.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+dnsapi.dll,%system32%,%system32%\systemsettingsadminflows.exe
+dnsapi.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+dnsapi.dll,%system32%,%system32%\tieringengineservice.exe
+dnsapi.dll,%syswow64%,%system32%\tieringengineservice.exe
+dnsapi.dll,%system32%,%system32%\wbengine.exe
+dnsapi.dll,%syswow64%,%system32%\wbengine.exe
+dnsapi.dll,%system32%,%system32%\wkspbroker.exe
+dnsapi.dll,%syswow64%,%system32%\wkspbroker.exe
+wcnnetsh.dll,%system32%,%system32%\netsh.exe
+inproclogger.dll,%system32%,%system32%\easpolicymanagerbrokerhost.exe
+colorui.dll,%system32%,%system32%\colorcpl.exe
+colorui.dll,%syswow64%,%system32%\colorcpl.exe
+mapistub.dll,%system32%,%system32%\fixmapi.exe
+mapistub.dll,%syswow64%,%system32%\fixmapi.exe
+nlansp_c.dll,%system32%,%system32%\ftp.exe
+nlansp_c.dll,%syswow64%,%system32%\ftp.exe
+nlansp_c.dll,%system32%,%system32%\hostname.exe
+nlansp_c.dll,%syswow64%,%system32%\hostname.exe
+nlansp_c.dll,%system32%,%system32%\stordiag.exe
+nlansp_c.dll,%syswow64%,%system32%\stordiag.exe
+archiveint.dll,%system32%,%system32%\tar.exe
+archiveint.dll,%syswow64%,%system32%\tar.exe
+mswb7.dll,%system32%,%system32%\control.exe
+mswb7.dll,%syswow64%,%system32%\control.exe
+mswb7.dll,%system32%,%system32%\explorer.exe
+mswb7.dll,%syswow64%,%system32%\explorer.exe
+fxsst.dll,%system32%,%windir%\explorer.exe
+ssshim.dll,%system32%,%system32%\sfc.exe
+ssshim.dll,%syswow64%,%system32%\sfc.exe
+upshared.dll,%system32%,%system32%\musnotification.exe
+upshared.dll,%system32%,%system32%\musnotificationux.exe
+upshared.dll,%system32%,%system32%\musnotifyicon.exe
+msdtctm.dll,%system32%,%system32%\msdtc.exe
+sppc.dll,%system32%,%system32%\msinfo32.exe
+sppc.dll,%syswow64%,%system32%\msinfo32.exe
+sppc.dll,%system32%,%system32%\netsh.exe
+sppc.dll,%syswow64%,%system32%\netsh.exe
+sppc.dll,%system32%,%system32%\packageinspector.exe
+sppc.dll,%syswow64%,%system32%\packageinspector.exe
+sppc.dll,%system32%,%system32%\slui.exe
+sppc.dll,%syswow64%,%system32%\slui.exe
+ssp.exe_rsaenh.dll,%system32%,%system32%\rmactivate
+ssp.exe_rsaenh.dll,%syswow64%,%system32%\rmactivate
+resetengine.dll,%system32%,%system32%\resetengine.exe
+resetengine.dll,%system32%,%system32%\systemreset.exe
+ntmarta.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+ntmarta.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+ntmarta.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+ntmarta.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+ntmarta.dll,%system32%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+ntmarta.dll,%syswow64%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+pla.dll,%system32%,%system32%\logman.exe
+pla.dll,%syswow64%,%system32%\logman.exe
+d3d10.dll,%system32%,%system32%\winsat.exe
+d3d10.dll,%syswow64%,%system32%\winsat.exe
+idstore.dll,%system32%,%system32%\devicecensus.exe
+idstore.dll,%syswow64%,%system32%\devicecensus.exe
+idstore.dll,%system32%,%system32%\shellappruntime.exe
+idstore.dll,%syswow64%,%system32%\shellappruntime.exe
+wshelper.dll,%system32%,%system32%\netsh.exe
+wshelper.dll,%syswow64%,%system32%\netsh.exe
+srcore.dll,%system32%,%system32%\rstrui.exe
+srcore.dll,%system32%,%system32%\srtasks.exe
+auditpolcore.dll,%system32%,%system32%\auditpol.exe
+auditpolcore.dll,%syswow64%,%system32%\auditpol.exe
+atl.dll,%system32%,%system32%\msconfig.exe
+atl.dll,%syswow64%,%system32%\msconfig.exe
+atl.dll,%system32%,%system32%\msdt.exe
+atl.dll,%syswow64%,%system32%\msdt.exe
+atl.dll,%system32%,%system32%\msinfo32.exe
+atl.dll,%syswow64%,%system32%\msinfo32.exe
+atl.dll,%system32%,%system32%\perfmon.exe
+atl.dll,%syswow64%,%system32%\perfmon.exe
+atl.dll,%system32%,%system32%\quickassist.exe
+atl.dll,%syswow64%,%system32%\quickassist.exe
+atl.dll,%system32%,%system32%\vds.exe
+atl.dll,%syswow64%,%system32%\vds.exe
+atl.dll,%system32%,%system32%\vdsldr.exe
+atl.dll,%syswow64%,%system32%\vdsldr.exe
+atl.dll,%system32%,%system32%\vssadmin.exe
+atl.dll,%syswow64%,%system32%\vssadmin.exe
+atl.dll,%system32%,%system32%\wfs.exe
+atl.dll,%syswow64%,%system32%\wfs.exe
+lpksetupproxyserv.dll,%system32%,%system32%\lpksetup.exe
+lpksetupproxyserv.dll,%syswow64%,%system32%\lpksetup.exe
+peerdistsh.dll,%system32%,%system32%\netsh.exe
+peerdistsh.dll,%syswow64%,%system32%\netsh.exe
+tquery.dll,%system32%,%system32%\searchfilterhost.exe
+tquery.dll,%syswow64%,%system32%\searchfilterhost.exe
+cscui.dll,%system32%,%system32%\certreq.exe
+cscui.dll,%syswow64%,%system32%\certreq.exe
+cscui.dll,%system32%,%system32%\compmgmtlauncher.exe
+cscui.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+cscui.dll,%system32%,%system32%\explorer.exe
+cscui.dll,%syswow64%,%system32%\explorer.exe
+cscui.dll,%system32%,%system32%\notepad.exe
+cscui.dll,%syswow64%,%system32%\notepad.exe
+xwizards.dll,%system32%,%system32%\devicepairingwizard.exe
+xwizards.dll,%syswow64%,%system32%\devicepairingwizard.exe
+xwizards.dll,%system32%,%system32%\rasphone.exe
+xwizards.dll,%syswow64%,%system32%\rasphone.exe
+mfcore.dll,%system32%,%system32%\mfpmp.exe
+mfcore.dll,%syswow64%,%system32%\mfpmp.exe
+dmiso8601utils.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+dmiso8601utils.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+dmiso8601utils.dll,%system32%,%system32%\omadmclient.exe
+dmiso8601utils.dll,%syswow64%,%system32%\omadmclient.exe
+dmiso8601utils.dll,%system32%,%system32%\usocoreworker.exe
+dmiso8601utils.dll,%syswow64%,%system32%\usocoreworker.exe
+windowscodecs.dll,%system32%,%system32%\certreq.exe
+windowscodecs.dll,%syswow64%,%system32%\certreq.exe
+windowscodecs.dll,%system32%,%system32%\osk.exe
+windowscodecs.dll,%syswow64%,%system32%\osk.exe
+windowscodecs.dll,%system32%,%system32%\quickassist.exe
+windowscodecs.dll,%syswow64%,%system32%\quickassist.exe
+windowscodecs.dll,%system32%,%system32%\wmpdmc.exe
+windowscodecs.dll,%syswow64%,%system32%\wmpdmc.exe
+windowscodecs.dll,%system32%,%system32%\compmgmtlauncher.exe
+windowscodecs.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+windowscodecs.dll,%system32%,%system32%\dfrgui.exe
+windowscodecs.dll,%syswow64%,%system32%\dfrgui.exe
+windowscodecs.dll,%system32%,%system32%\explorer.exe
+windowscodecs.dll,%syswow64%,%system32%\explorer.exe
+windowscodecs.dll,%system32%,%system32%\filehistory.exe
+windowscodecs.dll,%syswow64%,%system32%\filehistory.exe
+windowscodecs.dll,%system32%,%system32%\gamepanel.exe
+windowscodecs.dll,%syswow64%,%system32%\gamepanel.exe
+windowscodecs.dll,%system32%,%system32%\mstsc.exe
+windowscodecs.dll,%syswow64%,%system32%\mstsc.exe
+windowscodecs.dll,%system32%,%system32%\notepad.exe
+windowscodecs.dll,%syswow64%,%system32%\notepad.exe
+windowscodecs.dll,%system32%,%system32%\presentationsettings.exe
+windowscodecs.dll,%syswow64%,%system32%\presentationsettings.exe
+windowscodecs.dll,%system32%,%system32%\wfs.exe
+windowscodecs.dll,%syswow64%,%system32%\wfs.exe
+windowscodecs.dll,%system32%,%system32%\winver.exe
+windowscodecs.dll,%syswow64%,%system32%\winver.exe
+windowscodecs.dll,%system32%,%system32%\wordpad.exe
+windowscodecs.dll,%syswow64%,%system32%\wordpad.exe
+windowscodecs.dll,%system32%,%system32%\wscollect.exe
+windowscodecs.dll,%syswow64%,%system32%\wscollect.exe
+windowscodecs.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+windowscodecs.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+windowscodecs.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+windowscodecs.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+windowscodecs.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+windowscodecs.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+windowscodecs.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+windowscodecs.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+windowscodecs.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+windowscodecs.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+wwancfg.dll,%system32%,%system32%\netsh.exe
+radcui.dll,%system32%,%system32%\wkspbroker.exe
+radcui.dll,%syswow64%,%system32%\wkspbroker.exe
+d3d11.dll,%system32%,%system32%\dataexchangehost.exe
+d3d11.dll,%syswow64%,%system32%\dataexchangehost.exe
+d3d11.dll,%system32%,%system32%\dwm.exe
+d3d11.dll,%syswow64%,%system32%\dwm.exe
+d3d11.dll,%system32%,%system32%\dxgiadaptercache.exe
+d3d11.dll,%syswow64%,%system32%\dxgiadaptercache.exe
+d3d11.dll,%system32%,%system32%\gamepanel.exe
+d3d11.dll,%syswow64%,%system32%\gamepanel.exe
+d3d11.dll,%system32%,%system32%\mdeserver.exe
+d3d11.dll,%syswow64%,%system32%\mdeserver.exe
+d3d11.dll,%system32%,%system32%\quickassist.exe
+d3d11.dll,%syswow64%,%system32%\quickassist.exe
+d3d11.dll,%system32%,%system32%\systemreset.exe
+d3d11.dll,%syswow64%,%system32%\systemreset.exe
+d3d11.dll,%system32%,%system32%\taskmgr.exe
+d3d11.dll,%syswow64%,%system32%\taskmgr.exe
+d3d11.dll,%system32%,%system32%\winsat.exe
+d3d11.dll,%syswow64%,%system32%\winsat.exe
+dsreg.dll,%system32%,%system32%\dsregcmd.exe
+dsreg.dll,%syswow64%,%system32%\dsregcmd.exe
+srpapi.dll,%system32%,%system32%\mshta.exe
+srpapi.dll,%syswow64%,%system32%\mshta.exe
+srpapi.dll,%system32%,%system32%\rdpclip.exe
+srpapi.dll,%syswow64%,%system32%\rdpclip.exe
+nlaapi.dll,%system32%,%system32%\netsh.exe
+nlaapi.dll,%syswow64%,%system32%\netsh.exe
+cryptdll.dll,%system32%,%system32%\at.exe
+cryptdll.dll,%syswow64%,%system32%\at.exe
+midimap.dll,%system32%,%system32%\osk.exe
+midimap.dll,%syswow64%,%system32%\osk.exe
+shell32.dll,%system32%,%system32%\certreq.exe
+shell32.dll,%syswow64%,%system32%\certreq.exe
+shell32.dll,%system32%,%system32%\control.exe
+shell32.dll,%syswow64%,%system32%\control.exe
+shell32.dll,%system32%,%system32%\dpiscaling.exe
+shell32.dll,%syswow64%,%system32%\dpiscaling.exe
+shell32.dll,%system32%,%system32%\mobsync.exe
+shell32.dll,%syswow64%,%system32%\mobsync.exe
+shell32.dll,%system32%,%system32%\mstsc.exe
+shell32.dll,%syswow64%,%system32%\mstsc.exe
+shell32.dll,%system32%,%system32%\notepad.exe
+shell32.dll,%syswow64%,%system32%\notepad.exe
+shell32.dll,%system32%,%system32%\presentationsettings.exe
+shell32.dll,%syswow64%,%system32%\presentationsettings.exe
+shell32.dll,%system32%,%system32%\shellappruntime.exe
+shell32.dll,%syswow64%,%system32%\shellappruntime.exe
+shell32.dll,%system32%,%system32%\wallpaperhost.exe
+shell32.dll,%syswow64%,%system32%\wallpaperhost.exe
+sxshared.dll,%system32%,%system32%\dfrgui.exe
+sxshared.dll,%syswow64%,%system32%\dfrgui.exe
+wtsapi32.dll,%system32%,%system32%\bdeuisrv.exe
+wtsapi32.dll,%syswow64%,%system32%\bdeuisrv.exe
+wtsapi32.dll,%system32%,%system32%\magnify.exe
+wtsapi32.dll,%syswow64%,%system32%\magnify.exe
+wtsapi32.dll,%system32%,%system32%\mdmappinstaller.exe
+wtsapi32.dll,%syswow64%,%system32%\mdmappinstaller.exe
+wtsapi32.dll,%system32%,%system32%\raserver.exe
+wtsapi32.dll,%syswow64%,%system32%\raserver.exe
+wtsapi32.dll,%system32%,%system32%\rdpclip.exe
+wtsapi32.dll,%syswow64%,%system32%\rdpclip.exe
+wtsapi32.dll,%system32%,%system32%\rdpshell.exe
+wtsapi32.dll,%syswow64%,%system32%\rdpshell.exe
+wtsapi32.dll,%system32%,%system32%\rdvghelper.exe
+wtsapi32.dll,%syswow64%,%system32%\rdvghelper.exe
+wtsapi32.dll,%system32%,%system32%\sdclt.exe
+wtsapi32.dll,%syswow64%,%system32%\sdclt.exe
+wtsapi32.dll,%system32%,%system32%\securityhealthservice.exe
+wtsapi32.dll,%syswow64%,%system32%\securityhealthservice.exe
+wtsapi32.dll,%system32%,%system32%\slui.exe
+wtsapi32.dll,%syswow64%,%system32%\slui.exe
+wtsapi32.dll,%system32%,%system32%\systemsettingsadminflows.exe
+wtsapi32.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+wtsapi32.dll,%system32%,%system32%\wusa.exe
+wtsapi32.dll,%syswow64%,%system32%\wusa.exe
+cscapi.dll,%system32%,%system32%\certreq.exe
+cscapi.dll,%syswow64%,%system32%\certreq.exe
+cscapi.dll,%system32%,%system32%\microsoft.uev.cscunpintool.exe
+cscapi.dll,%syswow64%,%system32%\microsoft.uev.cscunpintool.exe
+winipsec.dll,%system32%,%system32%\netsh.exe
+winipsec.dll,%syswow64%,%system32%\netsh.exe
+wbemprox.dll,%system32%,%system32%\cttune.exe
+wbemprox.dll,%syswow64%,%system32%\cttune.exe
+wbemprox.dll,%system32%,%system32%\devicecensus.exe
+wbemprox.dll,%syswow64%,%system32%\devicecensus.exe
+wbemprox.dll,%system32%,%system32%\driverquery.exe
+wbemprox.dll,%syswow64%,%system32%\driverquery.exe
+wbemprox.dll,%system32%,%system32%\getmac.exe
+wbemprox.dll,%syswow64%,%system32%\getmac.exe
+wbemprox.dll,%system32%,%system32%\gpresult.exe
+wbemprox.dll,%syswow64%,%system32%\gpresult.exe
+wbemprox.dll,%system32%,%system32%\licensingdiag.exe
+wbemprox.dll,%syswow64%,%system32%\licensingdiag.exe
+wbemprox.dll,%system32%,%system32%\msinfo32.exe
+wbemprox.dll,%syswow64%,%system32%\msinfo32.exe
+wbemprox.dll,%system32%,%system32%\stordiag.exe
+wbemprox.dll,%syswow64%,%system32%\stordiag.exe
+wbemprox.dll,%system32%,%system32%\systeminfo.exe
+wbemprox.dll,%syswow64%,%system32%\systeminfo.exe
+wbemprox.dll,%system32%,%system32%\taskkill.exe
+wbemprox.dll,%syswow64%,%system32%\taskkill.exe
+wbemprox.dll,%system32%,%system32%\tasklist.exe
+wbemprox.dll,%syswow64%,%system32%\tasklist.exe
+wbemprox.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+wbemprox.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+wevtapi.dll,%system32%,%system32%\gpupdate.exe
+wevtapi.dll,%syswow64%,%system32%\gpupdate.exe
+wevtapi.dll,%system32%,%system32%\netsh.exe
+wevtapi.dll,%syswow64%,%system32%\netsh.exe
+wevtapi.dll,%system32%,%system32%\packageinspector.exe
+wevtapi.dll,%syswow64%,%system32%\packageinspector.exe
+wevtapi.dll,%system32%,%system32%\plasrv.exe
+wevtapi.dll,%syswow64%,%system32%\plasrv.exe
+wevtapi.dll,%system32%,%system32%\wecutil.exe
+wevtapi.dll,%syswow64%,%system32%\wecutil.exe
+wevtapi.dll,%system32%,%system32%\wsreset.exe
+wevtapi.dll,%syswow64%,%system32%\wsreset.exe
+wevtapi.dll,%system32%,%system32%\filehistory.exe
+wevtapi.dll,%syswow64%,%system32%\filehistory.exe
+wevtapi.dll,%system32%,%system32%\logman.exe
+wevtapi.dll,%syswow64%,%system32%\logman.exe
+dismcore.dll,%system32%\dism,%system32%\dism.exe
+dismcore.dll,%syswow64%\dism,%system32%\dism.exe
+mrmcorer.dll,%system32%,%system32%\mcbuilder.exe
+mrmcorer.dll,%syswow64%,%system32%\mcbuilder.exe
+oci.dll,,%system32%\msdtc.exe
+fxstiff.dll,%system32%,%system32%\fxssvc.exe
+fxstiff.dll,%system32%\driverstore\filerepository\prnms002.inf_%version%\amd64,%system32%\fxssvc.exe
+licensemanagerapi.dll,%system32%,%system32%\wsreset.exe
+licensemanagerapi.dll,%syswow64%,%system32%\wsreset.exe
+xolehlp.dll,%system32%,%system32%\msdtc.exe
+xolehlp.dll,%syswow64%,%system32%\msdtc.exe
+dmcmnutils.dll,%system32%,%system32%\deviceenroller.exe
+dmcmnutils.dll,%syswow64%,%system32%\deviceenroller.exe
+dmcmnutils.dll,%system32%,%system32%\dmcertinst.exe
+dmcmnutils.dll,%syswow64%,%system32%\dmcertinst.exe
+dmcmnutils.dll,%system32%,%system32%\dmcfghost.exe
+dmcmnutils.dll,%syswow64%,%system32%\dmcfghost.exe
+dmcmnutils.dll,%system32%,%system32%\dmnotificationbroker.exe
+dmcmnutils.dll,%syswow64%,%system32%\dmnotificationbroker.exe
+dmcmnutils.dll,%system32%,%system32%\dmomacpmo.exe
+dmcmnutils.dll,%syswow64%,%system32%\dmomacpmo.exe
+dmcmnutils.dll,%system32%,%system32%\edpcleanup.exe
+dmcmnutils.dll,%syswow64%,%system32%\edpcleanup.exe
+dmcmnutils.dll,%system32%,%system32%\hvsievaluator.exe
+dmcmnutils.dll,%syswow64%,%system32%\hvsievaluator.exe
+dmcmnutils.dll,%system32%,%system32%\mdmappinstaller.exe
+dmcmnutils.dll,%syswow64%,%system32%\mdmappinstaller.exe
+dmcmnutils.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+dmcmnutils.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+dmcmnutils.dll,%system32%,%system32%\musnotificationux.exe
+dmcmnutils.dll,%syswow64%,%system32%\musnotificationux.exe
+dmcmnutils.dll,%system32%,%system32%\musnotifyicon.exe
+dmcmnutils.dll,%syswow64%,%system32%\musnotifyicon.exe
+dmcmnutils.dll,%system32%,%system32%\omadmclient.exe
+dmcmnutils.dll,%syswow64%,%system32%\omadmclient.exe
+dmcmnutils.dll,%system32%,%system32%\upgraderesultsui.exe
+dmcmnutils.dll,%syswow64%,%system32%\upgraderesultsui.exe
+dmcmnutils.dll,%system32%,%system32%\usocoreworker.exe
+dmcmnutils.dll,%syswow64%,%system32%\usocoreworker.exe
+connect.dll,%system32%,%system32%\rasphone.exe
+connect.dll,%syswow64%,%system32%\rasphone.exe
+mpclient.dll,%programfiles%\windows defender,%programfiles%\windows defender\mpcmdrun.exe
+mpclient.dll,%programdata%\microsoft\windows defender\platform\%version%,%programfiles%\windows defender\mpcmdrun.exe
+mpclient.dll,%programfiles%\windows defender,%programfiles%\windows defender\nissrv.exe
+mpclient.dll,%programdata%\microsoft\windows defender\platform\%version%,%programfiles%\windows defender\nissrv.exe
+updatepolicy.dll,%system32%,%system32%\musnotification.exe
+updatepolicy.dll,%syswow64%,%system32%\musnotification.exe
+updatepolicy.dll,%system32%,%system32%\musnotificationux.exe
+updatepolicy.dll,%syswow64%,%system32%\musnotificationux.exe
+updatepolicy.dll,%system32%,%system32%\usocoreworker.exe
+updatepolicy.dll,%syswow64%,%system32%\usocoreworker.exe
+nshwfp.dll,%system32%,%system32%\netsh.exe
+nshwfp.dll,%syswow64%,%system32%\netsh.exe
+d3d12.dll,%system32%,%system32%\dxgiadaptercache.exe
+d3d12.dll,%syswow64%,%system32%\dxgiadaptercache.exe
+d3d12.dll,%system32%,%system32%\taskmgr.exe
+d3d12.dll,%syswow64%,%system32%\taskmgr.exe
+duser.dll,%system32%,%system32%\rekeywiz.exe
+duser.dll,%syswow64%,%system32%\rekeywiz.exe
+wmiutils.dll,%system32%,%system32%\stordiag.exe
+wmiutils.dll,%syswow64%,%system32%\stordiag.exe
+wmiutils.dll,%system32%,%system32%\tasklist.exe
+wmiutils.dll,%syswow64%,%system32%\tasklist.exe
+pnrpnsp.dll,%system32%,%system32%\ftp.exe
+pnrpnsp.dll,%syswow64%,%system32%\ftp.exe
+pnrpnsp.dll,%system32%,%system32%\hostname.exe
+pnrpnsp.dll,%syswow64%,%system32%\hostname.exe
+pnrpnsp.dll,%system32%,%system32%\stordiag.exe
+pnrpnsp.dll,%syswow64%,%system32%\stordiag.exe
+napinsp.dll,%system32%,%system32%\ftp.exe
+napinsp.dll,%syswow64%,%system32%\ftp.exe
+napinsp.dll,%system32%,%system32%\hostname.exe
+napinsp.dll,%syswow64%,%system32%\hostname.exe
+napinsp.dll,%system32%,%system32%\stordiag.exe
+napinsp.dll,%syswow64%,%system32%\stordiag.exe
+ssp_isv.exe_rsaenh.dll,%system32%,%system32%\rmactivate
+ssp_isv.exe_rsaenh.dll,%syswow64%,%system32%\rmactivate
+fveapi.dll,%system32%,%system32%\baaupdate.exe
+fveapi.dll,%syswow64%,%system32%\baaupdate.exe
+fveapi.dll,%system32%,%system32%\bdechangepin.exe
+fveapi.dll,%syswow64%,%system32%\bdechangepin.exe
+fveapi.dll,%system32%,%system32%\fvenotify.exe
+fveapi.dll,%syswow64%,%system32%\fvenotify.exe
+fveapi.dll,%system32%,%system32%\fveprompt.exe
+fveapi.dll,%syswow64%,%system32%\fveprompt.exe
+fveapi.dll,%system32%,%system32%\resetengine.exe
+fveapi.dll,%syswow64%,%system32%\resetengine.exe
+fveapi.dll,%system32%,%system32%\systemreset.exe
+fveapi.dll,%syswow64%,%system32%\systemreset.exe
+flightsettings.dll,%system32%,%system32%\devicecensus.exe
+flightsettings.dll,%syswow64%,%system32%\devicecensus.exe
+policymanager.dll,%system32%,%system32%\displayswitch.exe
+policymanager.dll,%syswow64%,%system32%\displayswitch.exe
+policymanager.dll,%system32%,%system32%\easpolicymanagerbrokerhost.exe
+policymanager.dll,%syswow64%,%system32%\easpolicymanagerbrokerhost.exe
+policymanager.dll,%system32%,%system32%\edpcleanup.exe
+policymanager.dll,%syswow64%,%system32%\edpcleanup.exe
+policymanager.dll,%system32%,%system32%\eduprintprov.exe
+policymanager.dll,%syswow64%,%system32%\eduprintprov.exe
+policymanager.dll,%system32%,%system32%\hvsievaluator.exe
+policymanager.dll,%syswow64%,%system32%\hvsievaluator.exe
+policymanager.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+policymanager.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+policymanager.dll,%system32%,%system32%\omadmclient.exe
+policymanager.dll,%syswow64%,%system32%\omadmclient.exe
+policymanager.dll,%system32%,%system32%\settingsynchost.exe
+policymanager.dll,%syswow64%,%system32%\settingsynchost.exe
+policymanager.dll,%system32%,%system32%\workfolders.exe
+policymanager.dll,%syswow64%,%system32%\workfolders.exe
+iumbase.dll,%system32%,%system32%\bioiso.exe
+iumbase.dll,%system32%,%system32%\fsiso.exe
+iumbase.dll,%system32%,%system32%\ngciso.exe
+spectrumsyncclient.dll,%system32%,%system32%\spectrum.exe
+netprofm.dll,%system32%,%system32%\fxscover.exe
+netprofm.dll,%syswow64%,%system32%\fxscover.exe
+netprofm.dll,%system32%,%system32%\rdpclip.exe
+netprofm.dll,%syswow64%,%system32%\rdpclip.exe
+netprofm.dll,%system32%,%system32%\wordpad.exe
+netprofm.dll,%syswow64%,%system32%\wordpad.exe
+netprofm.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+netprofm.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+netprofm.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+netprofm.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+netprofm.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+netprofm.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+netprofm.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+netprofm.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+netprofm.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+netprofm.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+netprofm.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+netprofm.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+netprofm.dll,%system32%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+netprofm.dll,%syswow64%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+wecapi.dll,%system32%,%system32%\wecutil.exe
+wecapi.dll,%syswow64%,%system32%\wecutil.exe
+webservices.dll,%system32%,%system32%\clipup.exe
+webservices.dll,%syswow64%,%system32%\clipup.exe
+webservices.dll,%system32%,%system32%\sppsvc.exe
+webservices.dll,%syswow64%,%system32%\sppsvc.exe
+webservices.dll,%system32%,%system32%\wifitask.exe
+webservices.dll,%syswow64%,%system32%\wifitask.exe
+webservices.dll,%system32%,%system32%\wksprt.exe
+webservices.dll,%syswow64%,%system32%\wksprt.exe
+cmpbk32.dll,%system32%,%system32%\cmdl32.exe
+cmpbk32.dll,%syswow64%,%system32%\cmdl32.exe
+osuninst.dll,%system32%,%system32%\vds.exe
+osuninst.dll,%syswow64%,%system32%\vds.exe
+rtworkq.dll,%system32%,%system32%\mdeserver.exe
+rtworkq.dll,%syswow64%,%system32%\mdeserver.exe
+rtworkq.dll,%system32%,%system32%\mfpmp.exe
+rtworkq.dll,%syswow64%,%system32%\mfpmp.exe
+clusapi.dll,%system32%,%system32%\msdtc.exe
+clusapi.dll,%syswow64%,%system32%\msdtc.exe
+clusapi.dll,%system32%,%system32%\tieringengineservice.exe
+clusapi.dll,%syswow64%,%system32%\tieringengineservice.exe
+clusapi.dll,%system32%,%system32%\wbengine.exe
+clusapi.dll,%syswow64%,%system32%\wbengine.exe
+ktmw32.dll,%system32%,%system32%\msdtc.exe
+ktmw32.dll,%syswow64%,%system32%\msdtc.exe
+ktmw32.dll,%system32%,%system32%\mstsc.exe
+ktmw32.dll,%syswow64%,%system32%\mstsc.exe
+ktmw32.dll,%system32%,%system32%\netsh.exe
+ktmw32.dll,%syswow64%,%system32%\netsh.exe
+ktmw32.dll,%system32%,%system32%\rstrui.exe
+ktmw32.dll,%syswow64%,%system32%\rstrui.exe
+ktmw32.dll,%system32%,%system32%\srtasks.exe
+ktmw32.dll,%syswow64%,%system32%\srtasks.exe
+ktmw32.dll,%system32%,%system32%\wkspbroker.exe
+ktmw32.dll,%syswow64%,%system32%\wkspbroker.exe
+mlang.dll,%system32%,%system32%\calc.exe
+mlang.dll,%syswow64%,%system32%\calc.exe
+mlang.dll,%system32%,%system32%\computerdefaults.exe
+mlang.dll,%syswow64%,%system32%\computerdefaults.exe
+mlang.dll,%system32%,%system32%\fodhelper.exe
+mlang.dll,%syswow64%,%system32%\fodhelper.exe
+mlang.dll,%system32%,%system32%\ie4uinit.exe
+mlang.dll,%syswow64%,%system32%\ie4uinit.exe
+efsutil.dll,%system32%,%system32%\cipher.exe
+efsutil.dll,%syswow64%,%system32%\cipher.exe
+efsutil.dll,%system32%,%system32%\efsui.exe
+efsutil.dll,%syswow64%,%system32%\efsui.exe
+efsutil.dll,%system32%,%system32%\rekeywiz.exe
+efsutil.dll,%syswow64%,%system32%\rekeywiz.exe
+efsutil.dll,%system32%,%system32%\filehistory.exe
+efsutil.dll,%syswow64%,%system32%\filehistory.exe
+netutils.dll,%system32%,%system32%\at.exe
+netutils.dll,%syswow64%,%system32%\at.exe
+netutils.dll,%system32%,%system32%\certutil.exe
+netutils.dll,%syswow64%,%system32%\certutil.exe
+netutils.dll,%system32%,%system32%\change.exe
+netutils.dll,%syswow64%,%system32%\change.exe
+netutils.dll,%system32%,%system32%\chglogon.exe
+netutils.dll,%syswow64%,%system32%\chglogon.exe
+netutils.dll,%system32%,%system32%\chgport.exe
+netutils.dll,%syswow64%,%system32%\chgport.exe
+netutils.dll,%system32%,%system32%\devicecensus.exe
+netutils.dll,%syswow64%,%system32%\devicecensus.exe
+netutils.dll,%system32%,%system32%\deviceenroller.exe
+netutils.dll,%syswow64%,%system32%\deviceenroller.exe
+netutils.dll,%system32%,%system32%\djoin.exe
+netutils.dll,%syswow64%,%system32%\djoin.exe
+netutils.dll,%system32%,%system32%\dpapimig.exe
+netutils.dll,%syswow64%,%system32%\dpapimig.exe
+netutils.dll,%system32%,%system32%\driverquery.exe
+netutils.dll,%syswow64%,%system32%\driverquery.exe
+netutils.dll,%system32%,%system32%\dsregcmd.exe
+netutils.dll,%syswow64%,%system32%\dsregcmd.exe
+netutils.dll,%system32%,%system32%\easinvoker.exe
+netutils.dll,%syswow64%,%system32%\easinvoker.exe
+netutils.dll,%system32%,%system32%\edpcleanup.exe
+netutils.dll,%syswow64%,%system32%\edpcleanup.exe
+netutils.dll,%system32%,%system32%\efsui.exe
+netutils.dll,%syswow64%,%system32%\efsui.exe
+netutils.dll,%system32%,%system32%\eventcreate.exe
+netutils.dll,%syswow64%,%system32%\eventcreate.exe
+netutils.dll,%system32%,%system32%\getmac.exe
+netutils.dll,%syswow64%,%system32%\getmac.exe
+netutils.dll,%system32%,%system32%\gpresult.exe
+netutils.dll,%syswow64%,%system32%\gpresult.exe
+netutils.dll,%system32%,%system32%\ie4uinit.exe
+netutils.dll,%syswow64%,%system32%\ie4uinit.exe
+netutils.dll,%system32%,%system32%\ksetup.exe
+netutils.dll,%syswow64%,%system32%\ksetup.exe
+netutils.dll,%system32%,%system32%\mshta.exe
+netutils.dll,%syswow64%,%system32%\mshta.exe
+netutils.dll,%system32%,%system32%\mstsc.exe
+netutils.dll,%syswow64%,%system32%\mstsc.exe
+netutils.dll,%system32%,%system32%\net.exe
+netutils.dll,%syswow64%,%system32%\net.exe
+netutils.dll,%system32%,%system32%\net1.exe
+netutils.dll,%syswow64%,%system32%\net1.exe
+netutils.dll,%system32%,%system32%\netplwiz.exe
+netutils.dll,%syswow64%,%system32%\netplwiz.exe
+netutils.dll,%system32%,%system32%\nltest.exe
+netutils.dll,%syswow64%,%system32%\nltest.exe
+netutils.dll,%system32%,%system32%\openfiles.exe
+netutils.dll,%syswow64%,%system32%\openfiles.exe
+netutils.dll,%system32%,%system32%\query.exe
+netutils.dll,%syswow64%,%system32%\query.exe
+netutils.dll,%system32%,%system32%\quser.exe
+netutils.dll,%syswow64%,%system32%\quser.exe
+netutils.dll,%system32%,%system32%\qwinsta.exe
+netutils.dll,%syswow64%,%system32%\qwinsta.exe
+netutils.dll,%system32%,%system32%\raserver.exe
+netutils.dll,%syswow64%,%system32%\raserver.exe
+netutils.dll,%system32%,%system32%\rekeywiz.exe
+netutils.dll,%syswow64%,%system32%\rekeywiz.exe
+netutils.dll,%system32%,%system32%\reset.exe
+netutils.dll,%syswow64%,%system32%\reset.exe
+netutils.dll,%system32%,%system32%\rwinsta.exe
+netutils.dll,%syswow64%,%system32%\rwinsta.exe
+netutils.dll,%system32%,%system32%\spaceagent.exe
+netutils.dll,%syswow64%,%system32%\spaceagent.exe
+netutils.dll,%system32%,%system32%\systempropertiesadvanced.exe
+netutils.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+netutils.dll,%system32%,%system32%\systemsettingsadminflows.exe
+netutils.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+netutils.dll,%system32%,%system32%\taskkill.exe
+netutils.dll,%syswow64%,%system32%\taskkill.exe
+netutils.dll,%system32%,%system32%\tasklist.exe
+netutils.dll,%syswow64%,%system32%\tasklist.exe
+netutils.dll,%system32%,%system32%\tscon.exe
+netutils.dll,%syswow64%,%system32%\tscon.exe
+netutils.dll,%system32%,%system32%\tskill.exe
+netutils.dll,%syswow64%,%system32%\tskill.exe
+netutils.dll,%system32%,%system32%\w32tm.exe
+netutils.dll,%syswow64%,%system32%\w32tm.exe
+netutils.dll,%system32%,%system32%\waitfor.exe
+netutils.dll,%syswow64%,%system32%\waitfor.exe
+netutils.dll,%system32%,%system32%\wbengine.exe
+netutils.dll,%syswow64%,%system32%\wbengine.exe
+netutils.dll,%system32%,%system32%\whoami.exe
+netutils.dll,%syswow64%,%system32%\whoami.exe
+p2pnetsh.dll,%system32%,%system32%\netsh.exe
+p2pnetsh.dll,%syswow64%,%system32%\netsh.exe
+eappcfg.dll,%system32%,%system32%\netsh.exe
+eappcfg.dll,%syswow64%,%system32%\netsh.exe
+eappcfg.dll,%system32%,%system32%\rasphone.exe
+eappcfg.dll,%syswow64%,%system32%\rasphone.exe
+clipc.dll,%system32%,%system32%\licensingdiag.exe
+clipc.dll,%syswow64%,%system32%\licensingdiag.exe
+uireng.dll,%system32%,%system32%\psr.exe
+uireng.dll,%syswow64%,%system32%\psr.exe
+p9np.dll,%system32%,%system32%\certreq.exe
+p9np.dll,%syswow64%,%system32%\certreq.exe
+p9np.dll,%system32%,%system32%\msdt.exe
+p9np.dll,%syswow64%,%system32%\msdt.exe
+p9np.dll,%system32%,%system32%\notepad.exe
+p9np.dll,%syswow64%,%system32%\notepad.exe
+p9np.dll,%system32%,%system32%\powershell.exe
+p9np.dll,%syswow64%,%system32%\powershell.exe
+p9np.dll,%system32%,%system32%\stordiag.exe
+p9np.dll,%syswow64%,%system32%\stordiag.exe
+p9np.dll,%system32%,%system32%\tabcal.exe
+p9np.dll,%syswow64%,%system32%\tabcal.exe
+p9np.dll,%system32%,%system32%\verifier.exe
+p9np.dll,%syswow64%,%system32%\verifier.exe
+p9np.dll,%system32%,%system32%\workfolders.exe
+p9np.dll,%syswow64%,%system32%\workfolders.exe
+p9np.dll,%system32%,%system32%\write.exe
+p9np.dll,%syswow64%,%system32%\write.exe
+logoncontroller.dll,%system32%,%system32%\logonui.exe
+logoncontroller.dll,%syswow64%,%system32%\logonui.exe
+isv.exe_rsaenh.dll,%system32%,%system32%\rmactivate
+isv.exe_rsaenh.dll,%syswow64%,%system32%\rmactivate
+tdh.dll,%system32%,%system32%\plasrv.exe
+tdh.dll,%syswow64%,%system32%\plasrv.exe
+explorerframe.dll,%system32%,%system32%\certreq.exe
+explorerframe.dll,%syswow64%,%system32%\certreq.exe
+explorerframe.dll,%system32%,%system32%\control.exe
+explorerframe.dll,%syswow64%,%system32%\control.exe
+explorerframe.dll,%system32%,%system32%\explorer.exe
+explorerframe.dll,%syswow64%,%system32%\explorer.exe
+explorerframe.dll,%system32%,%system32%\filehistory.exe
+explorerframe.dll,%syswow64%,%system32%\filehistory.exe
+explorerframe.dll,%system32%,%system32%\mstsc.exe
+explorerframe.dll,%syswow64%,%system32%\mstsc.exe
+explorerframe.dll,%system32%,%system32%\notepad.exe
+explorerframe.dll,%syswow64%,%system32%\notepad.exe
+explorerframe.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+explorerframe.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+explorerframe.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+explorerframe.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+explorerframe.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+explorerframe.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+explorerframe.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+explorerframe.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+userenv.dll,%system32%,%system32%\bdeuisrv.exe
+userenv.dll,%syswow64%,%system32%\bdeuisrv.exe
+userenv.dll,%system32%,%system32%\colorcpl.exe
+userenv.dll,%syswow64%,%system32%\colorcpl.exe
+userenv.dll,%system32%,%system32%\dccw.exe
+userenv.dll,%syswow64%,%system32%\dccw.exe
+userenv.dll,%system32%,%system32%\deviceenroller.exe
+userenv.dll,%syswow64%,%system32%\deviceenroller.exe
+userenv.dll,%system32%,%system32%\dmomacpmo.exe
+userenv.dll,%syswow64%,%system32%\dmomacpmo.exe
+userenv.dll,%system32%,%system32%\dsregcmd.exe
+userenv.dll,%syswow64%,%system32%\dsregcmd.exe
+userenv.dll,%system32%,%system32%\efsui.exe
+userenv.dll,%syswow64%,%system32%\efsui.exe
+userenv.dll,%system32%,%system32%\gpupdate.exe
+userenv.dll,%syswow64%,%system32%\gpupdate.exe
+userenv.dll,%system32%,%system32%\mdmappinstaller.exe
+userenv.dll,%syswow64%,%system32%\mdmappinstaller.exe
+userenv.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+userenv.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+userenv.dll,%system32%,%system32%\microsoftedgebchost.exe
+userenv.dll,%syswow64%,%system32%\microsoftedgebchost.exe
+userenv.dll,%system32%,%system32%\microsoftedgecp.exe
+userenv.dll,%syswow64%,%system32%\microsoftedgecp.exe
+userenv.dll,%system32%,%system32%\microsoftedgesh.exe
+userenv.dll,%syswow64%,%system32%\microsoftedgesh.exe
+userenv.dll,%system32%,%system32%\msra.exe
+userenv.dll,%syswow64%,%system32%\msra.exe
+userenv.dll,%system32%,%system32%\musnotification.exe
+userenv.dll,%syswow64%,%system32%\musnotification.exe
+userenv.dll,%system32%,%system32%\netsh.exe
+userenv.dll,%syswow64%,%system32%\netsh.exe
+userenv.dll,%system32%,%system32%\omadmclient.exe
+userenv.dll,%syswow64%,%system32%\omadmclient.exe
+userenv.dll,%system32%,%system32%\rekeywiz.exe
+userenv.dll,%syswow64%,%system32%\rekeywiz.exe
+userenv.dll,%system32%,%system32%\securityhealthservice.exe
+userenv.dll,%syswow64%,%system32%\securityhealthservice.exe
+userenv.dll,%system32%,%system32%\settingsynchost.exe
+userenv.dll,%syswow64%,%system32%\settingsynchost.exe
+userenv.dll,%system32%,%system32%\systemsettingsadminflows.exe
+userenv.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+userenv.dll,%system32%,%system32%\tttracer.exe
+userenv.dll,%syswow64%,%system32%\tttracer.exe
+userenv.dll,%system32%,%system32%\utcdecoderhost.exe
+userenv.dll,%syswow64%,%system32%\utcdecoderhost.exe
+userenv.dll,%system32%,%system32%\workfolders.exe
+userenv.dll,%syswow64%,%system32%\workfolders.exe
+userenv.dll,%system32%,%system32%\wpcmon.exe
+userenv.dll,%syswow64%,%system32%\wpcmon.exe
+authz.dll,%system32%,%system32%\easinvoker.exe
+authz.dll,%syswow64%,%system32%\easinvoker.exe
+authz.dll,%system32%,%system32%\vssvc.exe
+authz.dll,%syswow64%,%system32%\vssvc.exe
+authz.dll,%system32%,%system32%\whoami.exe
+authz.dll,%syswow64%,%system32%\whoami.exe
+virtdisk.dll,%system32%,%system32%\bootim.exe
+virtdisk.dll,%syswow64%,%system32%\bootim.exe
+virtdisk.dll,%system32%,%system32%\vssvc.exe
+virtdisk.dll,%syswow64%,%system32%\vssvc.exe
+virtdisk.dll,%system32%,%system32%\wbengine.exe
+virtdisk.dll,%syswow64%,%system32%\wbengine.exe
+audioses.dll,%system32%,%system32%\osk.exe
+audioses.dll,%syswow64%,%system32%\osk.exe
+mprapi.dll,%system32%,%system32%\rasautou.exe
+mprapi.dll,%syswow64%,%system32%\rasautou.exe
+dynamoapi.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+magnification.dll,%system32%,%system32%\magnify.exe
+magnification.dll,%syswow64%,%system32%\magnify.exe
+dxva2.dll,%system32%,%system32%\dccw.exe
+dxva2.dll,%syswow64%,%system32%\dccw.exe
+dxva2.dll,%system32%,%system32%\dispdiag.exe
+dxva2.dll,%syswow64%,%system32%\dispdiag.exe
+d3d10_1core.dll,%system32%,%system32%\winsat.exe
+d3d10_1core.dll,%syswow64%,%system32%\winsat.exe
+snmpapi.dll,%system32%,%system32%\arp.exe
+snmpapi.dll,%syswow64%,%system32%\arp.exe
+snmpapi.dll,%system32%,%system32%\netstat.exe
+snmpapi.dll,%syswow64%,%system32%\netstat.exe
+dhcpcsvc.dll,%system32%,%system32%\netiougc.exe
+dhcpcsvc.dll,%syswow64%,%system32%\netiougc.exe
+dhcpcsvc.dll,%system32%,%system32%\netsh.exe
+dhcpcsvc.dll,%syswow64%,%system32%\netsh.exe
+d3d10warp.dll,%system32%,%system32%\slidetoshutdown.exe
+d3d10warp.dll,%syswow64%,%system32%\slidetoshutdown.exe
+d3d10warp.dll,%system32%,%system32%\systemreset.exe
+d3d10warp.dll,%syswow64%,%system32%\systemreset.exe
+bcd.dll,%system32%,%system32%\bootim.exe
+bcd.dll,%syswow64%,%system32%\bootim.exe
+bcd.dll,%system32%,%system32%\genvalobj.exe
+bcd.dll,%syswow64%,%system32%\genvalobj.exe
+bcd.dll,%system32%,%system32%\mdsched.exe
+bcd.dll,%syswow64%,%system32%\mdsched.exe
+bcd.dll,%system32%,%system32%\msconfig.exe
+bcd.dll,%syswow64%,%system32%\msconfig.exe
+bcd.dll,%system32%,%system32%\recdisc.exe
+bcd.dll,%syswow64%,%system32%\recdisc.exe
+bcd.dll,%system32%,%system32%\resetengine.exe
+bcd.dll,%syswow64%,%system32%\resetengine.exe
+bcd.dll,%system32%,%system32%\rstrui.exe
+bcd.dll,%syswow64%,%system32%\rstrui.exe
+bcd.dll,%system32%,%system32%\sdclt.exe
+bcd.dll,%syswow64%,%system32%\sdclt.exe
+bcd.dll,%system32%,%system32%\srtasks.exe
+bcd.dll,%syswow64%,%system32%\srtasks.exe
+bcd.dll,%system32%,%system32%\systempropertiesadvanced.exe
+bcd.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+bcd.dll,%system32%,%system32%\systempropertiescomputername.exe
+bcd.dll,%syswow64%,%system32%\systempropertiescomputername.exe
+bcd.dll,%system32%,%system32%\systempropertiesdataexecutionprevention.exe
+bcd.dll,%syswow64%,%system32%\systempropertiesdataexecutionprevention.exe
+bcd.dll,%system32%,%system32%\systempropertieshardware.exe
+bcd.dll,%syswow64%,%system32%\systempropertieshardware.exe
+bcd.dll,%system32%,%system32%\systempropertiesprotection.exe
+bcd.dll,%syswow64%,%system32%\systempropertiesprotection.exe
+bcd.dll,%system32%,%system32%\systempropertiesremote.exe
+bcd.dll,%syswow64%,%system32%\systempropertiesremote.exe
+bcd.dll,%system32%,%system32%\systemreset.exe
+bcd.dll,%syswow64%,%system32%\systemreset.exe
+bcd.dll,%system32%,%system32%\vds.exe
+bcd.dll,%syswow64%,%system32%\vds.exe
+bcd.dll,%system32%,%system32%\vdsldr.exe
+bcd.dll,%syswow64%,%system32%\vdsldr.exe
+bcd.dll,%system32%,%system32%\vssvc.exe
+bcd.dll,%syswow64%,%system32%\vssvc.exe
+bcd.dll,%system32%,%system32%\wbengine.exe
+bcd.dll,%syswow64%,%system32%\wbengine.exe
+dmxmlhelputils.dll,%system32%,%system32%\dmcfghost.exe
+dmxmlhelputils.dll,%syswow64%,%system32%\dmcfghost.exe
+dmxmlhelputils.dll,%system32%,%system32%\omadmclient.exe
+dmxmlhelputils.dll,%syswow64%,%system32%\omadmclient.exe
+hnetmon.dll,%system32%,%system32%\netsh.exe
+hnetmon.dll,%syswow64%,%system32%\netsh.exe
+dmoleaututils.dll,%system32%,%system32%\omadmclient.exe
+dmoleaututils.dll,%syswow64%,%system32%\omadmclient.exe
+dmoleaututils.dll,%system32%,%system32%\usocoreworker.exe
+dmoleaututils.dll,%syswow64%,%system32%\usocoreworker.exe
+winsqlite3.dll,%system32%,%system32%\mousocoreworker.exe
+winsqlite3.dll,%syswow64%,%system32%\mousocoreworker.exe
+wlidprov.dll,%system32%,%system32%\devicecensus.exe
+wlidprov.dll,%syswow64%,%system32%\devicecensus.exe
+wlidprov.dll,%system32%,%system32%\shellappruntime.exe
+wlidprov.dll,%syswow64%,%system32%\shellappruntime.exe
+loadperf.dll,%system32%,%system32%\unlodctr.exe
+loadperf.dll,%syswow64%,%system32%\unlodctr.exe
+structuredquery.dll,%system32%,%system32%\certreq.exe
+structuredquery.dll,%syswow64%,%system32%\certreq.exe
+structuredquery.dll,%system32%,%system32%\control.exe
+structuredquery.dll,%syswow64%,%system32%\control.exe
+structuredquery.dll,%system32%,%system32%\explorer.exe
+structuredquery.dll,%syswow64%,%system32%\explorer.exe
+structuredquery.dll,%system32%,%system32%\notepad.exe
+structuredquery.dll,%syswow64%,%system32%\notepad.exe
+windows.storage.search.dll,%system32%,%system32%\certreq.exe
+windows.storage.search.dll,%syswow64%,%system32%\certreq.exe
+windows.storage.search.dll,%system32%,%system32%\control.exe
+windows.storage.search.dll,%syswow64%,%system32%\control.exe
+windows.storage.search.dll,%system32%,%system32%\explorer.exe
+windows.storage.search.dll,%syswow64%,%system32%\explorer.exe
+windows.storage.search.dll,%system32%,%system32%\notepad.exe
+windows.storage.search.dll,%syswow64%,%system32%\notepad.exe
+wmpdui.dll,%system32%,%system32%\wmpdmc.exe
+mdmdiagnostics.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+davclnt.dll,%system32%,%system32%\certreq.exe
+davclnt.dll,%syswow64%,%system32%\certreq.exe
+davclnt.dll,%system32%,%system32%\msdt.exe
+davclnt.dll,%syswow64%,%system32%\msdt.exe
+davclnt.dll,%system32%,%system32%\notepad.exe
+davclnt.dll,%syswow64%,%system32%\notepad.exe
+davclnt.dll,%system32%,%system32%\powershell.exe
+davclnt.dll,%syswow64%,%system32%\powershell.exe
+davclnt.dll,%system32%,%system32%\stordiag.exe
+davclnt.dll,%syswow64%,%system32%\stordiag.exe
+davclnt.dll,%system32%,%system32%\tabcal.exe
+davclnt.dll,%syswow64%,%system32%\tabcal.exe
+davclnt.dll,%system32%,%system32%\verifier.exe
+davclnt.dll,%syswow64%,%system32%\verifier.exe
+davclnt.dll,%system32%,%system32%\workfolders.exe
+davclnt.dll,%syswow64%,%system32%\workfolders.exe
+davclnt.dll,%system32%,%system32%\write.exe
+davclnt.dll,%syswow64%,%system32%\write.exe
+winhttp.dll,%system32%,%system32%\cmdl32.exe
+winhttp.dll,%syswow64%,%system32%\cmdl32.exe
+winhttp.dll,%system32%,%system32%\devicecensus.exe
+winhttp.dll,%syswow64%,%system32%\devicecensus.exe
+winhttp.dll,%system32%,%system32%\dmclient.exe
+winhttp.dll,%syswow64%,%system32%\dmclient.exe
+winhttp.dll,%system32%,%system32%\dsregcmd.exe
+winhttp.dll,%syswow64%,%system32%\dsregcmd.exe
+winhttp.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+winhttp.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+winhttp.dll,%system32%,%system32%\msdt.exe
+winhttp.dll,%syswow64%,%system32%\msdt.exe
+winhttp.dll,%system32%,%system32%\mshta.exe
+winhttp.dll,%syswow64%,%system32%\mshta.exe
+winhttp.dll,%system32%,%system32%\mstsc.exe
+winhttp.dll,%syswow64%,%system32%\mstsc.exe
+winhttp.dll,%system32%,%system32%\musnotification.exe
+winhttp.dll,%syswow64%,%system32%\musnotification.exe
+winhttp.dll,%system32%,%system32%\musnotificationux.exe
+winhttp.dll,%syswow64%,%system32%\musnotificationux.exe
+winhttp.dll,%system32%,%system32%\musnotifyicon.exe
+winhttp.dll,%syswow64%,%system32%\musnotifyicon.exe
+winhttp.dll,%system32%,%system32%\netsh.exe
+winhttp.dll,%syswow64%,%system32%\netsh.exe
+winhttp.dll,%system32%,%system32%\pacjsworker.exe
+winhttp.dll,%syswow64%,%system32%\pacjsworker.exe
+winhttp.dll,%system32%,%system32%\resetengine.exe
+winhttp.dll,%syswow64%,%system32%\resetengine.exe
+winhttp.dll,%system32%,%system32%\rpcping.exe
+winhttp.dll,%syswow64%,%system32%\rpcping.exe
+winhttp.dll,%system32%,%system32%\systemreset.exe
+winhttp.dll,%syswow64%,%system32%\systemreset.exe
+winhttp.dll,%system32%,%system32%\wkspbroker.exe
+winhttp.dll,%syswow64%,%system32%\wkspbroker.exe
+mswsock.dll,%system32%,%system32%\curl.exe
+mswsock.dll,%syswow64%,%system32%\curl.exe
+mswsock.dll,%system32%,%system32%\devicecensus.exe
+mswsock.dll,%syswow64%,%system32%\devicecensus.exe
+mswsock.dll,%system32%,%system32%\ftp.exe
+mswsock.dll,%syswow64%,%system32%\ftp.exe
+mswsock.dll,%system32%,%system32%\hostname.exe
+mswsock.dll,%syswow64%,%system32%\hostname.exe
+mswsock.dll,%system32%,%system32%\nslookup.exe
+mswsock.dll,%syswow64%,%system32%\nslookup.exe
+mswsock.dll,%system32%,%system32%\rpcping.exe
+mswsock.dll,%syswow64%,%system32%\rpcping.exe
+mswsock.dll,%system32%,%system32%\stordiag.exe
+mswsock.dll,%syswow64%,%system32%\stordiag.exe
+mswsock.dll,%system32%,%programfiles%\google\chrome\application\chrome.exe
+mswsock.dll,%syswow64%,%programfiles%\google\chrome\application\chrome.exe
+mswsock.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+mswsock.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+mswsock.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+mswsock.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+mswsock.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+mswsock.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+mswsock.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+mswsock.dll,%system32%,%appdata%\zoom\bin\zoom.exe
+mswsock.dll,%syswow64%,%appdata%\zoom\bin\zoom.exe
+mswsock.dll,%system32%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+mswsock.dll,%syswow64%,%programfiles%\windowsapps\microsoftteams%version%\msteams.exe
+mswsock.dll,%system32%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+mswsock.dll,%syswow64%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+osbaseln.dll,%system32%,%system32%\fondue.exe
+osbaseln.dll,%syswow64%,%system32%\fondue.exe
+osbaseln.dll,%system32%,%system32%\optionalfeatures.exe
+osbaseln.dll,%syswow64%,%system32%\optionalfeatures.exe
+ntshrui.dll,%system32%,%system32%\compmgmtlauncher.exe
+ntshrui.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+ntshrui.dll,%system32%,%system32%\notepad.exe
+ntshrui.dll,%syswow64%,%system32%\notepad.exe
+resutils.dll,%system32%,%system32%\msdtc.exe
+resutils.dll,%syswow64%,%system32%\msdtc.exe
+activeds.dll,%system32%,%system32%\agentservice.exe
+activeds.dll,%syswow64%,%system32%\agentservice.exe
+pdh.dll,%system32%,%system32%\plasrv.exe
+pdh.dll,%syswow64%,%system32%\plasrv.exe
+pdh.dll,%system32%,%system32%\relog.exe
+pdh.dll,%syswow64%,%system32%\relog.exe
+pdh.dll,%system32%,%system32%\taskmgr.exe
+pdh.dll,%syswow64%,%system32%\taskmgr.exe
+pdh.dll,%system32%,%system32%\typeperf.exe
+pdh.dll,%syswow64%,%system32%\typeperf.exe
+pdh.dll,%system32%,%system32%\logman.exe
+pdh.dll,%syswow64%,%system32%\logman.exe
+fltlib.dll,%system32%,%system32%\agentservice.exe
+fltlib.dll,%syswow64%,%system32%\agentservice.exe
+fltlib.dll,%system32%,%system32%\bootim.exe
+fltlib.dll,%syswow64%,%system32%\bootim.exe
+fltlib.dll,%system32%,%system32%\compmgmtlauncher.exe
+fltlib.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+fltlib.dll,%system32%,%system32%\dpiscaling.exe
+fltlib.dll,%syswow64%,%system32%\dpiscaling.exe
+fltlib.dll,%system32%,%system32%\fltmc.exe
+fltlib.dll,%syswow64%,%system32%\fltmc.exe
+fltlib.dll,%system32%,%system32%\psr.exe
+fltlib.dll,%syswow64%,%system32%\psr.exe
+fltlib.dll,%system32%,%system32%\resmon.exe
+fltlib.dll,%syswow64%,%system32%\resmon.exe
+fltlib.dll,%system32%,%system32%\sdclt.exe
+fltlib.dll,%syswow64%,%system32%\sdclt.exe
+fltlib.dll,%system32%,%system32%\slui.exe
+fltlib.dll,%syswow64%,%system32%\slui.exe
+fltlib.dll,%system32%,%system32%\vssvc.exe
+fltlib.dll,%syswow64%,%system32%\vssvc.exe
+fltlib.dll,%system32%,%system32%\wbengine.exe
+fltlib.dll,%syswow64%,%system32%\wbengine.exe
+fltlib.dll,%system32%,%system32%\workfolders.exe
+fltlib.dll,%syswow64%,%system32%\workfolders.exe
+fltlib.dll,%system32%,%system32%\write.exe
+fltlib.dll,%syswow64%,%system32%\write.exe
+dhcpcsvc6.dll,%system32%,%system32%\netsh.exe
+dhcpcsvc6.dll,%syswow64%,%system32%\netsh.exe
+dxgi.dll,%system32%,%system32%\dataexchangehost.exe
+dxgi.dll,%syswow64%,%system32%\dataexchangehost.exe
+dxgi.dll,%system32%,%system32%\dwm.exe
+dxgi.dll,%syswow64%,%system32%\dwm.exe
+dxgi.dll,%system32%,%system32%\dxgiadaptercache.exe
+dxgi.dll,%syswow64%,%system32%\dxgiadaptercache.exe
+dxgi.dll,%system32%,%system32%\gamepanel.exe
+dxgi.dll,%syswow64%,%system32%\gamepanel.exe
+dxgi.dll,%system32%,%system32%\mdeserver.exe
+dxgi.dll,%syswow64%,%system32%\mdeserver.exe
+dxgi.dll,%system32%,%system32%\quickassist.exe
+dxgi.dll,%syswow64%,%system32%\quickassist.exe
+dxgi.dll,%system32%,%system32%\systemreset.exe
+dxgi.dll,%syswow64%,%system32%\systemreset.exe
+dxgi.dll,%system32%,%system32%\taskmgr.exe
+dxgi.dll,%syswow64%,%system32%\taskmgr.exe
+dxgi.dll,%system32%,%system32%\winsat.exe
+dxgi.dll,%syswow64%,%system32%\winsat.exe
+rmclient.dll,%system32%,%system32%\netsh.exe
+rmclient.dll,%syswow64%,%system32%\netsh.exe
+cryptbase.dll,%system32%,%system32%\calc.exe
+cryptbase.dll,%syswow64%,%system32%\calc.exe
+cryptbase.dll,%system32%,%system32%\compmgmtlauncher.exe
+cryptbase.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+cryptbase.dll,%system32%,%system32%\computerdefaults.exe
+cryptbase.dll,%syswow64%,%system32%\computerdefaults.exe
+cryptbase.dll,%system32%,%system32%\disksnapshot.exe
+cryptbase.dll,%syswow64%,%system32%\disksnapshot.exe
+cryptbase.dll,%system32%,%system32%\dpiscaling.exe
+cryptbase.dll,%syswow64%,%system32%\dpiscaling.exe
+cryptbase.dll,%system32%,%system32%\efsui.exe
+cryptbase.dll,%syswow64%,%system32%\efsui.exe
+cryptbase.dll,%system32%,%system32%\filehistory.exe
+cryptbase.dll,%syswow64%,%system32%\filehistory.exe
+cryptbase.dll,%system32%,%system32%\fodhelper.exe
+cryptbase.dll,%syswow64%,%system32%\fodhelper.exe
+cryptbase.dll,%system32%,%system32%\ie4uinit.exe
+cryptbase.dll,%syswow64%,%system32%\ie4uinit.exe
+cryptbase.dll,%system32%,%system32%\lpksetup.exe
+cryptbase.dll,%syswow64%,%system32%\lpksetup.exe
+cryptbase.dll,%system32%,%system32%\mfpmp.exe
+cryptbase.dll,%syswow64%,%system32%\mfpmp.exe
+cryptbase.dll,%system32%,%system32%\mshta.exe
+cryptbase.dll,%syswow64%,%system32%\mshta.exe
+cryptbase.dll,%system32%,%system32%\mstsc.exe
+cryptbase.dll,%syswow64%,%system32%\mstsc.exe
+cryptbase.dll,%system32%,%system32%\net1.exe
+cryptbase.dll,%syswow64%,%system32%\net1.exe
+cryptbase.dll,%system32%,%system32%\netplwiz.exe
+cryptbase.dll,%syswow64%,%system32%\netplwiz.exe
+cryptbase.dll,%system32%,%system32%\netsh.exe
+cryptbase.dll,%syswow64%,%system32%\netsh.exe
+cryptbase.dll,%system32%,%system32%\presentationhost.exe
+cryptbase.dll,%syswow64%,%system32%\presentationhost.exe
+cryptbase.dll,%system32%,%system32%\quickassist.exe
+cryptbase.dll,%syswow64%,%system32%\quickassist.exe
+cryptbase.dll,%system32%,%system32%\rdpclip.exe
+cryptbase.dll,%syswow64%,%system32%\rdpclip.exe
+cryptbase.dll,%system32%,%system32%\rekeywiz.exe
+cryptbase.dll,%syswow64%,%system32%\rekeywiz.exe
+cryptbase.dll,%system32%,%system32%\resmon.exe
+cryptbase.dll,%syswow64%,%system32%\resmon.exe
+cryptbase.dll,%system32%,%system32%\rmactivate.exe
+cryptbase.dll,%syswow64%,%system32%\rmactivate.exe
+cryptbase.dll,%system32%,%system32%\rmactivate_ssp_isv.exe
+cryptbase.dll,%syswow64%,%system32%\rmactivate_ssp_isv.exe
+cryptbase.dll,%system32%,%system32%\sdclt.exe
+cryptbase.dll,%syswow64%,%system32%\sdclt.exe
+cryptbase.dll,%system32%,%system32%\slui.exe
+cryptbase.dll,%syswow64%,%system32%\slui.exe
+cryptbase.dll,%system32%,%system32%\sppextcomobj.exe
+cryptbase.dll,%syswow64%,%system32%\sppextcomobj.exe
+cryptbase.dll,%system32%,%system32%\stordiag.exe
+cryptbase.dll,%syswow64%,%system32%\stordiag.exe
+cryptbase.dll,%system32%,%system32%\tzsync.exe
+cryptbase.dll,%syswow64%,%system32%\tzsync.exe
+cryptbase.dll,%system32%,%system32%\uevappmonitor.exe
+cryptbase.dll,%syswow64%,%system32%\uevappmonitor.exe
+cryptbase.dll,%system32%,%system32%\useraccountcontrolsettings.exe
+cryptbase.dll,%syswow64%,%system32%\useraccountcontrolsettings.exe
+cryptbase.dll,%system32%,%system32%\workfolders.exe
+cryptbase.dll,%syswow64%,%system32%\workfolders.exe
+cryptbase.dll,%system32%,%system32%\write.exe
+cryptbase.dll,%syswow64%,%system32%\write.exe
+cryptbase.dll,%system32%,%system32%\wscadminui.exe
+cryptbase.dll,%syswow64%,%system32%\wscadminui.exe
+cryptui.dll,%system32%,%system32%\certutil.exe
+cryptui.dll,%syswow64%,%system32%\certutil.exe
+cryptui.dll,%system32%,%system32%\efsui.exe
+cryptui.dll,%syswow64%,%system32%\efsui.exe
+cryptui.dll,%system32%,%system32%\mstsc.exe
+cryptui.dll,%syswow64%,%system32%\mstsc.exe
+cryptui.dll,%system32%,%system32%\rekeywiz.exe
+cryptui.dll,%syswow64%,%system32%\rekeywiz.exe
+dhcpcmonitor.dll,%system32%,%system32%\netsh.exe
+dhcpcmonitor.dll,%syswow64%,%system32%\netsh.exe
+dsparse.dll,%system32%,%system32%\dmcertinst.exe
+dsparse.dll,%syswow64%,%system32%\dmcertinst.exe
+dsclient.dll,%system32%,%system32%\dmcfghost.exe
+dsclient.dll,%syswow64%,%system32%\dmcfghost.exe
+dsclient.dll,%system32%,%system32%\dmomacpmo.exe
+dsclient.dll,%syswow64%,%system32%\dmomacpmo.exe
+dsclient.dll,%system32%,%system32%\dstokenclean.exe
+dsclient.dll,%syswow64%,%system32%\dstokenclean.exe
+nshhttp.dll,%system32%,%system32%\netsh.exe
+nshhttp.dll,%syswow64%,%system32%\netsh.exe
+sas.dll,%system32%,%system32%\quickassist.exe
+sas.dll,%syswow64%,%system32%\quickassist.exe
+slc.dll,%system32%,%system32%\msinfo32.exe
+slc.dll,%syswow64%,%system32%\msinfo32.exe
+slc.dll,%system32%,%system32%\netsh.exe
+slc.dll,%syswow64%,%system32%\netsh.exe
+slc.dll,%system32%,%system32%\packageinspector.exe
+slc.dll,%syswow64%,%system32%\packageinspector.exe
+staterepository.core.dll,%system32%,%system32%\applytrustoffline.exe
+staterepository.core.dll,%syswow64%,%system32%\applytrustoffline.exe
+staterepository.core.dll,%system32%,%system32%\lpremove.exe
+staterepository.core.dll,%syswow64%,%system32%\lpremove.exe
+staterepository.core.dll,%system32%,%system32%\systemsettingsadminflows.exe
+staterepository.core.dll,%syswow64%,%system32%\systemsettingsadminflows.exe
+coremessaging.dll,%system32%,%system32%\dwm.exe
+coremessaging.dll,%syswow64%,%system32%\dwm.exe
+netid.dll,%system32%,%system32%\systempropertiesadvanced.exe
+netid.dll,%syswow64%,%system32%\systempropertiesadvanced.exe
+ntlanman.dll,%system32%,%system32%\certreq.exe
+ntlanman.dll,%syswow64%,%system32%\certreq.exe
+ntlanman.dll,%system32%,%system32%\msdt.exe
+ntlanman.dll,%syswow64%,%system32%\msdt.exe
+ntlanman.dll,%system32%,%system32%\notepad.exe
+ntlanman.dll,%syswow64%,%system32%\notepad.exe
+ntlanman.dll,%system32%,%system32%\powershell.exe
+ntlanman.dll,%syswow64%,%system32%\powershell.exe
+ntlanman.dll,%system32%,%system32%\stordiag.exe
+ntlanman.dll,%syswow64%,%system32%\stordiag.exe
+ntlanman.dll,%system32%,%system32%\tabcal.exe
+ntlanman.dll,%syswow64%,%system32%\tabcal.exe
+ntlanman.dll,%system32%,%system32%\verifier.exe
+ntlanman.dll,%syswow64%,%system32%\verifier.exe
+ntlanman.dll,%system32%,%system32%\workfolders.exe
+ntlanman.dll,%syswow64%,%system32%\workfolders.exe
+ntlanman.dll,%system32%,%system32%\write.exe
+ntlanman.dll,%syswow64%,%system32%\write.exe
+rasman.dll,%system32%,%system32%\cmdl32.exe
+rasman.dll,%syswow64%,%system32%\cmdl32.exe
+rasman.dll,%system32%,%system32%\nethost.exe
+rasman.dll,%syswow64%,%system32%\nethost.exe
+rasman.dll,%system32%,%system32%\netsh.exe
+rasman.dll,%syswow64%,%system32%\netsh.exe
+rasman.dll,%system32%,%system32%\rasautou.exe
+rasman.dll,%syswow64%,%system32%\rasautou.exe
+rasman.dll,%system32%,%system32%\rasdial.exe
+rasman.dll,%syswow64%,%system32%\rasdial.exe
+joinutil.dll,%system32%,%system32%\djoin.exe
+joinutil.dll,%syswow64%,%system32%\djoin.exe
+dmenrollengine.dll,%system32%,%system32%\deviceenroller.exe
+dmenrollengine.dll,%syswow64%,%system32%\deviceenroller.exe
+dmenrollengine.dll,%system32%,%system32%\dmomacpmo.exe
+dmenrollengine.dll,%syswow64%,%system32%\dmomacpmo.exe
+dmenrollengine.dll,%system32%,%system32%\mdmappinstaller.exe
+dmenrollengine.dll,%syswow64%,%system32%\mdmappinstaller.exe
+dmenrollengine.dll,%system32%,%system32%\mdmdiagnosticstool.exe
+dmenrollengine.dll,%syswow64%,%system32%\mdmdiagnosticstool.exe
+dmenrollengine.dll,%system32%,%system32%\omadmclient.exe
+dmenrollengine.dll,%syswow64%,%system32%\omadmclient.exe
+dmenrollengine.dll,%system32%,%system32%\workfolders.exe
+dmenrollengine.dll,%syswow64%,%system32%\workfolders.exe
+wbemsvc.dll,%system32%,%system32%\cttune.exe
+wbemsvc.dll,%syswow64%,%system32%\cttune.exe
+wbemsvc.dll,%system32%,%system32%\devicecensus.exe
+wbemsvc.dll,%syswow64%,%system32%\devicecensus.exe
+wbemsvc.dll,%system32%,%system32%\driverquery.exe
+wbemsvc.dll,%syswow64%,%system32%\driverquery.exe
+wbemsvc.dll,%system32%,%system32%\getmac.exe
+wbemsvc.dll,%syswow64%,%system32%\getmac.exe
+wbemsvc.dll,%system32%,%system32%\licensingdiag.exe
+wbemsvc.dll,%syswow64%,%system32%\licensingdiag.exe
+wbemsvc.dll,%system32%,%system32%\msinfo32.exe
+wbemsvc.dll,%syswow64%,%system32%\msinfo32.exe
+wbemsvc.dll,%system32%,%system32%\stordiag.exe
+wbemsvc.dll,%syswow64%,%system32%\stordiag.exe
+wbemsvc.dll,%system32%,%system32%\systeminfo.exe
+wbemsvc.dll,%syswow64%,%system32%\systeminfo.exe
+wbemsvc.dll,%system32%,%system32%\tasklist.exe
+wbemsvc.dll,%syswow64%,%system32%\tasklist.exe
+wbemsvc.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+wbemsvc.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+uxtheme.dll,%system32%,%system32%\cttune.exe
+uxtheme.dll,%syswow64%,%system32%\cttune.exe
+uxtheme.dll,%system32%,%system32%\displayswitch.exe
+uxtheme.dll,%syswow64%,%system32%\displayswitch.exe
+uxtheme.dll,%system32%,%system32%\ehstorauthn.exe
+uxtheme.dll,%syswow64%,%system32%\ehstorauthn.exe
+uxtheme.dll,%system32%,%system32%\filehistory.exe
+uxtheme.dll,%syswow64%,%system32%\filehistory.exe
+uxtheme.dll,%system32%,%system32%\gamepanel.exe
+uxtheme.dll,%syswow64%,%system32%\gamepanel.exe
+uxtheme.dll,%system32%,%system32%\msdt.exe
+uxtheme.dll,%syswow64%,%system32%\msdt.exe
+uxtheme.dll,%system32%,%system32%\msra.exe
+uxtheme.dll,%syswow64%,%system32%\msra.exe
+uxtheme.dll,%system32%,%system32%\quickassist.exe
+uxtheme.dll,%syswow64%,%system32%\quickassist.exe
+uxtheme.dll,%system32%,%system32%\sdclt.exe
+uxtheme.dll,%syswow64%,%system32%\sdclt.exe
+uxtheme.dll,%system32%,%system32%\taskmgr.exe
+uxtheme.dll,%syswow64%,%system32%\taskmgr.exe
+uxtheme.dll,%system32%,%system32%\wfs.exe
+uxtheme.dll,%syswow64%,%system32%\wfs.exe
+uxtheme.dll,%system32%,%system32%\wiaacmgr.exe
+uxtheme.dll,%syswow64%,%system32%\wiaacmgr.exe
+uxtheme.dll,%system32%,%system32%\wiawow64.exe
+uxtheme.dll,%syswow64%,%system32%\wiawow64.exe
+uxtheme.dll,%system32%,%system32%\wmpdmc.exe
+uxtheme.dll,%syswow64%,%system32%\wmpdmc.exe
+apphelp.dll,%system32%,%system32%\compmgmtlauncher.exe
+apphelp.dll,%syswow64%,%system32%\compmgmtlauncher.exe
+apphelp.dll,%system32%,%windir%\explorer.exe
+apphelp.dll,%syswow64%,%windir%\explorer.exe
+wmiclnt.dll,%system32%,%system32%\dispdiag.exe
+wmiclnt.dll,%syswow64%,%system32%\dispdiag.exe
+wmiclnt.dll,%system32%,%system32%\iscsicli.exe
+wmiclnt.dll,%syswow64%,%system32%\iscsicli.exe
+npmproxy.dll,%system32%,%system32%\apphostregistrationverifier.exe
+npmproxy.dll,%syswow64%,%system32%\apphostregistrationverifier.exe
+npmproxy.dll,%system32%,%system32%\devicecensus.exe
+npmproxy.dll,%syswow64%,%system32%\devicecensus.exe
+npmproxy.dll,%system32%,%system32%\directxdatabaseupdater.exe
+npmproxy.dll,%syswow64%,%system32%\directxdatabaseupdater.exe
+npmproxy.dll,%system32%,%system32%\fxscover.exe
+npmproxy.dll,%syswow64%,%system32%\fxscover.exe
+npmproxy.dll,%system32%,%system32%\microsoft.uev.synccontroller.exe
+npmproxy.dll,%syswow64%,%system32%\microsoft.uev.synccontroller.exe
+npmproxy.dll,%system32%,%system32%\rdpclip.exe
+npmproxy.dll,%syswow64%,%system32%\rdpclip.exe
+npmproxy.dll,%system32%,%system32%\wordpad.exe
+npmproxy.dll,%syswow64%,%system32%\wordpad.exe
+npmproxy.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+npmproxy.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+npmproxy.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+npmproxy.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+npmproxy.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+npmproxy.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+npmproxy.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+npmproxy.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+npmproxy.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+npmproxy.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+vssapi.dll,%system32%,%system32%\bootim.exe
+vssapi.dll,%syswow64%,%system32%\bootim.exe
+vssapi.dll,%system32%,%system32%\resetengine.exe
+vssapi.dll,%syswow64%,%system32%\resetengine.exe
+vssapi.dll,%system32%,%system32%\rstrui.exe
+vssapi.dll,%syswow64%,%system32%\rstrui.exe
+vssapi.dll,%system32%,%system32%\sdclt.exe
+vssapi.dll,%syswow64%,%system32%\sdclt.exe
+vssapi.dll,%system32%,%system32%\srtasks.exe
+vssapi.dll,%syswow64%,%system32%\srtasks.exe
+vssapi.dll,%system32%,%system32%\systemreset.exe
+vssapi.dll,%syswow64%,%system32%\systemreset.exe
+vssapi.dll,%system32%,%system32%\vssadmin.exe
+vssapi.dll,%syswow64%,%system32%\vssadmin.exe
+vssapi.dll,%system32%,%system32%\vssvc.exe
+vssapi.dll,%syswow64%,%system32%\vssvc.exe
+vssapi.dll,%system32%,%system32%\wbengine.exe
+vssapi.dll,%syswow64%,%system32%\wbengine.exe
+mscms.dll,%system32%,%system32%\colorcpl.exe
+mscms.dll,%syswow64%,%system32%\colorcpl.exe
+mscms.dll,%system32%,%system32%\dccw.exe
+mscms.dll,%syswow64%,%system32%\dccw.exe
+cryptxml.dll,%system32%,%system32%\clipup.exe
+cryptxml.dll,%syswow64%,%system32%\clipup.exe
+cryptxml.dll,%system32%,%system32%\sppsvc.exe
+cryptxml.dll,%syswow64%,%system32%\sppsvc.exe
+vsstrace.dll,%system32%,%system32%\bootim.exe
+vsstrace.dll,%syswow64%,%system32%\bootim.exe
+vsstrace.dll,%system32%,%system32%\resetengine.exe
+vsstrace.dll,%syswow64%,%system32%\resetengine.exe
+vsstrace.dll,%system32%,%system32%\rstrui.exe
+vsstrace.dll,%syswow64%,%system32%\rstrui.exe
+vsstrace.dll,%system32%,%system32%\sdclt.exe
+vsstrace.dll,%syswow64%,%system32%\sdclt.exe
+vsstrace.dll,%system32%,%system32%\srtasks.exe
+vsstrace.dll,%syswow64%,%system32%\srtasks.exe
+vsstrace.dll,%system32%,%system32%\systemreset.exe
+vsstrace.dll,%syswow64%,%system32%\systemreset.exe
+vsstrace.dll,%system32%,%system32%\vssadmin.exe
+vsstrace.dll,%syswow64%,%system32%\vssadmin.exe
+vsstrace.dll,%system32%,%system32%\vssvc.exe
+vsstrace.dll,%syswow64%,%system32%\vssvc.exe
+vsstrace.dll,%system32%,%system32%\wbengine.exe
+vsstrace.dll,%syswow64%,%system32%\wbengine.exe
+winrnr.dll,%system32%,%system32%\ftp.exe
+winrnr.dll,%syswow64%,%system32%\ftp.exe
+winrnr.dll,%system32%,%system32%\hostname.exe
+winrnr.dll,%syswow64%,%system32%\hostname.exe
+winrnr.dll,%system32%,%system32%\stordiag.exe
+winrnr.dll,%syswow64%,%system32%\stordiag.exe
+winrnr.dll,%system32%,%programfiles%\mozilla firefox\firefox.exe
+winrnr.dll,%syswow64%,%programfiles%\mozilla firefox\firefox.exe
+msctf.dll,%system32%,%system32%\conhost.exe
+msctf.dll,%syswow64%,%system32%\conhost.exe
+msctf.dll,%system32%,%system32%\filehistory.exe
+msctf.dll,%syswow64%,%system32%\filehistory.exe
+msctf.dll,%system32%,%system32%\mstsc.exe
+msctf.dll,%syswow64%,%system32%\mstsc.exe
+msctf.dll,%system32%,%system32%\wordpad.exe
+msctf.dll,%syswow64%,%system32%\wordpad.exe
+msctf.dll,%system32%,%programfiles%\microsoft\edge\application\msedge.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft\edge\application\msedge.exe
+msctf.dll,%system32%,%programfiles%\microsoft office\root\office%version%\excel.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\excel.exe
+msctf.dll,%system32%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+msctf.dll,%system32%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\powerpnt.exe
+msctf.dll,%system32%,%programfiles%\microsoft office\root\office%version%\winword.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft office\root\office%version%\winword.exe
+msctf.dll,%system32%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+msctf.dll,%syswow64%,%programfiles%\microsoft\edgewebview\application\%version%\msedgewebview2.exe
+winnsi.dll,%system32%,%system32%\netsh.exe
+winnsi.dll,%syswow64%,%system32%\netsh.exe
+aclui.dll,%system32%,%programfiles%\windows kits\10\bin\%version%\x86\oleview.exe
+aclui.dll,%syswow64%,%programfiles%\windows kits\10\bin\%version%\x86\oleview.exe
+outllib.dll,%programfiles%\microsoft office\office%version%,%programfiles%\microsoft office\office%version%\outlook.exe
+outllib.dll,%programfiles%\microsoft office\root\office%version%,%programfiles%\microsoft office\office%version%\outlook.exe
+outllib.dll,%programfiles%\microsoft office\office%version%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+outllib.dll,%programfiles%\microsoft office\root\office%version%,%programfiles%\microsoft office\root\office%version%\outlook.exe
+hha.dll,%system32%,%programfiles%\html help workshop\hhc.exe
+hha.dll,%programfiles%\html help workshop,%programfiles%\html help workshop\hhc.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x86,%programfiles%\windows kits\10\bin\%version%\x86\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x64,%programfiles%\windows kits\10\bin\%version%\x86\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\arm64,%programfiles%\windows kits\10\bin\%version%\x86\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x86,%programfiles%\windows kits\10\bin\%version%\x64\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x64,%programfiles%\windows kits\10\bin\%version%\x64\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\arm64,%programfiles%\windows kits\10\bin\%version%\x64\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x86,%programfiles%\windows kits\10\bin\%version%\arm64\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\x64,%programfiles%\windows kits\10\bin\%version%\arm64\oleview.exe
+iviewers.dll,%programfiles%\windows kits\10\bin\%version%\arm64,%programfiles%\windows kits\10\bin\%version%\arm64\oleview.exe
