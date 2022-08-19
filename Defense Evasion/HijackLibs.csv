@@ -10,6 +10,8 @@ lockdown.dll,%programfiles%\mcafee\virusscan enterprise,mfeann.exe
 vsodscpl.dll,%programfiles%\mcafee\virusscan enterprise,scncfg32.exe
 ashldres.dll,%programfiles%\mcafee.com\vso,mcvsshld.exe
 version.dll,%appdata%\zoom\bin,%appdata%\zoom\bin\zoom.exe
+version.dll,%system32%,%appdata%\zoom\bin\zoom.exe
+version.dll,%syswow64%,%appdata%\zoom\bin\zoom.exe
 qrt.dll,%programfiles%\f-secure\anti-virus,qrtfix.exe
 providers.dll,,%programfiles%\nodejs\node.exe
 shfolder.dll,%system32%,%system32%\vmnat.exe
