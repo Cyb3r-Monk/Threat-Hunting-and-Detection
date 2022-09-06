@@ -52,7 +52,7 @@ HijackLibs
                             FolderPath startswith "C:\\ProgramData", tolower(replace_string(tolower(FolderPath), 'c:\\programdata', '%programdata%')),
                             FolderPath has "AppData\\Local", tolower(replace_regex(tolower(FolderPath), @'c:\\users\\.*\\appdata\\local', '%localappdata%')),
                             FolderPath has "AppData\\Roaming", tolower(replace_regex(tolower(FolderPath), @'c:\\users\\.*\\appdata\\roaming', '%appdata%')),
-                            tolower(InitiatingProcessFileName)),
+                            tolower(FolderPath)),
             Process = case( InitiatingProcessFolderPath has_all ('WindowsApps', 'msteams.exe'), tolower('%PROGRAMFILES%\\WindowsApps\\MicrosoftTeams%VERSION%\\msteams.exe'),
                             InitiatingProcessFolderPath has_all ('Windows Kits', 'x86', 'oleview.exe'), tolower('%PROGRAMFILES%\\Windows Kits\\10\\bin\\%VERSION%\\x86\\oleview.exe'),
                             InitiatingProcessFolderPath has_all ('Windows Kits', 'x64', 'oleview.exe'), tolower('%PROGRAMFILES%\\Windows Kits\\10\\bin\\%VERSION%\\x64\\oleview.exe'),
@@ -70,7 +70,7 @@ HijackLibs
                             InitiatingProcessFolderPath startswith "C:\\ProgramData", tolower(replace_string(tolower(InitiatingProcessFolderPath), 'c:\\programdata', '%programdata%')),
                             InitiatingProcessFolderPath has "AppData\\Local", tolower(replace_regex(tolower(InitiatingProcessFolderPath), @'c:\\users\\.*\\appdata\\local', '%localappdata%')),
                             InitiatingProcessFolderPath has "AppData\\Roaming", tolower(replace_regex(tolower(InitiatingProcessFolderPath), @'c:\\users\\.*\\appdata\\roaming', '%appdata%')),
-                            tolower(InitiatingProcessFileName)),
+                            tolower(InitiatingProcessFolderPath)),
             DLLName = tolower(FileName)
     )
     on Process, DLLName
