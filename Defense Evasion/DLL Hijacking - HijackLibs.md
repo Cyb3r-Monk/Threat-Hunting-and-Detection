@@ -14,7 +14,7 @@ Tables  : DeviceImageLoadEvents
 
 Below query detects DLL Hijacking that involves the DLLs and Processes shared by [Wietze](https://twitter.com/Wietze) in the [HijackLibs](https://github.com/wietze/HijackLibs) repo. False Positives(especially zoom.exe) and some false negatives might happen since the query is prepared in a semi-automated way.
 
-**NOTE:** The query uses the HijakLibs data as of 2022/08/14 18:36. It will be updated on a regular basis.
+**NOTE:** The query uses the HijakLibs data as of 2022/09/06 19:20. It will be updated on a regular basis.
 
 ## How Query Works
 All YAML files are parsed into a CSV file only with the DLL Name, ExpectedLocations and VulnerableExecutables fields. The CSV file can be find here
