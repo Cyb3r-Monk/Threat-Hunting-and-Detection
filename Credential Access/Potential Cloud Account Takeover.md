@@ -31,9 +31,8 @@ Below query detects if a user signs in from an IP address that has not been obse
 //
 // Query parameters:
 //
-// put FQDNs of the DCs into the list
 let query_period = 3h; // change it according to your needs
-let look_back = 15d;
+let look_back = 14d;
 let SuspiciousUPNs =
     union SigninLogs, AADNonInteractiveUserSignInLogs
     | where TimeGenerated > ago(query_period)
