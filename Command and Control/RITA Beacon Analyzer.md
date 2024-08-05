@@ -46,6 +46,8 @@ let MaxJitterInSeconds = 30.0; // covers beacons that have 30 seconds jitter
 let MaxDataJitterinBytes = 32.0; // covers beacons that have 30 seconds data(sent bytes) jitter
 // Define how many devices can have the same beacon. 
 let CompromisedDeviceCountMax = 5; // increasing the value generates more results.
+//get process and DNS information from the VMConnections table to enrich the potential beacon results
+let connectionInfo = VMConnection | where TimeGenerated > ago(30d) | where isnotempty(RemoteDnsCanonicalNames) |  summarize ProcessList = make_set(ProcessName), RemoteDnsCanonicalNames=make_set(tostring(RemoteDnsCanonicalNames)) by RemoteIp; 
 let AllBeacons = materialize (
     // Start: condition for the network traffix (fw/proxy/etc)
     VMConnection
@@ -132,6 +134,8 @@ let PrevalanceData = VMConnection | where TimeGenerated between (ago(starttime +
 // Enrich beacons with prevlance data
 PotentialBeacons
 | join kind=leftouter PrevalanceData on DestinationIp
-| project-reorder score, min_TimeGenerated, max_TimeGenerated, Computer, DestinationIp, Protocol, DestinationPort, ConnectionCount, duration_minutes, TotalBytesReceived, TotalBytesSent
+| where DestinationIp != "127.0.0.1" and not(ipv4_is_private(DestinationIp)) 
+| join kind=leftouter connectionInfo on $left.DestinationIp == $right.RemoteIp 
+| project-reorder score, min_TimeGenerated, max_TimeGenerated, Computer, DestinationIp, RemoteDnsCanonicalNames, ProcessList,  Protocol, DestinationPort, ConnectionCount, duration_minutes, TotalBytesReceived, TotalBytesSent  
 | sort by score desc, ConnectionCount desc, DestinationPrevalence asc
 ```
