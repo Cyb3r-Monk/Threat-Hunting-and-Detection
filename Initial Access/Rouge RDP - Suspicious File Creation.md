@@ -1,4 +1,4 @@
-# DLL Hijacking: Loading from an Unusual Directory
+# Rouge RDP: Suspicious File Creation
 
 **Author:** Cyb3rMonk ( [Medium](https://mergene.medium.com), [Twitter](https://twitter.com/Cyb3rMonk), [Website](https://academy.bluraven.io) )
 
