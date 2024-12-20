@@ -1,6 +1,18 @@
 # Spearphishing Attachment: ISO Images
 **Author:** Cyb3rMonk ( [Medium](https://mergene.medium.com), [Twitter](https://twitter.com/Cyb3rMonk) )
 
+## Quick Links
+
+* Blu Raven Academy Home - [https://academy.bluraven.io](https://academy.bluraven.io/?utm_source=githubthderepo)
+  
+* Blu Raven Academy Courses - [https://academy.bluraven.io/courses](https://academy.bluraven.io/courses/?utm_source=githubthderepo)
+
+* Blu Raven Academy Pricing - [https://academy.bluraven.io/pricing](https://academy.bluraven.io/pricing/?utm_source=githubthderepo)
+
+* Blu Raven Academy Blog - [https://academy.bluraven.io/blog](https://academy.bluraven.io/blog/?utm_source=githubthderepo)
+
+## Details
+
 **Link to Original Post**: [Part-1 (Medium)](https://mergene.medium.com/detecting-initial-access-html-smuggling-and-iso-images-part-1-c4f953edd13f?source=friends_link&sk=e685d7d44928edd142972a4041463f10), 
 [Part-2 (Medium)](https://mergene.medium.com/detecting-initial-access-html-smuggling-and-iso-images-part-2-f8dd600430e2?source=friends_link&sk=38b7cd310a4929c25d3eefc545683d5f)
 

@@ -1,6 +1,18 @@
 # Scheduled Task - Suspicious Network Connection
 **Author:** Cyb3rMonk ( [Medium](https://mergene.medium.com), [Twitter](https://twitter.com/Cyb3rMonk) )
 
+## Quick Links
+
+* Blu Raven Academy Home - [https://academy.bluraven.io](https://academy.bluraven.io/?utm_source=githubthderepo)
+  
+* Blu Raven Academy Courses - [https://academy.bluraven.io/courses](https://academy.bluraven.io/courses/?utm_source=githubthderepo)
+
+* Blu Raven Academy Pricing - [https://academy.bluraven.io/pricing](https://academy.bluraven.io/pricing/?utm_source=githubthderepo)
+
+* Blu Raven Academy Blog - [https://academy.bluraven.io/blog](https://academy.bluraven.io/blog/?utm_source=githubthderepo)
+
+## Details
+
 **Link to Original Post**: [Medium](https://mergene.medium.com/hunting-for-the-behavior-scheduled-tasks-9efe0b8ade40)
 
 Language: Azure KQL

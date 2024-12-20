@@ -2,6 +2,17 @@
 
 **Author:** Cyb3rMonk ( [Medium](https://mergene.medium.com), [Twitter](https://twitter.com/Cyb3rMonk), [Mastodon](https://infosec.exchange/@cyb3rmonk) )
 
+## Quick Links
+
+* Blu Raven Academy Home - [https://academy.bluraven.io](https://academy.bluraven.io/?utm_source=githubthderepo)
+  
+* Blu Raven Academy Courses - [https://academy.bluraven.io/courses](https://academy.bluraven.io/courses/?utm_source=githubthderepo)
+
+* Blu Raven Academy Pricing - [https://academy.bluraven.io/pricing](https://academy.bluraven.io/pricing/?utm_source=githubthderepo)
+
+* Blu Raven Academy Blog - [https://academy.bluraven.io/blog](https://academy.bluraven.io/blog/?utm_source=githubthderepo)
+
+## Details
 
 **Link to Original Post**: [Medium](https://posts.bluraven.io/detecting-azure-ad-account-takeover-attacks-b2652bb65a4c)
 
