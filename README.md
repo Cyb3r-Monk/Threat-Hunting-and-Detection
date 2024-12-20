@@ -12,9 +12,9 @@ Repository for threat hunting and detection queries, tools, etc.
 
 * Blu Raven Academy Blog - [https://academy.bluraven.io/blog](https://academy.bluraven.io/blog/?utm_source=githubthderepo)
 
-## Details
 
-## Learn Kusto Query Language (KQL)
+
+# Learn Kusto Query Language (KQL)
 If you want to elevate your threat hunting, detection engineering, and incident response skills using KQL, [check out my KQL courses!](https://academy.bluraven.io/?utm_source=githubthderepo)
 
 <p align="center">
