@@ -34,14 +34,14 @@ The query below detects loading or creation of a vulnerable driver that is liste
 // Author: Cyb3rMonk(https://twitter.com/Cyb3rMonk, https://academy.bluraven.io)
 //
 // Query parameters:
-let driver_block_list = externaldata (line:string) [@"https://raw.githubusercontent.com/MicrosoftDocs/windows-itpro-docs/refs/heads/public/windows/security/application-security/application-control/app-control-for-business/design/microsoft-recommended-driver-block-rules.md"]
-    with (format=txt)
-| parse-where line with * 'FriendlyName="' FriendlyName ' Hash' * 'Hash="' Hash '"' * 
-| project FriendlyName, HashType = iff(line has "Sha1", "SHA1", "SHA256"), HashValue=Hash
+let driver_block_list = externaldata (driver:dynamic) [@"https://raw.githubusercontent.com/Cyb3r-Monk/Microsoft-Vulnerable-Driver-Block-Lists/refs/heads/main/msft_vuln_driver_block_list.json"]
+    with (format=multijson, ingestionMapping='[{"Column":"driver","Properties":{"Path":"$"}}]')
+| evaluate bag_unpack(driver)
 ;
 let driver_hashes = toscalar(
     driver_block_list
-    | summarize make_set(HashValue)
+    | where isnotempty(FileHash)
+    | summarize make_set(tolower(FileHash))
     )
 ;
 union 
