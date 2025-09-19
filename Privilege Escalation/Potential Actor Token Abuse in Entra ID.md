@@ -59,6 +59,6 @@ AuditLogs
 | where isnotempty(InitiatedBy.user.userPrincipalName) // remove this if you want to see operations not having UPN (for hunting purposes)
 | where InitiatedBy.user.displayName has_any ( "Office 365 Exchange Online", "Skype for Business Online", "Dataverse", "Office 365 SharePoint Online", "Microsoft Dynamics ERP")
 | extend ActivityIPAddress = tostring(InitiatedBy.user.ipAddress), Service = tostring(InitiatedBy.user.displayName), UserPrincipalName = tostring(InitiatedBy.user.userPrincipalName)
-| where not (ipv4_is_in_any_range(ActivityIPAddress, M365IPRanges) or ipv4_is_in_any_range(ActivityIPAddress, M365IPRanges))
+| where not (ipv4_is_in_any_range(ActivityIPAddress, M365IPRanges) or ipv6_is_in_any_range(ActivityIPAddress, M365IPRanges))
 | project-reorder TimeGenerated, Service, UserPrincipalName, ActivityIPAddress, OperationName
 ```
