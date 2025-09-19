@@ -23,7 +23,10 @@ Tables  : AuditLogs
 
 ## Description
 
-The query below detects activities where Actoken Token is used but the activity doesn't originate from Microsoft 365 IP addresses. Service to Service (S2S) operations are expected to originate from Microsoft IP addresses.
+The query below detects activities where Actoken Token is used but the activity doesn't originate from Microsoft 365 IP addresses. Service to Service (S2S) operations are expected to originate from Microsoft IP addresses. 
+
+> [!WARNING]  
+> You may still see some false positives where the IP address belongs to your environment.*
 
 ## References 
 - [CVE-2025-55241](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55241)
