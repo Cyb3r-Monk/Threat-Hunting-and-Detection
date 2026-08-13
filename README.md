@@ -14,8 +14,8 @@ Repository for threat hunting and detection queries, tools, etc.
 
 
 
-# Learn Kusto Query Language (KQL)
-If you want to elevate your threat hunting, detection engineering, and incident response skills using KQL, [check out my KQL courses!](https://academy.bluraven.io/?utm_source=githubthderepo)
+# Learn Threat Hunting, Detection Engineering, and Kusto Query Language (KQL)
+If you want to elevate your threat hunting, detection engineering, and incident response skills, [check out my courses!](https://academy.bluraven.io/?utm_source=githubthderepo)
 
 <p align="center">
 <a href="https://academy.bluraven.io/?utm_source=githubrepo" target="_blank">
