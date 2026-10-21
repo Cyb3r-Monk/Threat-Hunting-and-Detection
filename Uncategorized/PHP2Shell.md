@@ -1,4 +1,4 @@
-# Detection Opportunities for PHP2Shell (CVE-2026-54121)
+# Detection Opportunities for PHP2Shell
 
 **Author:** Cyb3rMonk ( [Website](https://academy.bluraven.io), [Twitter](https://twitter.com/Cyb3rMonk) )
 
